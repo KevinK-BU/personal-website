@@ -3,24 +3,23 @@ This is my personal website! Built with CSS, HTML, and Javascript, this website 
 I built this website independently to provide a clean, interactive, and accessible space for future collaborators, recruiters and peers to learn about me!
 
 Structure of files:
-
 src/
-|-- assets/
-|---- images/
-|------ github.png
-|------ resume.png
-|------ kevinkupeli.png
-|------ linkedin.png
-|------ vintage_record.png
-|---- resume.pdf
-|-- projects/
-|---- projects-hack.html
-|---- projects-in-class.html
-|---- projects-personal.html
-|-- index.html
-|-- about.html
-|-- coursework.html
-|-- projects.html
-|-- styles.css
-|-- site.js
-|-- README.md
+├── assets/
+│   ├── images/
+│   │   ├── github.png
+│   │   ├── resume.png
+│   │   ├── kevinkupeli.png
+│   │   ├── linkedin.png
+│   │   └── vintage_record.png
+│   └── resume.pdf
+├── projects/
+│   ├── projects-hack.html
+│   ├── projects-in-class.html
+│   └── projects-personal.html
+├── index.html
+├── about.html
+├── coursework.html
+├── projects.html
+├── styles.css
+├── site.js
+└── README.md
