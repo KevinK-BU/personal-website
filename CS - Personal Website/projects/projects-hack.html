@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="../styles.css">
+    <script src="../site.js" defer></script>
+    <title>Kevin Kupeli | Projects</title>
+</head>
+<body>
+    <ul class="navbar">
+        <li><a href="../index.html" class = "nav-button">Home</a></li>
+        <li><a href="../about.html"class = "nav-button">About Me</a></li>
+        <li><a href = "../projects.html"class = "nav-button">Projects</a></li>
+        <li><a href = "../coursework.html"class = "nav-button">Coursework</a></li>
+    </ul>
+
+    <main>
+    <h1 class = "projects-h1">
+            My Hackathon Projects &#128421;
+    </h1>
+    <div class = "project-container">
+
+    </div>
+    <div class = "all-buttons">
+        <button class = "cycle-button" onclick="location.href='projects-in-class.html'">
+            In-Class Projects
+        </button>
+        <button class = "cycle-button" onclick="location.href='projects-personal.html'">
+            Personal Projects
+        </button>
+        <div class = "back-button-container">
+        <button class ="back-button" onclick ="location.href = '../projects.html'">
+            Back to Main Projects Page
+        </button>
+        </div>
+    </div>
+
+    <div class = "project-list">
+        <ul class = "project-items">
+            <li class = "project-item">
+                <h2 class = "project-title">Re: Sustainability Education App </h2>
+                <p class = "project-description">"Re" is a web application that tries to tackle the issue of misinformation around recyclables by 
+                    gamifying the experience! Developed with a team of fellow Computer Science students at the Boston University Civic Hacks Hackathon, 
+                    I created all of the apps assets and helped design the UI of the application. This project was the first time I had ever contributed 
+                    to the development of a web-application, but I learned a lot of skills from my teammates that I would bring with me into future endeavors. </p>
+
+                <a href="https://github.com/jessien53/re_app_civic_hacks" class = "project-link" target="_blank">View on GitHub</a>
+                <p class = "project-showcase">Click below to view some screenshots of "Re" in action!</p>
+                <div class="image-container">
+                    <img src="../assets/images/re-screenshots/re-ss1.png" onclick="openLightboxRe(0)">
+                    <img src="../assets/images/re-screenshots/re-ss2.png" onclick="openLightboxRe(1)">
+                    <img src="../assets/images/re-screenshots/re-ss3.png" onclick="openLightboxRe(2)">
+                </div>
+                <div id="lightbox-re" class="lightbox hidden">
+                    <span class="close-btn" onclick="closeLightboxRe()">&times;</span>
+                    <img id="lightbox-img-re" src="" alt="Full View">
+                    <span class="arrow left" onclick="prevImageRe()">&#10094;</span>
+                    <span class="arrow right" onclick="nextImageRe()">&#10095;</span>
+                </div>
+            </li>
+            <li class = "project-item">
+                <h2 class = "project-title">Clock In: A Study Website for Students by Students</h2>
+                <p class = "project-description">"Clock In", is a website meant to help students with low self-efficacy in the realm of productivity 
+                    not only get started but also remain focused in completing tasks. Built for the Simmons University Shark Hacks Hackathon 2025, I created the skeleton for the website, made the ascending timer 
+                    feature, and also debugged pathing issues within the project. In the future, I plan to continue adding features and cleaning up the 
+                    files of the project. </p>
+                <a href="https://github.com/KevinK-BU/shark-hacks-study-website" class = "project-link" target="_blank">View on GitHub</a>
+                <p class = "project-showcase">Click below to view some screenshots of "Clock In" in action!</p>
+                <div class="image-container">
+                    <img src="../assets/images/clock-in-screenshots/clock-inss3.png" onclick="openLightboxClock(0)">
+                    <img src="../assets/images/clock-in-screenshots/clock-in-ss1.png" onclick="openLightboxClock(1)">
+                    <img src="../assets/images/clock-in-screenshots/clock-inss2.png" onclick="openLightboxClock(2)">
+                </div>
+                <div id="lightbox-clock" class="lightbox hidden">
+                    <span class="close-btn" onclick="closeLightboxClock()">&times;</span>
+                    <img id="lightbox-img-clock" src="" alt="Full View">
+                    <span class="arrow left" onclick="prevImageClock()">&#10094;</span>
+                    <span class="arrow right" onclick="nextImageClock()">&#10095;</span>
+                </div>
+            </li>
+            
+    </div>
+    </main>
+<footer class="footer">
+    <div class = "github-section">
+    <a href = "https://github.com/KevinK-BU?tab=repositories" class = "github-link" target="_blank">
+        <img src="../assets/images/github.png" alt="GitHub Logo" class = "github-logo" />
+    </a>
+    <p class = "github-text">
+        GitHub
+    </p>
+</div>
+    <div class = "resume-section">
+    <a href = "../assets/resume.pdf" class = "resume-link" target="_blank">
+        <img src="../assets/images/resume.png" alt="Resume Icon" class = "resume-icon" />
+    </a>
+    <p class = "resume-text">
+        Resume
+    </p>
+</div>
+<div class = "linkedin-section">
+    <a href = "https://www.linkedin.com/in/kevinkupeli/" class = "linkedin-link" target="_blank">
+        <img src="../assets/images/linkedin.png" alt="LinkedIn Logo" class = "linkedin-logo" />
+    </a>
+    <p class = "linkedin-text">
+        LinkedIn
+    </p>
+</div>
+</footer>
+</body>
+</html>
