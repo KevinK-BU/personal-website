@@ -1,0 +1,63 @@
+.spotify-stats {
+  font-family: inherit;
+  max-width: 320px;
+}
+
+.spotify-stats h3 {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.7;
+  margin: 0 0 0.75rem;
+}
+
+.spotify-top-track {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.spotify-top-track img {
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+.spotify-top-track div {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.spotify-top-track strong {
+  font-size: 0.95rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.spotify-top-track span {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+.spotify-top-track small {
+  font-size: 0.75rem;
+  opacity: 0.5;
+  margin-top: 0.2rem;
+}
+
+.spotify-top-artists {
+  list-style: decimal;
+  padding-left: 1.1rem;
+  margin: 0;
+  font-size: 0.85rem;
+}
+
+.spotify-top-artists li {
+  margin-bottom: 0.2rem;
+}
+
+.spotify-top-artists small {
+  opacity: 0.5;
+}
