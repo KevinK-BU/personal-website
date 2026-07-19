@@ -1,19 +1,19 @@
 {
-  "week_start": "2026-07-12T16:11:07.097Z",
-  "week_end": "2026-07-19T16:11:07.097Z",
-  "total_plays": 50,
+  "week_start": "2026-07-12T16:41:55.654Z",
+  "week_end": "2026-07-19T16:41:55.654Z",
+  "total_plays": 51,
   "top_track": {
     "name": "the cure",
     "artists": [
       "Olivia Rodrigo"
     ],
-    "play_count": 2,
+    "play_count": 3,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
   },
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Bad Bunny",
@@ -24,5 +24,5 @@
       "count": 4
     }
   ],
-  "updated_at": "2026-07-19T16:11:07.098Z"
+  "updated_at": "2026-07-19T16:41:55.655Z"
 }
