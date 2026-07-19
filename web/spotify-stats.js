@@ -58,6 +58,7 @@ function renderSpotifyStats(stats) {
       ${
         artists.length
           ? `
+        <p>My top artists this week:</p>
         <ol class="spotify-top-artists">
           ${artists.map((a) => `<li>${escapeHtml(a.name)} <small>(${a.count})</small></li>`).join('')}
         </ol>
