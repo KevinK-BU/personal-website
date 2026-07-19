@@ -256,19 +256,6 @@ About Page CSS
 *
 */
 
-.about-h1,.about-h2,.about-h3{
-    box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: calc(1px + 1.59vw);
-    color: #ffffff;
-    text-align: left;
-    background-color: #49433b;
-    padding: 0.25em 0.75em;
-    border-radius: 0.62vw;
-    margin-bottom: 1.25vw;
-    max-width: 30%;
-}
 .why-cs, .tech-skills-heading{
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
     font-family: 'Courier New', Courier, monospace;
