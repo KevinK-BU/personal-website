@@ -488,6 +488,31 @@ Projects Page CSS
 *
 */
 
+.project-links {
+    display: flex;
+    flex-direction: row;
+    gap: 0.62vw;
+    list-style: none;
+    background: none;
+    margin: 1.5vw;
+    justify-content: space-evenly;
+    padding: 0;
+
+}
+
+.project-link {
+    color: #ffffff;
+    background-color: #7d7365;
+    padding: 0.62vw 1.25vw;
+    border-radius: 0.62vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: calc(1px + 0.85vw);
+    text-align: center;
+    text-decoration: none;
+    box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
+}
+
 .project-items {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -497,7 +522,7 @@ Projects Page CSS
     margin: 0 2.5%;
 }
 
-.project-items li {
+.project-item {
     font-family: 'Courier New', Courier, monospace;
     font-size: calc(1px + 0.85vw);
     color: #ffffff;
@@ -616,6 +641,10 @@ Projects Page CSS
     position: relative;
     height: auto;
     margin-top: 1.25vw;
+}
+
+.image-container img {
+    margin: 0 auto;
 }
 
 .projectss {
