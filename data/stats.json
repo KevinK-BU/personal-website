@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-13T13:43:53.536Z",
-  "week_end": "2026-07-20T13:43:53.536Z",
-  "total_plays": 100,
+  "week_start": "2026-07-13T17:18:42.715Z",
+  "week_end": "2026-07-20T17:18:42.715Z",
+  "total_plays": 117,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -16,13 +16,13 @@
       "count": 19
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 14
+      "name": "Bad Bunny",
+      "count": 16
     },
     {
-      "name": "Beyoncé",
-      "count": 10
+      "name": "Olivia Rodrigo",
+      "count": 14
     }
   ],
-  "updated_at": "2026-07-20T13:43:53.537Z"
+  "updated_at": "2026-07-20T17:18:42.716Z"
 }
