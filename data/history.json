@@ -1076,5 +1076,23 @@
       "Puyalo Pantera"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273376bc63e136dbcb7eeab00c6"
+  },
+  {
+    "played_at": "2026-07-20T17:17:53.677Z",
+    "track_id": "0k1hbeZodoEw34FAdbh8xM",
+    "track_name": "Brujeria",
+    "artists": [
+      "El Gran Combo De Puerto Rico"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739012dd213d3d33cb5c3d1ec0"
+  },
+  {
+    "played_at": "2026-07-20T20:56:03.508Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
   }
 ]
