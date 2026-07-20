@@ -442,6 +442,7 @@ About Page CSS
 
 
 .contact-link {
+    border: 2px solid #49433b;
     font-family: 'Courier New', Courier, monospace;
     font-size: calc(1px + 1.06vw);
     color: #ffffff;
@@ -492,7 +493,8 @@ Projects Page CSS
     grid-template-columns: repeat(2, 1fr);
     gap: 1.25vw;
     list-style: none;
-    margin-right: 2.5%
+    padding: 0;
+    margin: 0 2.5%;
 }
 
 .project-items li {
@@ -530,6 +532,7 @@ Projects Page CSS
     padding: 1.25vw;
     width: 50%;
     font-family: 'Courier New', Courier, monospace;
+    font-size: calc(1px + 0.85vw);
     color: #ffffff;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
 }
@@ -611,7 +614,6 @@ Projects Page CSS
 /* Make sure project images are visible */
 .image-container {
     position: relative;
-    width: 200px; /* smaller width */
     height: auto;
     margin-top: 1.25vw;
 }
@@ -687,7 +689,7 @@ Projects Page CSS
 
 .image-container img {
     display: none; /* hide all images by default */
-    max-width: 300px;
+    max-width: 40vw;
     height: auto;
     cursor: pointer;
     border-radius: 8px;

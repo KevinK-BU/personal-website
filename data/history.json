@@ -466,5 +466,456 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-07-19T16:42:47.838Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-07-19T16:46:33.853Z",
+    "track_id": "3BxWKCI06eQ5Od8TY2JBeA",
+    "track_name": "Buttons",
+    "artists": [
+      "The Pussycat Dolls"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
+  },
+  {
+    "played_at": "2026-07-19T21:06:34.640Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-20T05:20:00.039Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-20T05:25:14.693Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-07-20T05:35:53.134Z",
+    "track_id": "3LgWsmilsrWXiPYQFRD0T7",
+    "track_name": "goodbye",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-07-20T05:40:21.217Z",
+    "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
+    "track_name": "WILDFLOWER",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T05:45:32.278Z",
+    "track_id": "4RVwu0g32PAqgUiJoXsdF8",
+    "track_name": "Happier Than Ever",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+  },
+  {
+    "played_at": "2026-07-20T05:49:36.464Z",
+    "track_id": "4QIo4oxwzzafcBWkKjDpXY",
+    "track_name": "xanny",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-07-20T05:52:00.250Z",
+    "track_id": "3WOhcATHxK2SLNeP5W3v1v",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27383730a51081258e1358e9edc"
+  },
+  {
+    "played_at": "2026-07-20T05:54:56.556Z",
+    "track_id": "0CrcwVLUe8wzLUIXgjXVZJ",
+    "track_name": "Kill Bill (feat. Doja Cat)",
+    "artists": [
+      "SZA",
+      "Doja Cat"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da137b20a10303e6f551313b"
+  },
+  {
+    "played_at": "2026-07-20T05:58:36.736Z",
+    "track_id": "1CsMKhwEmNnmvHUuO5nryA",
+    "track_name": "SKINNY",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T06:01:50.329Z",
+    "track_id": "4SSnFejRGlZikf02HLewEF",
+    "track_name": "bury a friend",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-07-20T06:04:14.115Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-07-20T06:08:55.945Z",
+    "track_id": "3GYlZ7tbxLOxe6ewMNVTkw",
+    "track_name": "TV",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318"
+  },
+  {
+    "played_at": "2026-07-20T06:11:30.339Z",
+    "track_id": "3OHfY25tqY28d16oZczHc8",
+    "track_name": "Kill Bill",
+    "artists": [
+      "SZA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
+  },
+  {
+    "played_at": "2026-07-20T06:14:58.408Z",
+    "track_id": "30QD4VRP9yEneOh0eGTrtJ",
+    "track_name": "Solitude",
+    "artists": [
+      "Billie Holiday"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27334708df3636189370a12e6c1"
+  },
+  {
+    "played_at": "2026-07-20T06:17:56.378Z",
+    "track_id": "7eB1V5LvAdxCc7brfGhRRo",
+    "track_name": "watch",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795"
+  },
+  {
+    "played_at": "2026-07-20T06:21:59.499Z",
+    "track_id": "0tMSssfxAL2oV8Vri0mFHE",
+    "track_name": "listen before i go",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-07-20T06:25:23.526Z",
+    "track_id": "41zXlQxzTi6cGAjpOXyLYH",
+    "track_name": "idontwannabeyouanymore",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795"
+  },
+  {
+    "played_at": "2026-07-20T06:30:17.774Z",
+    "track_id": "6TGd66r0nlPaYm3KIoI7ET",
+    "track_name": "THE GREATEST",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T06:35:51.817Z",
+    "track_id": "6fPan2saHdFaIHuTSatORv",
+    "track_name": "L’AMOUR DE MA VIE",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T06:39:22.655Z",
+    "track_id": "6dOtVTDdiauQNBQEDOtlAB",
+    "track_name": "BIRDS OF A FEATHER",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T06:42:22.700Z",
+    "track_id": "629DixmZGHc7ILtEntuiWE",
+    "track_name": "LUNCH",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-07-20T06:45:23.050Z",
+    "track_id": "3Tc57t9l2O8FwQZtQOvPXK",
+    "track_name": "my strange addiction",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-07-20T06:49:55.879Z",
+    "track_id": "43zr9kKkeiQrshvYuvNtfM",
+    "track_name": "Someone To Call My Lover",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27312da16fd0dec009d45f7dca3"
+  },
+  {
+    "played_at": "2026-07-20T06:53:51.711Z",
+    "track_id": "5UhR5ud9gS6n0PgzsjZmQd",
+    "track_name": "Kitty Kat",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273632e4eafb2ffba59a2ae4500"
+  },
+  {
+    "played_at": "2026-07-20T06:57:29.322Z",
+    "track_id": "4bczJ3GBiORXUoeJ1rdXV4",
+    "track_name": "Cold Hearted - 7\" Edit",
+    "artists": [
+      "Paula Abdul"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731288d33d98dc7ee7eff8077d"
+  },
+  {
+    "played_at": "2026-07-20T07:01:05.270Z",
+    "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
+    "track_name": "deja vu",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-07-20T07:06:05.683Z",
+    "track_id": "6sHsXIJoEN5JpdkGMQDJxt",
+    "track_name": "The Boy Is Mine",
+    "artists": [
+      "Brandy",
+      "Monica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730e51dd1d3dc50fc541942c7c"
+  },
+  {
+    "played_at": "2026-07-20T07:09:52.276Z",
+    "track_id": "0K02tn1iPgxbHLh3BhJl2F",
+    "track_name": "Naive",
+    "artists": [
+      "Solange",
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f32a8412ba1e0bc12acc401f"
+  },
+  {
+    "played_at": "2026-07-20T07:14:36.664Z",
+    "track_id": "5HAv1Ckfe50DUjv8ghwTrz",
+    "track_name": "Escapade",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371511473d9e34fcdc13d90ef"
+  },
+  {
+    "played_at": "2026-07-20T07:21:09.039Z",
+    "track_id": "0755vnFQZLSgHHWbR1qCjY",
+    "track_name": "Rocket",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+  },
+  {
+    "played_at": "2026-07-20T07:25:22.720Z",
+    "track_id": "1ShRHPAiiIrh0arZbSFmx1",
+    "track_name": "Heavy",
+    "artists": [
+      "The Marías"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b"
+  },
+  {
+    "played_at": "2026-07-20T07:28:12.884Z",
+    "track_id": "6ouhsRJ7gExB7LCYjITk4Y",
+    "track_name": "Diet Pepsi",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
+  },
+  {
+    "played_at": "2026-07-20T10:10:32.831Z",
+    "track_id": "2Ulp8QRhy3KlclKzGYTzMy",
+    "track_name": "Sugar Walls",
+    "artists": [
+      "Sheena Easton"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273dfc950cdbce601d8cb2d058b"
+  },
+  {
+    "played_at": "2026-07-20T11:23:08.877Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-07-20T11:30:05.720Z",
+    "track_id": "5o8owuQvK4fjGv6QFRZTvN",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27334cf0f6c6a9efb3632c83ac6"
+  },
+  {
+    "played_at": "2026-07-20T11:32:12.770Z",
+    "track_id": "0NaUT74rJ0NHS62fewzatU",
+    "track_name": "I LOVE YOU HOE (w/ 9lives)",
+    "artists": [
+      "Odetari",
+      "9lives"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731775b27e9695b4f535eefd5c"
+  },
+  {
+    "played_at": "2026-07-20T11:35:55.414Z",
+    "track_id": "6ldwfK0yWgTAlmIfuQkTYN",
+    "track_name": "I'm a Slave 4 U",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273801ce9753a4f30a71fedb0fd"
+  },
+  {
+    "played_at": "2026-07-20T11:46:38.871Z",
+    "track_id": "63y6xWR4gXz7bnUGOk8iI6",
+    "track_name": "Into You",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c"
+  },
+  {
+    "played_at": "2026-07-20T11:57:06.234Z",
+    "track_id": "0Q9kIg9o8w1XKepXWmDUmT",
+    "track_name": "New York",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
+  },
+  {
+    "played_at": "2026-07-20T12:02:37.047Z",
+    "track_id": "2eQFYGegTZaObk2kuBz83Z",
+    "track_name": "Tú Con Él",
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b"
+  },
+  {
+    "played_at": "2026-07-20T12:04:56.174Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-07-20T12:06:06.474Z",
+    "track_id": "3YiLcCiradlmM0444dErzn",
+    "track_name": "Hey Brendon",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735e4a4e08337fbba6762fc1ca"
+  },
+  {
+    "played_at": "2026-07-20T12:13:52.973Z",
+    "track_id": "4ZYlzwjjAJrflwWg4DJTlT",
+    "track_name": "MORNING DEW (DONK)",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
+  },
+  {
+    "played_at": "2026-07-20T12:16:03.014Z",
+    "track_id": "3tmrwNhOKNDMUVg1Z924Aq",
+    "track_name": "FLAMENCO",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737a6168e5d9d4d4040e7347ae"
+  },
+  {
+    "played_at": "2026-07-20T12:24:10.156Z",
+    "track_id": "3HyR1j49TY5ACP2lseF1jx",
+    "track_name": "SUMMER RENAISSANCE",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-07-20T12:29:49.866Z",
+    "track_id": "7CA0mEKqEZ0WFAIlTS4uEl",
+    "track_name": "SWEET ★ HONEY ★ BUCKIIN'",
+    "artists": [
+      "Beyoncé",
+      "Shaboozey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
   }
 ]
