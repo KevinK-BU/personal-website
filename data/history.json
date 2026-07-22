@@ -1370,5 +1370,59 @@
       "Zara Larsson"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273ee8c1079ecfcf30f6836b9f7"
+  },
+  {
+    "played_at": "2026-07-21T21:50:37.442Z",
+    "track_id": "42tYHqMxXxXHAAWqLaoOfQ",
+    "track_name": "MacArthur Park - Single Version",
+    "artists": [
+      "Donna Summer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72"
+  },
+  {
+    "played_at": "2026-07-21T21:55:27.186Z",
+    "track_id": "5QCfOMH5K7bS4dH7H7PNeI",
+    "track_name": "Tonight",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-07-21T22:08:10.555Z",
+    "track_id": "6XcyAXAYKQD7FqCG2F2xOu",
+    "track_name": "Hot & Sexy",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
+  },
+  {
+    "played_at": "2026-07-21T22:11:18.109Z",
+    "track_id": "1c2AFg2WpURtpsOTMr6ZBX",
+    "track_name": "Fame is a Gun",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737eae5dee68960ef1652ff044"
+  },
+  {
+    "played_at": "2026-07-21T22:15:24.533Z",
+    "track_id": "1w7cgGZR86yWz1pA2puVJD",
+    "track_name": "HEATED",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-07-21T22:17:30.138Z",
+    "track_id": "3Y1EvIgEVw51XtgNEgpz5c",
+    "track_name": "Von dutch",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
