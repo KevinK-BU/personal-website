@@ -103,28 +103,55 @@ currentFashion = (currentFashion - 1 + imagesFashion.length) % imagesFashion.len
 lightboxImgFashion.src = imagesFashion[currentFashion].src;
 }
 
-//Clock In 2 Lightbox
-let currentClock2 = 0;
-const imagesClock2 = document.querySelectorAll('.image-container img[src*="clock-in-2-screenshots"]');
-const lightboxClock2 = document.getElementById('lightbox-clock-2');
-const lightboxImgClock2 = document.getElementById('lightbox-img-clock-2');
+//ClockIn Lightbox
+let currentClockIn = 0;
+const imagesClockIn = document.querySelectorAll('.image-container img[src*="clockin-screenshots"]');
+const lightboxClockIn = document.getElementById('lightbox-clockin');
+const lightboxImgClockIn = document.getElementById('lightbox-img-clockin');
 
-function openLightboxClock2(index) {
-currentClock2 = index;
-lightboxImgClock2.src = imagesClock2[currentClock2].src;
-lightboxClock2.classList.remove('hidden');
+function openLightboxClockIn(index) {
+currentClockIn = index;
+lightboxImgClockIn.src = imagesClockIn[currentClockIn].src;
+lightboxClockIn.classList.remove('hidden');
 }
 
-function closeLightboxClock2() {
-lightboxClock2.classList.add('hidden');
+function closeLightboxClockIn() {
+lightboxClockIn.classList.add('hidden');
 }
 
-function nextImageClock2() {
-currentClock2 = (currentClock2 + 1) % imagesClock2.length;
-lightboxImgClock2.src = imagesClock2[currentClock2].src;
+function nextImageClockIn() {
+currentClockIn = (currentClockIn + 1) % imagesClockIn.length;
+lightboxImgClockIn.src = imagesClockIn[currentClockIn].src;
 }
 
-function prevImageClock2() {
-currentClock2 = (currentClock2 - 1 + imagesClock2.length) % imagesClock2.length;
-lightboxImgClock2.src = imagesClock2[currentClock2].src;
+function prevImageClockIn() {
+currentClockIn = (currentClockIn - 1 + imagesClockIn.length) % imagesClockIn.length;
+lightboxImgClockIn.src = imagesClockIn[currentClockIn].src;
+}   
+
+
+// Medipet Lightbox
+let currentMedipet = 0;
+const imagesMedipet = document.querySelectorAll('.image-container img[src*="medipet-screenshots"]');
+const lightboxMedipet = document.getElementById('lightbox-medipet');
+const lightboxImgMedipet = document.getElementById('lightbox-img-medipet');
+
+function openLightboxMedipet(index) {
+currentMedipet = index;
+lightboxImgMedipet.src = imagesMedipet[currentMedipet].src;
+lightboxMedipet.classList.remove('hidden');
 }
+
+function closeLightboxMedipet() {
+lightboxMedipet.classList.add('hidden');
+}
+
+function nextImageMedipet() {
+currentMedipet = (currentMedipet + 1) % imagesMedipet.length;
+lightboxImgMedipet.src = imagesMedipet[currentMedipet].src;
+}
+
+function prevImageMedipet() {
+currentMedipet = (currentMedipet - 1 + imagesMedipet.length) % imagesMedipet.length;
+lightboxImgMedipet.src = imagesMedipet[currentMedipet].src;
+} 

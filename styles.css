@@ -647,18 +647,6 @@ Projects Page CSS
     margin: 0 auto;
 }
 
-.projectss {
-    display: none;
-    width: 100%;
-    height: auto;
-    cursor: pointer;
-    border-radius: 8px;
-    box-shadow: 0 0.31vw 0.62vw rgba(0,0,0,0.3);
-}
-
-.projectss.active {
-    display: block;
-}
 
 
   /* Lightbox container (shared style for both lightboxes) */
@@ -730,6 +718,9 @@ Projects Page CSS
     display: block;
 }
 
+.image-container img:first-child.medipet-ss1{
+    max-width: 15vw;
+}
 
 /*
 *

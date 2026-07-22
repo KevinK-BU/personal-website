@@ -30,15 +30,55 @@
         <button class = "cycle-button" onclick="location.href='projects-personal.html'">
             Personal Projects
         </button>
-        <div class = "back-button-container">
-        <button class ="back-button" onclick ="location.href = '../projects.html'">
-            Back to Main Projects Page
-        </button>
-        </div>
     </div>
 
     <div class = "project-list">
         <ul class = "project-items">
+            <li class = "project-item">
+                <h2 class = "project-title">ClockIn </h2>
+                <p class = "project-description">ClockIn is a web application designed to make organization and task completion easier for users. This project was a continuation of the "Clock In" hackathon project but reimagined with a focus on organization and user experience. The site provides a space for users to dump all of their responsibilities and generate uuser tailored schedules and plans quickly. At ClockIn, we understand that true organization takes a long time, which takes away from valuable work time.</p>
+                <br>
+                <p class = "project-description">I worked on this project in my XC475 fellowship and I served as the Product Owner. I worked with a team of developers and a designer to refine the project based on user feedback and typical college student workflows. </p>
+                <ul class = "project-links">
+                    <li><a href="https://clock-in-orcin.vercel.app" target="_blank" class="project-link">ClockIn</a></li>
+                    <li><a href="https://github.com/reesestic/ClockIn" target="_blank" class="project-link">GitHub</a></li>
+                    <li><a href="https://medium.com/@clewis27/clockin-b98a8865dab4" target="_blank" class="project-link">Case Study</a></li>
+                </ul>
+                <div class="image-container">
+                    <img src="../assets/images/clockin-screenshots/clockin-ss1.png" onclick="openLightboxClockIn(0)" class = "clockin-ss1">
+                    <img src="../assets/images/clockin-screenshots/clockin-ss2.png" onclick="openLightboxClockIn(1)" >
+                    <img src="../assets/images/clockin-screenshots/clockin-ss3.png" onclick="openLightboxClockIn(2)" >
+                </div>
+                <div id="lightbox-clockin" class="lightbox hidden">
+                    <span class="close-btn" onclick="closeLightboxClockIn()">&times;</span>
+                    <img id="lightbox-img-clockin" src="" alt="Full View">
+                    <span class="arrow left" onclick="prevImageClockIn()">&#10094;</span>
+                    <span class="arrow right" onclick="nextImageClockIn()">&#10095;</span>
+                </div>
+            </li>
+            <li class = "project-item">
+                <h2 class = "project-title">MediPet</h2>
+                <p class = "project-description">MediPet is a mobile application designed to help users with medicine adherence and tracking. The application features a user-friendly interface and provides reminders for medication schedules through the lens of a pet companion. Medications can be scheduled and tracked, and pets' moods change alongside user activity.</p>
+                <br>
+                <p class = "project-description">I worked on this project in my CS411 course and I served as the Scrum Lead and Main Developer. Using React Native and the Expo framework, the project was developed with an object oriented design, making sure to focus on user experience and market fit.</p>
+                <p class = "project-showcase">Click below to view some screenshots of "MediPet" in action!</p>
+                <ul class = "project-links">
+                    <li><a href="https://github.com/KevinK-BU/medipet-cs411" target="_blank" class="project-link">GitHub</a></li>
+                </ul>
+                <div class="image-container">
+                    <img src="../assets/images/medipet-screenshots/medipet-ss1.png" onclick="openLightboxMedipet(0)" class = "medipet-ss1">
+                    <img src="../assets/images/medipet-screenshots/medipet-ss2.png" onclick="openLightboxMedipet(1)" >
+                    <img src="../assets/images/medipet-screenshots/medipet-ss3.png" onclick="openLightboxMedipet(2)" >
+                </div>
+                <div id="lightbox-medipet" class="lightbox hidden">
+                    <span class="close-btn" onclick="closeLightboxMedipet()">&times;</span>
+                    <img id="lightbox-img-medipet" src="" alt="Full View">
+                    <span class="arrow left" onclick="prevImageMedipet()">&#10094;</span>
+                    <span class="arrow right" onclick="nextImageMedipet()">&#10095;</span>
+                </div>
+            </li>
+
+
             <li class = "project-item">
                 <h2 class = "project-title">Connect 4: Player vs. Lookahead-AI</h2>
                 <p class = "project-description">In my CS111 course, I used python to develop a program that allows users to simulate and play games of Connect-4! There are Player vs. Player, Player vs. AI and AI vs. AI modes, 
@@ -64,7 +104,10 @@
                 <h2 class = "project-title">CBS Survivor Data Analysis: Prediction Modeling</h2>
                 <p class = "project-description">In my CS105 course, I used python and other libraries such as pandas, numpy, matplotlib, and sklearn to analyze data from the CBS Survivor TV show. I created a prediction model that predicts placements on the competition show based on the contestants' attributes and past performance. The model uses various machine learning algorithms to make predictions. I also created plots of placement on the basis of contestant attributes and created a presentation analyzing the results.</p> 
                 <p class = "project-semester">Semester: Fall 2023</p>
-                <a href="https://drive.google.com/drive/folders/1T8J-RWA7YR8RxIupukx9SaO9b4XgT-Jz?usp=share_link" class = "project-link" target="_blank">View the Project on Google Drive!</a>
+                <ul class="project-links">
+                    <li ><a href="https://drive.google.com/drive/folders/1T8J-RWA7YR8RxIupukx9SaO9b4XgT-Jz?usp=share_link" class = "project-link" target="_blank">View the Project on Google Drive!</a></li>
+                </ul>
+                
             </li>
         </ul>
     </div>
