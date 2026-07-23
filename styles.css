@@ -476,7 +476,7 @@ About Page CSS
     justify-content: space-evenly;
     gap: 2%;
     margin: 2%;
-    max-width: 90%;
+    max-width: 100%;
     list-style: none;
 }
 
@@ -844,13 +844,14 @@ Mobile layout breakpoint (phones)
     .project-items,
     .coursework-list {
         grid-template-columns: 1fr;
+        padding: 0;
+        margin: 0 auto;
+        gap: 2vw;
     }
 
     .project-categories {
         flex-direction: column;
         gap: 3vw;
-        padding: 0;
-        margin: 0 auto;
     }
 
     .project-categories li {
