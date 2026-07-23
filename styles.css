@@ -61,7 +61,7 @@ main {
     transition: background-color 0.3s;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.89vw);
+    font-size: clamp(0.85rem, calc(1px + 0.89vw), 1.3rem);
 }
 
 .nav-button:hover {
@@ -112,7 +112,7 @@ main {
     margin: 0;
     font-weight: bold;
     color: #49433b;
-    font-size: calc(1px + 1.1vw);
+    font-size: clamp(0.95rem, calc(1px + 1.1vw), 1.6rem);
 }
 
 .github-logo:hover {
@@ -142,7 +142,7 @@ Home Page CSS
 
 .name {
     font-family:'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.75vw);
+    font-size: clamp(1.3rem, calc(1px + 1.75vw), 2.5rem);
     color: #ffffff;
     margin: 1.88vw auto;
     margin-top: 0%;
@@ -181,7 +181,7 @@ Home Page CSS
     align-items: center;
     justify-content: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.2vw);
+    font-size: clamp(1rem, calc(1px + 1.2vw), 1.75rem);
     border-radius: 12px;
     background-color: #49433b;
     max-width: 30vw;
@@ -200,13 +200,12 @@ Home Page CSS
     width: 100%;
     gap: 2.5vw;
     max-width: 90vw;
-    
 }
 
 .bio-heading {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.5vw);
+    font-size: clamp(1.15rem, calc(1px + 1.5vw), 2.1rem);
     color: #ffffff;
     text-align: center;
     background-color: #49433b;
@@ -224,17 +223,20 @@ Home Page CSS
     height: 100%;
 }
 
-@media (width <= 950px) {
+@media (max-width: 950px) {
     .picture-section {
         flex-direction: column;
         gap: 1.25vw;
     }
-
+    .contact-heading {
+        font-size: clamp(0.7rem, calc(1px + 1.3vw), 0.75rem);
+    }
     .bio-text {
         width: 60vw;
         max-width: 60vw;
-        font-size: calc(1px + 1.5vw);
+        font-size: clamp(1rem, calc(1px + 1.5vw), 2.1rem);
     }
+
 
     .picture-bio {
         max-width: 36vw;
@@ -244,7 +246,6 @@ Home Page CSS
         height: 30%;
         object-fit: cover;
     }
-    
 }
 
 
@@ -260,7 +261,7 @@ About Page CSS
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.17vw);
+    font-size: clamp(1rem, calc(1px + 1.17vw), 1.7rem);
     color: #ffffff;
     text-align: left;
     background-color: #49433b;
@@ -281,7 +282,7 @@ About Page CSS
     width: 100%;
     max-width: 98%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
 }
 
@@ -291,7 +292,7 @@ About Page CSS
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color:#49433b;
     background-color: #d5c6b3;
     padding: 0.5vw 1vw;
@@ -302,7 +303,6 @@ About Page CSS
     @media (max-width: 1100px) {
         max-width: 40%;
     }
-    
 }
 
 .tech-skills-list, .tech-tools-list {
@@ -323,7 +323,7 @@ About Page CSS
     padding: 0.62vw 1.25vw;
     border-radius: 0.62vw;
     font-family:'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
 }
 .tech-skills-list li:hover {
     transform: scale(1.1);
@@ -363,13 +363,14 @@ About Page CSS
     width: 40%;
     max-width: 45vw;
     flex: 1 1 35%;
-    height: 20vw;
+    height: auto;
 }
+
 
 .music-heading {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
     text-align: center;
     background-color: #7d7365;
@@ -378,7 +379,6 @@ About Page CSS
     border-radius: 0.62vw;
     margin-top: 0%;
 }
-
 .hobby-section{
     display: flex;
     flex-direction: column;
@@ -390,13 +390,14 @@ About Page CSS
     max-width: 45vw;
     flex: 1 1 35%;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
-     height: 20vw;
+    height: auto;
 }
+
 
 .hobby-heading {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
     text-align: center;
     background-color: #7d7365;
@@ -413,7 +414,7 @@ About Page CSS
 }
 .hobby-list li {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     font-weight: bold;
     color: #49433b;
     margin: 0.31vw 0;
@@ -430,12 +431,12 @@ About Page CSS
 
 .contact-info {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
     background-color: #7d8d6b;
     padding: 5%;
     border-radius: 12%;
-    width: 28vw;
+    width: 30vw;
     max-width: 90%;
     text-align: center;
 }
@@ -444,7 +445,7 @@ About Page CSS
 .contact-link {
     border: 2px solid #49433b;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
     background-color: #7d7365;
     padding: 0.62vw 1.25vw;
@@ -507,7 +508,7 @@ Projects Page CSS
     border-radius: 0.62vw;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     text-align: center;
     text-decoration: none;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
@@ -524,7 +525,7 @@ Projects Page CSS
 
 .project-item {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     color: #ffffff;
     background-color: #7d8d6b;
     padding: 0.62vw 1.25vw;
@@ -534,7 +535,7 @@ Projects Page CSS
 }
 
 .project-title {
-    font-size: calc(1px + 1.12vw);
+    font-size: clamp(1rem, calc(1px + 1.12vw), 1.6rem);
     font-weight: bold;
 
 }
@@ -557,7 +558,7 @@ Projects Page CSS
     padding: 1.25vw;
     width: 50%;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     color: #ffffff;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
 }
@@ -573,7 +574,7 @@ Projects Page CSS
     border-radius: 0.62vw;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     text-align: center;
     margin: 1.25vw;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
@@ -584,7 +585,7 @@ Projects Page CSS
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.59vw);
+    font-size: clamp(1.25rem, calc(1px + 1.59vw), 2.25rem);
     color: #ffffff;
     text-align: left;
     background-color: #49433b;
@@ -595,7 +596,7 @@ Projects Page CSS
 
 .project-category-description {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.95rem, calc(1px + 1.06vw), 1.5rem);
     color: #ffffff;
     background-color: #7d8d6b;
     padding: 0.62vw 1.25vw;
@@ -626,7 +627,7 @@ Projects Page CSS
     border-radius: 0.62vw;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     display: inline-block;
     cursor: pointer;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
@@ -679,7 +680,7 @@ Projects Page CSS
 .arrow {
     position: absolute;
     top: 50%;
-    font-size: calc(1px + 3.19vw);
+    font-size: clamp(2rem, calc(1px + 3.19vw), 4.5rem);
     color: white;
     cursor: pointer;
     user-select: none;
@@ -699,7 +700,7 @@ Projects Page CSS
     position: absolute;
     top: 20px;
     right: 40px;
-    font-size: calc(1px + 3.19vw);
+    font-size: clamp(2rem, calc(1px + 3.19vw), 4.5rem);
     color: white;
     cursor: pointer;
 }
@@ -734,7 +735,7 @@ Coursework Page CSS
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.59vw);
+    font-size: clamp(1.25rem, calc(1px + 1.59vw), 2.25rem);
     color: #ffffff;
     text-align: left;
     background-color: #49433b;
@@ -752,7 +753,7 @@ Coursework Page CSS
 }
 .coursework-list li {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
     font-weight: bold;
     color: #ffffff;
     background-color: #7d8d6b;
@@ -763,5 +764,114 @@ Coursework Page CSS
 }
 
 .coursework-title {
-    font-size: calc(1px + 1.12vw);
+    font-size: clamp(1rem, calc(1px + 1.12vw), 1.6rem);
+}
+
+
+/*
+*
+*
+Mobile layout breakpoint (phones)
+*
+*
+*/
+
+@media (max-width: 700px) {
+
+    .nav-list {
+        flex-wrap: wrap;
+        gap: 2vw;
+    }
+
+    .footer {
+        gap: 3vw;
+        padding: 3vw;
+    }
+
+    .github-logo { width: 15vw; }
+    .resume-icon { width: 7vw; }
+    .linkedin-logo { width: 6vw; }
+
+    .profile-section,
+    .picture-section {
+        flex-direction: column;
+    }
+
+    .bio-text,
+    .picture-bio {
+        width: 40vw;
+        max-width: 40vw;
+    }
+
+    .why-cs,
+    .tech-skills-heading,
+    .prg-lang,
+    .tech-tools {
+        max-width: 90%;
+    }
+
+    .tech-skills-list,
+    .tech-tools-list {
+        align-items: center;
+    }
+
+    .music-and-hobbies {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .music-section,
+    .hobby-section {
+        width: 90%;
+        max-width: 90vw;
+        height: auto;
+        min-height: 36vw;
+        padding: 4vw 0;
+    }
+
+    .record {
+        max-width: 55vw;
+    }
+
+    .contact-info {
+        width: 45vw;
+    }
+
+    .contact-heading {
+        font-size: clamp(0.8rem, calc(1px + 0.85vw), 1.25rem);
+    }
+
+    .project-items,
+    .coursework-list {
+        grid-template-columns: 1fr;
+    }
+
+    .project-categories {
+        flex-direction: column;
+        gap: 3vw;
+    }
+
+    .project-categories li {
+        width: 100%;
+    }
+
+    .project-links {
+        align-items: center;
+        gap: 2vw;
+    }
+
+    .all-buttons {
+        flex-wrap: wrap;
+    }
+
+    .image-container img {
+        max-width: 90vw;
+    }
+
+    .image-container img:first-child.medipet-ss1 {
+        max-width: 30vw;
+    }
+
+    .arrow.left { left: 10px; }
+    .arrow.right { right: 10px; }
 }

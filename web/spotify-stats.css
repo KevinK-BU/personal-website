@@ -6,45 +6,49 @@
 .spotify-stats h3 {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    font-size: calc(1px + 1.06vw);
+    font-size: clamp(0.55rem, calc(1px + 0.98vw), 1.4rem);
     text-transform: uppercase;
     letter-spacing: 0.04em;
     color: #ffffff;
     text-align: center;
     background-color: #7d7365;
-    padding: 0.25em 0.75em;
+    padding: 0.18em 0.6em;
     width: 100%;
     border-radius: 0.62vw;
-    margin: 0 0 0.94vw;
+    margin: 0 0 0.8vw;
+    box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
 }
 
 .spotify-stats p {
-  font-family: 'Courier New', Courier, monospace;
-  font-size: calc(1px + 0.85vw);
-  color: #ffffff;
-  text-align: center;
-  margin: 0 0 1.25vw;
-  background-color: #7d7365;
-  border-radius: 0.51vw;
-  padding: 0.75%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: clamp(0.55rem, calc(1px + 0.98vw), 1.4rem);
+    color: #ffffff;
+    text-align: center;
+    margin: 0 0 0.9vw;
+    background-color: #7d7365;
+    border-radius: 0.51vw;
+    padding: 0.55vw;
+    box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
 }
 
 .spotify-top-track {
     display: flex;
     align-items: center;
-    gap: 0.94vw;
-    margin-bottom: 1.25vw;
+    gap: 0.75vw;
+    margin-bottom: 0.9vw;
     background-color: #7d8d6b;
     border-radius: 0.62vw;
-    padding: 0.62vw;
+    padding: 0.55vw;
     box-shadow: 0 0.31vw 0.62vw rgba(0, 0, 0, 0.5);
 }
 
 .spotify-top-track img {
+    width: 4vw;
+    height: 4vw;
+    min-width: 48px;
+    min-height: 48px;
     border-radius: 0.31vw;
     flex-shrink: 0;
-    width: 3.5vw;
-    height: 3.5vw;
 }
 
 .spotify-top-track div {
@@ -55,7 +59,8 @@
 
 .spotify-top-track strong {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.95vw);
+    font-size: clamp(0.65rem, calc(1px + 1.02vw), 1.5rem);
+    font-weight: bold;
     color: #ffffff;
     white-space: nowrap;
     overflow: hidden;
@@ -64,25 +69,25 @@
 
 .spotify-top-track span {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.55rem, calc(1px + 0.98vw), 1.35rem);
     color: #ffffff;
     opacity: 0.85;
 }
 
 .spotify-top-track small {
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.7vw);
+    font-size: clamp(0.5rem, calc(1px + 0.8vw), 1.15rem);
     color: #ffffff;
     opacity: 0.65;
-    margin-top: 0.2vw;
+    margin-top: 0.1vw;
 }
 
 .spotify-top-artists {
     list-style: decimal;
-    padding: 0.62vw 0.62vw 0.62vw 1.5vw;
+    padding: 0.55vw 0.55vw 0.55vw 1.6vw;
     margin: 0;
     font-family: 'Courier New', Courier, monospace;
-    font-size: calc(1px + 0.85vw);
+    font-size: clamp(0.55rem, calc(1px + 0.98vw), 1.35rem);
     font-weight: bold;
     color: #ffffff;
     background-color: #7d8d6b;
@@ -91,11 +96,39 @@
 }
 
 .spotify-top-artists li {
-    margin-bottom: 0.31vw;
-    margin-left: 1.5vw;
+    margin-bottom: 0.3vw;
+    margin-left: 1vw;
+}
+
+.spotify-top-artists li:last-child {
+    margin-bottom: 0;
 }
 
 .spotify-top-artists small {
+    display: block;
+    font-size: clamp(0.5rem, calc(1px + 0.8vw), 1.15rem);
     font-weight: normal;
     opacity: 0.7;
+}
+
+@media (max-width: 700px) {
+    .spotify-top-track {
+        gap: 3vw;
+        padding: 3vw;
+    }
+
+    .spotify-top-track img {
+        width: 18vw;
+        height: 18vw;
+        min-width: 60px;
+        min-height: 60px;
+    }
+
+    .spotify-top-artists {
+        padding: 3vw 3vw 3vw 8vw;
+    }
+
+    .spotify-top-artists li {
+        margin-bottom: 2vw;
+    }
 }
