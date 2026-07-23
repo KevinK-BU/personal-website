@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-16T01:29:08.133Z",
-  "week_end": "2026-07-23T01:29:08.133Z",
-  "total_plays": 156,
+  "week_start": "2026-07-16T06:22:27.932Z",
+  "week_end": "2026-07-23T06:22:27.932Z",
+  "total_plays": 158,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 17
+      "count": 18
     }
   ],
-  "updated_at": "2026-07-23T01:29:08.134Z"
+  "updated_at": "2026-07-23T06:22:27.933Z"
 }
