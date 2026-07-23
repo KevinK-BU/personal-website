@@ -25,7 +25,6 @@ main {
 * {
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
 }
 
 
@@ -227,7 +226,7 @@ Home Page CSS
 @media (max-width: 950px) {
     .picture-section {
         flex-direction: column;
-        gap: 1.25vw;
+        padding: 1vw;
     }
     .contact-heading {
         font-size: clamp(0.7rem, calc(1px + 1.3vw), 0.75rem);
@@ -796,6 +795,7 @@ Mobile layout breakpoint (phones)
     .profile-section,
     .picture-section {
         flex-direction: column;
+        margin: auto;
     }
 
     .bio-text,
