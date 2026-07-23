@@ -799,8 +799,8 @@ Mobile layout breakpoint (phones)
 
     .bio-text,
     .picture-bio {
-        width: 40vw;
-        max-width: 40vw;
+        width: 80vw;
+        max-width: 80vw;
     }
 
     .why-cs,
@@ -834,7 +834,7 @@ Mobile layout breakpoint (phones)
     }
 
     .contact-info {
-        width: 45vw;
+        width: 50vw;
     }
 
     .contact-heading {
@@ -849,6 +849,8 @@ Mobile layout breakpoint (phones)
     .project-categories {
         flex-direction: column;
         gap: 3vw;
+        padding: 0;
+        margin: 0 auto;
     }
 
     .project-categories li {
