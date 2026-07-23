@@ -795,7 +795,7 @@ Mobile layout breakpoint (phones)
     .profile-section,
     .picture-section {
         flex-direction: column;
-        margin: auto;
+        padding:0;
     }
 
     .bio-text,
