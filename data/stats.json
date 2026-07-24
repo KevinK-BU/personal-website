@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-17T17:18:46.564Z",
-  "week_end": "2026-07-24T17:18:46.564Z",
-  "total_plays": 170,
+  "week_start": "2026-07-17T20:53:59.576Z",
+  "week_end": "2026-07-24T20:53:59.576Z",
+  "total_plays": 179,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Beyoncé",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Billie Eilish",
       "count": 17
     }
   ],
-  "updated_at": "2026-07-24T17:18:46.565Z"
+  "updated_at": "2026-07-24T20:53:59.577Z"
 }
