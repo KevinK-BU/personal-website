@@ -1372,6 +1372,15 @@
     "album_art": "https://i.scdn.co/image/ab67616d0000b273ee8c1079ecfcf30f6836b9f7"
   },
   {
+    "played_at": "2026-07-21T03:57:21.642Z",
+    "track_id": "6l3FFojHwLpo4W2Vmpy0Ox",
+    "track_name": "Real Love",
+    "artists": [
+      "Mary J. Blige"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bd49f7424e12d4e465bf2800"
+  },
+  {
     "played_at": "2026-07-21T21:50:37.442Z",
     "track_id": "42tYHqMxXxXHAAWqLaoOfQ",
     "track_name": "MacArthur Park - Single Version",
@@ -1656,5 +1665,123 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273eefcaa4f481bb1c3b3b53743"
+  },
+  {
+    "played_at": "2026-07-23T22:23:23.102Z",
+    "track_id": "6GjXR9FaxCuDNbqBrP9aYO",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737aa38b76a2c915ed73ca15c6"
+  },
+  {
+    "played_at": "2026-07-23T22:27:57.343Z",
+    "track_id": "4lD7gHKF1e8Y9stQuVezZB",
+    "track_name": "ghostin",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6"
+  },
+  {
+    "played_at": "2026-07-23T22:30:39.017Z",
+    "track_id": "5BBkvXH2jYROUzKIB7WX7S",
+    "track_name": "intro (end of the world) - extended",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9"
+  },
+  {
+    "played_at": "2026-07-23T22:33:12.217Z",
+    "track_id": "5JCoSi02qi3jJeHdZXMmR8",
+    "track_name": "favorite crime",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-07-23T22:37:06.919Z",
+    "track_id": "08PdFBcXzpkn1cWNgmKqhn",
+    "track_name": "Promise",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
+  },
+  {
+    "played_at": "2026-07-23T22:40:18.389Z",
+    "track_id": "1oFAF1hdPOickyHgbuRjyX",
+    "track_name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
+    "artists": [
+      "The Weeknd",
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf"
+  },
+  {
+    "played_at": "2026-07-23T22:45:04.768Z",
+    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
+    "track_name": "Love In The Dark",
+    "artists": [
+      "Adele"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
+  },
+  {
+    "played_at": "2026-07-23T22:48:07.468Z",
+    "track_id": "4SPu0Ql902hTVXkBoNIYtq",
+    "track_name": "NASA",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6"
+  },
+  {
+    "played_at": "2026-07-23T22:51:25.989Z",
+    "track_id": "4xqrdfXkTW4T0RauPLv3WA",
+    "track_name": "Heather",
+    "artists": [
+      "Conan Gray"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
+  },
+  {
+    "played_at": "2026-07-23T22:55:28.463Z",
+    "track_id": "5wANPM4fQCJwkGd4rN57mH",
+    "track_name": "drivers license",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-07-23T23:00:08.124Z",
+    "track_id": "4PMqSO5qyjpvzhlLI5GnID",
+    "track_name": "Good Days",
+    "artists": [
+      "SZA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
+  },
+  {
+    "played_at": "2026-07-23T23:23:51.505Z",
+    "track_id": "6ghDayhHeBXAP4OOnnrFW9",
+    "track_name": "David",
+    "artists": [
+      "Lorde"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78"
+  },
+  {
+    "played_at": "2026-07-23T23:27:29.019Z",
+    "track_id": "7gkZNvBHfI30qG7hA0eopT",
+    "track_name": "Die On This Hill",
+    "artists": [
+      "SIENNA SPIRO"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b"
   }
 ]
