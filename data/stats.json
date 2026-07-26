@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-19T16:43:40.639Z",
-  "week_end": "2026-07-26T16:43:40.639Z",
-  "total_plays": 154,
+  "week_start": "2026-07-19T20:44:05.760Z",
+  "week_end": "2026-07-26T20:44:05.760Z",
+  "total_plays": 153,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 13
     }
   ],
-  "updated_at": "2026-07-26T16:43:40.640Z"
+  "updated_at": "2026-07-26T20:44:05.761Z"
 }
