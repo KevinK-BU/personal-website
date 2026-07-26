@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-18T20:38:37.372Z",
-  "week_end": "2026-07-25T20:38:37.372Z",
-  "total_plays": 180,
+  "week_start": "2026-07-19T01:28:19.974Z",
+  "week_end": "2026-07-26T01:28:19.974Z",
+  "total_plays": 177,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -12,17 +12,17 @@
   },
   "top_artists": [
     {
-      "name": "Olivia Rodrigo",
-      "count": 21
-    },
-    {
       "name": "Beyoncé",
       "count": 20
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 18
     },
     {
       "name": "Billie Eilish",
       "count": 17
     }
   ],
-  "updated_at": "2026-07-25T20:38:37.372Z"
+  "updated_at": "2026-07-26T01:28:19.975Z"
 }
