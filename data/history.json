@@ -2041,5 +2041,32 @@
       "Beyoncé"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273bfd247438980173d32fd5ba8"
+  },
+  {
+    "played_at": "2026-07-27T17:09:10.441Z",
+    "track_id": "1LmRAxdZUEM9xc2wNivy1y",
+    "track_name": "less",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-27T20:40:11.229Z",
+    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
+    "track_name": "begged",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-27T20:53:19.059Z",
+    "track_id": "0FsXZAMf6NACvNJ2LI6ySp",
+    "track_name": "Deseándote",
+    "artists": [
+      "Frankie Ruiz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d"
   }
 ]
