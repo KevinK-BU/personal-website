@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-20T06:53:44.958Z",
-  "week_end": "2026-07-27T06:53:44.958Z",
-  "total_plays": 129,
+  "week_start": "2026-07-20T11:00:15.739Z",
+  "week_end": "2026-07-27T11:00:15.739Z",
+  "total_plays": 119,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Beyoncé",
-      "count": 19
+      "count": 16
     },
     {
       "name": "Bad Bunny",
@@ -24,5 +24,5 @@
       "count": 11
     }
   ],
-  "updated_at": "2026-07-27T06:53:44.959Z"
+  "updated_at": "2026-07-27T11:00:15.740Z"
 }
