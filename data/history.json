@@ -1893,5 +1893,87 @@
       "Beyoncé"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
+  },
+  {
+    "played_at": "2026-07-27T11:36:46.734Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-07-27T11:40:29.140Z",
+    "track_id": "4bkClAuofJULiaIZsuL3gT",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-07-27T11:44:40.580Z",
+    "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
+    "track_name": "No One Noticed",
+    "artists": [
+      "The Marías"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
+  },
+  {
+    "played_at": "2026-07-27T11:51:16.899Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-27T11:52:57.708Z",
+    "track_id": "3B7EZgquNKHrSIo2tEc8mK",
+    "track_name": "FLAMENCO",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-07-27T12:00:34.517Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-27T12:05:43.016Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-07-27T14:02:21.480Z",
+    "track_id": "20jbSiX29FDX4oQxBXyUEi",
+    "track_name": "hate that i made you love me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c"
+  },
+  {
+    "played_at": "2026-07-27T14:05:29.092Z",
+    "track_id": "7tefUew2RUuSAqHyegMoY1",
+    "track_name": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+    "artists": [
+      "Beyoncé",
+      "Chimamanda Ngozi Adichie"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
   }
 ]
