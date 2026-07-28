@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-21T01:21:11.104Z",
-  "week_end": "2026-07-28T01:21:11.104Z",
-  "total_plays": 103,
+  "week_start": "2026-07-21T06:17:02.782Z",
+  "week_end": "2026-07-28T06:17:02.782Z",
+  "total_plays": 75,
   "top_track": {
-    "name": "the cure",
+    "name": "Sushi",
     "artists": [
-      "Olivia Rodrigo"
+      "FKA twigs"
     ],
-    "play_count": 4,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+    "play_count": 3,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
   },
   "top_artists": [
     {
       "name": "Beyoncé",
-      "count": 16
-    },
-    {
-      "name": "Olivia Rodrigo",
       "count": 14
     },
     {
+      "name": "Olivia Rodrigo",
+      "count": 12
+    },
+    {
       "name": "Ariana Grande",
-      "count": 10
+      "count": 8
     }
   ],
-  "updated_at": "2026-07-28T01:21:11.104Z"
+  "updated_at": "2026-07-28T06:17:02.782Z"
 }
