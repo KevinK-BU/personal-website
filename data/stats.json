@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-20T20:59:42.998Z",
-  "week_end": "2026-07-27T20:59:42.998Z",
-  "total_plays": 106,
+  "week_start": "2026-07-21T01:21:11.104Z",
+  "week_end": "2026-07-28T01:21:11.104Z",
+  "total_plays": 103,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Ariana Grande",
-      "count": 11
+      "count": 10
     }
   ],
-  "updated_at": "2026-07-27T20:59:42.999Z"
+  "updated_at": "2026-07-28T01:21:11.104Z"
 }
