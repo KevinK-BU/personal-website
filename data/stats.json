@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-21T20:56:17.717Z",
-  "week_end": "2026-07-28T20:56:17.717Z",
-  "total_plays": 75,
+  "week_start": "2026-07-22T01:22:22.321Z",
+  "week_end": "2026-07-29T01:22:22.321Z",
+  "total_plays": 70,
   "top_track": {
     "name": "Sushi",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Beyoncé",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 8
     }
   ],
-  "updated_at": "2026-07-28T20:56:17.718Z"
+  "updated_at": "2026-07-29T01:22:22.321Z"
 }

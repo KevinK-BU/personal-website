@@ -2068,5 +2068,23 @@
       "Frankie Ruiz"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273ee4a4c079a0aafa139de9e0d"
+  },
+  {
+    "played_at": "2026-07-29T00:38:45.644Z",
+    "track_id": "5qzLdvRViHUrRNdkpakG7C",
+    "track_name": "BATICANO",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d"
+  },
+  {
+    "played_at": "2026-07-29T00:53:29.276Z",
+    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
+    "track_name": "BEAT UP CHANEL$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
   }
 ]
