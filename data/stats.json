@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-23T10:09:39.800Z",
-  "week_end": "2026-07-30T10:09:39.800Z",
-  "total_plays": 93,
+  "week_start": "2026-07-23T13:22:40.135Z",
+  "week_end": "2026-07-30T13:22:40.135Z",
+  "total_plays": 91,
   "top_track": {
-    "name": "Sushi",
+    "name": "expectations",
     "artists": [
-      "FKA twigs"
+      "Olivia Rodrigo"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
   },
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 16
+      "count": 17
     },
     {
-      "name": "Beyoncé",
-      "count": 13
+      "name": "Ariana Grande",
+      "count": 9
     },
     {
       "name": "Charli xcx",
       "count": 9
     }
   ],
-  "updated_at": "2026-07-30T10:09:39.802Z"
+  "updated_at": "2026-07-30T13:22:40.135Z"
 }
