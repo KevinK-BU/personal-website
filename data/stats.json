@@ -1,14 +1,15 @@
 {
-  "week_start": "2026-07-23T13:22:40.135Z",
-  "week_end": "2026-07-30T13:22:40.135Z",
-  "total_plays": 91,
+  "week_start": "2026-07-23T17:12:59.474Z",
+  "week_end": "2026-07-30T17:12:59.474Z",
+  "total_plays": 98,
   "top_track": {
-    "name": "expectations",
+    "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
-      "Olivia Rodrigo"
+      "FKA twigs",
+      "Lil Yachty"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
@@ -16,13 +17,13 @@
       "count": 17
     },
     {
-      "name": "Ariana Grande",
+      "name": "Charli xcx",
       "count": 9
     },
     {
-      "name": "Charli xcx",
+      "name": "Beyoncé",
       "count": 9
     }
   ],
-  "updated_at": "2026-07-30T13:22:40.135Z"
+  "updated_at": "2026-07-30T17:12:59.474Z"
 }
