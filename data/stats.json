@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-23T20:53:43.849Z",
-  "week_end": "2026-07-30T20:53:43.849Z",
-  "total_plays": 93,
+  "week_start": "2026-07-24T01:29:31.769Z",
+  "week_end": "2026-07-31T01:29:31.769Z",
+  "total_plays": 84,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -14,16 +14,16 @@
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 17
+      "count": 14
     },
     {
       "name": "Beyoncé",
       "count": 10
     },
     {
-      "name": "Ariana Grande",
-      "count": 7
+      "name": "FKA twigs",
+      "count": 6
     }
   ],
-  "updated_at": "2026-07-30T20:53:43.849Z"
+  "updated_at": "2026-07-31T01:29:31.769Z"
 }
