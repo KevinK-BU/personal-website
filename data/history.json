@@ -2599,5 +2599,174 @@
       "Ariana Grande"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:17:10.257Z",
+    "track_id": "0QltPqkR4dnhbINyBOU5SY",
+    "track_name": "stay",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:20:26.407Z",
+    "track_id": "5DZOKNtaoVEssXu9ltcMjx",
+    "track_name": "oh well",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:22:57.470Z",
+    "track_id": "4jkeVMYDhEvbpi6gxBsTeV",
+    "track_name": "34+35 - Remix",
+    "artists": [
+      "Ariana Grande",
+      "Doja Cat",
+      "Megan Thee Stallion"
+    ],
+    "album_art": "https://i.scdn.co/image/ab6742d3000053b77a57a6c0d3e10be599bd48a8"
+  },
+  {
+    "played_at": "2026-07-31T17:23:20.007Z",
+    "track_id": "6MFSqc8pzXlwfzXqWZEKd4",
+    "track_name": "big feelings",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:26:39.833Z",
+    "track_id": "6QhsCYcFdfyMbPWCiViI8K",
+    "track_name": "freak",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:27:57.232Z",
+    "track_id": "0cJRr7kw5FkV5e8ejEB2j6",
+    "track_name": "warning signs (interlude)",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:30:44.518Z",
+    "track_id": "3d1oTMjtfVySbAYQp3v4MU",
+    "track_name": "like i do",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:34:33.366Z",
+    "track_id": "55srcWA7TioKV0LZVNXltY",
+    "track_name": "never get over me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:38:01.433Z",
+    "track_id": "4zmXWmILSBkn7gTvIyCiNi",
+    "track_name": "bad thing (bunny hop)",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:40:53.393Z",
+    "track_id": "5JbnupagBhD0AanbkCELdH",
+    "track_name": "nowhere, nobody",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:41:50.479Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-07-31T20:07:11.191Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-07-31T20:09:34.145Z",
+    "track_id": "6iiofFfntEWeKApZqX18WD",
+    "track_name": "Spring breakers featuring kesha",
+    "artists": [
+      "Charli xcx",
+      "Kesha"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f3be490c8e3fa4b27c3742c4"
+  },
+  {
+    "played_at": "2026-07-31T20:14:36.083Z",
+    "track_id": "1W7023CuJrWPbD4q2Sipoh",
+    "track_name": "what’s wrong with me",
+    "artists": [
+      "Olivia Rodrigo",
+      "Robert Smith"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-31T20:18:16.254Z",
+    "track_id": "53IRnAWx13PYmoVYtemUBS",
+    "track_name": "Femininomenon",
+    "artists": [
+      "Chappell Roan"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6"
+  },
+  {
+    "played_at": "2026-07-31T20:21:00.998Z",
+    "track_id": "7nsc5rYjTv1ltTXyVSnnz2",
+    "track_name": "Kitty Kawaii",
+    "artists": [
+      "Cherry Chola",
+      "lila sky",
+      "Chico Sonido"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273948fdad06eb1f43efe09b6a5"
+  },
+  {
+    "played_at": "2026-07-31T20:38:26.738Z",
+    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
+    "track_name": "begged",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-07-31T20:42:27.165Z",
+    "track_id": "2dURQIBrw3XcHyVZlfdpC1",
+    "track_name": "Two of Hearts",
+    "artists": [
+      "Stacey Q"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735f37d8244e2c030165831cf2"
   }
 ]

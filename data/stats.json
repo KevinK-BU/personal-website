@@ -1,29 +1,28 @@
 {
-  "week_start": "2026-07-24T17:16:04.458Z",
-  "week_end": "2026-07-31T17:16:04.458Z",
-  "total_plays": 87,
+  "week_start": "2026-07-24T20:51:12.110Z",
+  "week_end": "2026-07-31T20:51:12.110Z",
+  "total_plays": 95,
   "top_track": {
-    "name": "On Your Mind (feat. Lil Yachty)",
+    "name": "cigarette smoke",
     "artists": [
-      "FKA twigs",
-      "Lil Yachty"
+      "Olivia Rodrigo"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   },
   "top_artists": [
     {
+      "name": "Ariana Grande",
+      "count": 17
+    },
+    {
       "name": "Olivia Rodrigo",
-      "count": 14
+      "count": 16
     },
     {
       "name": "Beyoncé",
-      "count": 10
-    },
-    {
-      "name": "Ariana Grande",
-      "count": 7
+      "count": 8
     }
   ],
-  "updated_at": "2026-07-31T17:16:04.459Z"
+  "updated_at": "2026-07-31T20:51:12.111Z"
 }
