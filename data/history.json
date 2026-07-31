@@ -2572,5 +2572,32 @@
       "KATSEYE"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273864febc2f9da1295d34ca1e2"
+  },
+  {
+    "played_at": "2026-07-31T17:10:46.510Z",
+    "track_id": "0lok0VDJn0zRvHLBCITSSw",
+    "track_name": "kiss me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:11:36.700Z",
+    "track_id": "3iy2QuCtCzpWnR6tia39AB",
+    "track_name": "hate that i made you love me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
+  },
+  {
+    "played_at": "2026-07-31T17:14:40.869Z",
+    "track_id": "70pVCVMGjmIWPbWXDwf11e",
+    "track_name": "petal",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
   }
 ]
