@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-25T01:30:01.751Z",
-  "week_end": "2026-08-01T01:30:01.751Z",
-  "total_plays": 100,
+  "week_start": "2026-07-25T06:19:17.905Z",
+  "week_end": "2026-08-01T06:19:17.905Z",
+  "total_plays": 148,
   "top_track": {
-    "name": "cigarette smoke",
+    "name": "the cure",
     "artists": [
       "Olivia Rodrigo"
     ],
-    "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+    "play_count": 5,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
   },
   "top_artists": [
     {
-      "name": "Olivia Rodrigo",
-      "count": 17
+      "name": "Ariana Grande",
+      "count": 21
     },
     {
-      "name": "Ariana Grande",
-      "count": 17
+      "name": "Olivia Rodrigo",
+      "count": 19
     },
     {
       "name": "Beyoncé",
-      "count": 9
+      "count": 12
     }
   ],
-  "updated_at": "2026-08-01T01:30:01.751Z"
+  "updated_at": "2026-08-01T06:19:17.906Z"
 }
