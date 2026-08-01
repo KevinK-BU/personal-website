@@ -2768,5 +2768,51 @@
       "Stacey Q"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735f37d8244e2c030165831cf2"
+  },
+  {
+    "played_at": "2026-07-31T20:50:40.589Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-07-31T23:08:55.958Z",
+    "track_id": "5Uro6tis4oexrT4Po1q71H",
+    "track_name": "Love Flew Away",
+    "artists": [
+      "Laufey",
+      "Adam Melchor"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ae872bedc5b44f93ab50da37"
+  },
+  {
+    "played_at": "2026-07-31T23:17:14.201Z",
+    "track_id": "4ZYlzwjjAJrflwWg4DJTlT",
+    "track_name": "MORNING DEW (DONK)",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
+  },
+  {
+    "played_at": "2026-08-01T00:51:41.498Z",
+    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
+    "track_name": "BEAT UP CHANEL$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
+  },
+  {
+    "played_at": "2026-08-01T00:54:25.407Z",
+    "track_id": "7I8UTLiBA1ptFm04WulwhH",
+    "track_name": "Prada",
+    "artists": [
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27375c74be55ef76b844f6dbbbb"
   }
 ]

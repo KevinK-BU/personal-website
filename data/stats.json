@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-24T20:51:12.110Z",
-  "week_end": "2026-07-31T20:51:12.110Z",
-  "total_plays": 95,
+  "week_start": "2026-07-25T01:30:01.751Z",
+  "week_end": "2026-08-01T01:30:01.751Z",
+  "total_plays": 100,
   "top_track": {
     "name": "cigarette smoke",
     "artists": [
@@ -12,17 +12,17 @@
   },
   "top_artists": [
     {
+      "name": "Olivia Rodrigo",
+      "count": 17
+    },
+    {
       "name": "Ariana Grande",
       "count": 17
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 16
-    },
-    {
       "name": "Beyoncé",
-      "count": 8
+      "count": 9
     }
   ],
-  "updated_at": "2026-07-31T20:51:12.111Z"
+  "updated_at": "2026-08-01T01:30:01.751Z"
 }
