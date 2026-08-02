@@ -3281,5 +3281,87 @@
       "cupcakKe"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273e0a540b5410d43f07c2b3c99"
+  },
+  {
+    "played_at": "2026-08-01T21:10:00.929Z",
+    "track_id": "69psOP7O7y7QOV0dVisyNk",
+    "track_name": "Midnight Sun - Super Loud",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ee8c1079ecfcf30f6836b9f7"
+  },
+  {
+    "played_at": "2026-08-01T21:14:17.353Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-01T21:27:00.345Z",
+    "track_id": "3jYW03V9XeM2w7LJ0EXQDC",
+    "track_name": "Cockiness (Love It)",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef"
+  },
+  {
+    "played_at": "2026-08-01T21:43:53.490Z",
+    "track_id": "4QpGrDM7EsvbeaZ5G1Nu3j",
+    "track_name": "Count Contessa",
+    "artists": [
+      "Azealia Banks",
+      "Lone"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d18e046e3af5a9d233cd774"
+  },
+  {
+    "played_at": "2026-08-01T21:47:23.291Z",
+    "track_id": "22ML0MuFKfw16WejbxsLOy",
+    "track_name": "Heartbreaker",
+    "artists": [
+      "Pat Benatar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732b6cfe6027c990887aadedfc"
+  },
+  {
+    "played_at": "2026-08-01T23:10:28.607Z",
+    "track_id": "6jfiwkcwt8iYCdkbLukxeI",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-08-01T23:13:17.513Z",
+    "track_id": "50GxvQA2KEWNt31EdwIlzY",
+    "track_name": "Rewind",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-08-01T23:18:36.599Z",
+    "track_id": "1LmRAxdZUEM9xc2wNivy1y",
+    "track_name": "less",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-01T23:23:15.643Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
