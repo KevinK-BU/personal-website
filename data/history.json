@@ -3283,6 +3283,16 @@
     "album_art": "https://i.scdn.co/image/ab67616d0000b273e0a540b5410d43f07c2b3c99"
   },
   {
+    "played_at": "2026-08-01T06:46:40.697Z",
+    "track_id": "7niKxzFThgRf5fXlIYdjtZ",
+    "track_name": "Lipgloss (feat. CupcakKe)",
+    "artists": [
+      "Charli xcx",
+      "cupcakKe"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
+  },
+  {
     "played_at": "2026-08-01T21:10:00.929Z",
     "track_id": "69psOP7O7y7QOV0dVisyNk",
     "track_name": "Midnight Sun - Super Loud",
@@ -3363,5 +3373,105 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-08-02T20:41:51.526Z",
+    "track_id": "1mnqraQ8oV8MX92rdOFLWW",
+    "track_name": "1 Thing",
+    "artists": [
+      "Amerie"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27315dd2fc9aa1109bbe1456916"
+  },
+  {
+    "played_at": "2026-08-03T00:49:04.094Z",
+    "track_id": "4ZYlzwjjAJrflwWg4DJTlT",
+    "track_name": "MORNING DEW (DONK)",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
+  },
+  {
+    "played_at": "2026-08-03T00:52:35.026Z",
+    "track_id": "0mKGwFMHzTprtS2vpR3b6s",
+    "track_name": "COZY",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-08-03T00:57:27.391Z",
+    "track_id": "6CcJMwBtXByIz4zQLzFkKc",
+    "track_name": "i love you",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-08-03T00:58:56.744Z",
+    "track_id": "6LOOuv8hulwlaq5rJIdOQR",
+    "track_name": "Eat It",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27370cdf4fc0b6b2dc937e2290e"
+  },
+  {
+    "played_at": "2026-08-03T01:04:19.156Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-08-03T01:11:59.456Z",
+    "track_id": "1rIKgCH4H52lrvDcz50hS8",
+    "track_name": "Lush Life",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582"
+  },
+  {
+    "played_at": "2026-08-03T01:15:17.280Z",
+    "track_id": "1xOqGUkyxGQRdCvGpvWKmL",
+    "track_name": "Gabriela",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8d4d00ffe09373efb13ce29"
+  },
+  {
+    "played_at": "2026-08-03T01:19:14.002Z",
+    "track_id": "5J4ZkQpzMUFojo1CtAZYpn",
+    "track_name": "Love Me Harder",
+    "artists": [
+      "Ariana Grande",
+      "The Weeknd"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
+  },
+  {
+    "played_at": "2026-08-03T01:22:20.524Z",
+    "track_id": "6D8y7Bck8h11byRY88Pt2z",
+    "track_name": "Houdini",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575"
+  },
+  {
+    "played_at": "2026-08-03T01:25:35.970Z",
+    "track_id": "0Y1MWB026LYxGvhq4EcMiC",
+    "track_name": "Boom Clap",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733ead1ebf6081fd25fb571e06"
   }
 ]
