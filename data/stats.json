@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-27T17:39:24.117Z",
-  "week_end": "2026-08-03T17:39:24.117Z",
-  "total_plays": 182,
+  "week_start": "2026-07-27T20:52:37.087Z",
+  "week_end": "2026-08-03T20:52:37.087Z",
+  "total_plays": 183,
   "top_track": {
     "name": "Midnight Sun - Super Loud",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Ariana Grande",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 20
+      "count": 19
     },
     {
       "name": "Charli xcx",
       "count": 17
     }
   ],
-  "updated_at": "2026-08-03T17:39:24.118Z"
+  "updated_at": "2026-08-03T20:52:37.087Z"
 }
