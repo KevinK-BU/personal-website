@@ -3555,5 +3555,87 @@
       "Natalie Cole"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2737ef6988d467a4d04d0bb031b"
+  },
+  {
+    "played_at": "2026-08-03T11:41:45.663Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-03T11:47:34.464Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-03T11:48:45.004Z",
+    "track_id": "6unIOeUaYgBZ8TgCWNGDPX",
+    "track_name": "20190724",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4"
+  },
+  {
+    "played_at": "2026-08-03T11:52:32.866Z",
+    "track_id": "2ZFu40Ik8VsUE9H87W0MmZ",
+    "track_name": "KLK",
+    "artists": [
+      "Arca",
+      "ROSALÍA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733fb118a60e7a487d5586b2d7"
+  },
+  {
+    "played_at": "2026-08-03T11:54:44.676Z",
+    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
+    "track_name": "Purrr",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-08-03T12:01:29.763Z",
+    "track_id": "0hHDMvLvoJh8gYbJIi182A",
+    "track_name": "Sushi",
+    "artists": [
+      "FKA twigs"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
+  },
+  {
+    "played_at": "2026-08-03T12:18:07.058Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-08-03T12:25:17.785Z",
+    "track_id": "6XcyAXAYKQD7FqCG2F2xOu",
+    "track_name": "Hot & Sexy",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
+  },
+  {
+    "played_at": "2026-08-03T12:28:56.494Z",
+    "track_id": "5sGAAbdvqyRifmUt0IeQia",
+    "track_name": "Here All Night",
+    "artists": [
+      "Demi Lovato"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e38b894c6fd27be7f3327015"
   }
 ]

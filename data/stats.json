@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-27T11:11:03.488Z",
-  "week_end": "2026-08-03T11:11:03.488Z",
-  "total_plays": 180,
+  "week_start": "2026-07-27T14:10:54.432Z",
+  "week_end": "2026-08-03T14:10:54.432Z",
+  "total_plays": 179,
   "top_track": {
-    "name": "the cure",
+    "name": "Midnight Sun - Super Loud",
     "artists": [
-      "Olivia Rodrigo"
+      "Zara Larsson"
     ],
-    "play_count": 5,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+    "play_count": 4,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ee8c1079ecfcf30f6836b9f7"
   },
   "top_artists": [
     {
-      "name": "Olivia Rodrigo",
-      "count": 22
+      "name": "Ariana Grande",
+      "count": 21
     },
     {
-      "name": "Ariana Grande",
-      "count": 22
+      "name": "Olivia Rodrigo",
+      "count": 20
     },
     {
       "name": "Charli xcx",
       "count": 15
     }
   ],
-  "updated_at": "2026-08-03T11:11:03.489Z"
+  "updated_at": "2026-08-03T14:10:54.434Z"
 }
