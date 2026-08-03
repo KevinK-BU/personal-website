@@ -3473,5 +3473,87 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733ead1ebf6081fd25fb571e06"
+  },
+  {
+    "played_at": "2026-08-03T01:29:08.564Z",
+    "track_id": "69psOP7O7y7QOV0dVisyNk",
+    "track_name": "Midnight Sun - Super Loud",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ee8c1079ecfcf30f6836b9f7"
+  },
+  {
+    "played_at": "2026-08-03T01:32:35.079Z",
+    "track_id": "7srqyRb5plksW5k65itXDB",
+    "track_name": "Girl, so confusing featuring lorde",
+    "artists": [
+      "Charli xcx",
+      "Lorde"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-08-03T01:35:15.916Z",
+    "track_id": "4SqWKzw0CbA05TGszDgMlc",
+    "track_name": "I Love You So",
+    "artists": [
+      "The Walters"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a9ab24f62c01f4bd4a08571e"
+  },
+  {
+    "played_at": "2026-08-03T01:44:16.655Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
+  },
+  {
+    "played_at": "2026-08-03T01:48:58.032Z",
+    "track_id": "27vdeVlzt3VEc82hK39T8B",
+    "track_name": "Dim All The Lights",
+    "artists": [
+      "Donna Summer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730c3a44d76807bef665eacfa3"
+  },
+  {
+    "played_at": "2026-08-03T01:54:36.436Z",
+    "track_id": "3850dYVgOFIXJh5U4BFEWH",
+    "track_name": "Hung Up",
+    "artists": [
+      "Madonna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b"
+  },
+  {
+    "played_at": "2026-08-03T01:58:34.106Z",
+    "track_id": "3L7RtEcu1Hw3OXrpnthngx",
+    "track_name": "Don't You Want Me",
+    "artists": [
+      "The Human League"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074"
+  },
+  {
+    "played_at": "2026-08-03T02:04:01.225Z",
+    "track_id": "1mk6Ts3Rl80ZiRuGdV8ydx",
+    "track_name": "Fascinated",
+    "artists": [
+      "Company B"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273670de90046ddaae59dd9969d"
+  },
+  {
+    "played_at": "2026-08-03T02:08:10.484Z",
+    "track_id": "0lDxU9YM2UZyWWTZ1xye0B",
+    "track_name": "Party Lights",
+    "artists": [
+      "Natalie Cole"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737ef6988d467a4d04d0bb031b"
   }
 ]

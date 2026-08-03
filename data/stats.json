@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-27T01:28:23.508Z",
-  "week_end": "2026-08-03T01:28:23.508Z",
-  "total_plays": 171,
+  "week_start": "2026-07-27T06:50:08.705Z",
+  "week_end": "2026-08-03T06:50:08.705Z",
+  "total_plays": 180,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Charli xcx",
-      "count": 14
+      "count": 15
     }
   ],
-  "updated_at": "2026-08-03T01:28:23.509Z"
+  "updated_at": "2026-08-03T06:50:08.706Z"
 }
