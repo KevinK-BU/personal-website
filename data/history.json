@@ -3749,5 +3749,33 @@
       "JAŸ-Z"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273632e4eafb2ffba59a2ae4500"
+  },
+  {
+    "played_at": "2026-08-03T21:07:20.081Z",
+    "track_id": "6Hdc3IQeyCxG5d14uAcwQW",
+    "track_name": "u + me = <3",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-04T00:32:40.813Z",
+    "track_id": "3RIgHHpnFKj5Rni1shokDj",
+    "track_name": "Norman fucking Rockwell",
+    "artists": [
+      "Lana Del Rey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9"
+  },
+  {
+    "played_at": "2026-08-04T00:39:00.637Z",
+    "track_id": "2gam98EZKrF9XuOkU13ApN",
+    "track_name": "Promiscuous",
+    "artists": [
+      "Nelly Furtado",
+      "Timbaland"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2"
   }
 ]

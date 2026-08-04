@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-27T20:52:37.087Z",
-  "week_end": "2026-08-03T20:52:37.087Z",
-  "total_plays": 183,
+  "week_start": "2026-07-28T01:17:49.960Z",
+  "week_end": "2026-08-04T01:17:49.960Z",
+  "total_plays": 185,
   "top_track": {
     "name": "Midnight Sun - Super Loud",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 19
+      "count": 20
     },
     {
       "name": "Charli xcx",
       "count": 17
     }
   ],
-  "updated_at": "2026-08-03T20:52:37.087Z"
+  "updated_at": "2026-08-04T01:17:49.961Z"
 }
