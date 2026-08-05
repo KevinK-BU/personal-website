@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-29T10:22:06.353Z",
-  "week_end": "2026-08-05T10:22:06.353Z",
-  "total_plays": 190,
+  "week_start": "2026-07-29T13:31:06.928Z",
+  "week_end": "2026-08-05T13:31:06.928Z",
+  "total_plays": 197,
   "top_track": {
     "name": "the cure",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Ariana Grande",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Charli xcx",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 22
     }
   ],
-  "updated_at": "2026-08-05T10:22:06.354Z"
+  "updated_at": "2026-08-05T13:31:06.929Z"
 }
