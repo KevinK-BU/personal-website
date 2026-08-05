@@ -1,19 +1,19 @@
 {
-  "week_start": "2026-07-29T17:16:19.941Z",
-  "week_end": "2026-08-05T17:16:19.941Z",
-  "total_plays": 203,
+  "week_start": "2026-07-29T20:54:33.815Z",
+  "week_end": "2026-08-05T20:54:33.815Z",
+  "total_plays": 210,
   "top_track": {
-    "name": "the cure",
+    "name": "Hot & Sexy",
     "artists": [
-      "Olivia Rodrigo"
+      "Zara Larsson"
     ],
     "play_count": 5,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Ariana Grande",
@@ -24,5 +24,5 @@
       "count": 22
     }
   ],
-  "updated_at": "2026-08-05T17:16:19.942Z"
+  "updated_at": "2026-08-05T20:54:33.816Z"
 }
