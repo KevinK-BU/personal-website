@@ -3777,5 +3777,79 @@
       "Timbaland"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2"
+  },
+  {
+    "played_at": "2026-08-05T02:36:02.470Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-08-05T02:39:25.246Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-08-05T02:42:21.022Z",
+    "track_id": "2uvLpXs8bZAjee0l3KNnhx",
+    "track_name": "yes baby",
+    "artists": [
+      "Madison Beer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273391ad22354ea2e90c54f6b14"
+  },
+  {
+    "played_at": "2026-08-05T02:48:04.609Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-08-05T02:50:06.314Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-08-05T02:52:43.134Z",
+    "track_id": "4ZnkygoWLzcGbQYCm3lkae",
+    "track_name": "Rush",
+    "artists": [
+      "Troye Sivan"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27367103283a4eb57578a428252"
+  },
+  {
+    "played_at": "2026-08-05T02:55:16.498Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-08-05T03:08:32.253Z",
+    "track_id": "7niKxzFThgRf5fXlIYdjtZ",
+    "track_name": "Lipgloss (feat. CupcakKe)",
+    "artists": [
+      "Charli xcx",
+      "cupcakKe"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
   }
 ]
