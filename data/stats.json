@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-07-28T21:00:14.266Z",
-  "week_end": "2026-08-04T21:00:14.266Z",
-  "total_plays": 185,
+  "week_start": "2026-07-29T01:22:04.985Z",
+  "week_end": "2026-08-05T01:22:04.985Z",
+  "total_plays": 182,
   "top_track": {
     "name": "Midnight Sun - Super Loud",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Charli xcx",
-      "count": 17
+      "count": 16
     }
   ],
-  "updated_at": "2026-08-04T21:00:14.267Z"
+  "updated_at": "2026-08-05T01:22:04.986Z"
 }
