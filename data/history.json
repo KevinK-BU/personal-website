@@ -3923,5 +3923,61 @@
       "Addison Rae"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
+  },
+  {
+    "played_at": "2026-08-05T12:19:51.755Z",
+    "track_id": "092IqUmkOsPdcsqS0rTlir",
+    "track_name": "Bubblegum",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b771d64998ae18759eac6da4"
+  },
+  {
+    "played_at": "2026-08-05T15:48:35.970Z",
+    "track_id": "4QpGrDM7EsvbeaZ5G1Nu3j",
+    "track_name": "Count Contessa",
+    "artists": [
+      "Azealia Banks",
+      "Lone"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d18e046e3af5a9d233cd774"
+  },
+  {
+    "played_at": "2026-08-05T15:52:12.030Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-08-05T15:54:49.561Z",
+    "track_id": "0FZUbqZ1x2G71vl027d8Ud",
+    "track_name": "Hot Girl (Bodies Bodies Bodies)",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734e6ea0c72918cbbfd2376d5f"
+  },
+  {
+    "played_at": "2026-08-05T15:58:05.317Z",
+    "track_id": "5QezP0xNWDI7j2UKYxdT2K",
+    "track_name": "Can I Get a Bump",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733c97fd259cddc29a14aa28ce"
+  },
+  {
+    "played_at": "2026-08-05T16:01:14.683Z",
+    "track_id": "05IOuexttkZG6eQLFi3v40",
+    "track_name": "New Bottega",
+    "artists": [
+      "Torren Foot",
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273edb915ed1be7dd54aaab404a"
   }
 ]
