@@ -1,6 +1,6 @@
 {
-  "week_start": "2026-07-29T06:17:25.380Z",
-  "week_end": "2026-08-05T06:17:25.380Z",
+  "week_start": "2026-07-29T10:22:06.353Z",
+  "week_end": "2026-08-05T10:22:06.353Z",
   "total_plays": 190,
   "top_track": {
     "name": "the cure",
@@ -16,13 +16,13 @@
       "count": 23
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 21
+      "name": "Charli xcx",
+      "count": 22
     },
     {
-      "name": "Charli xcx",
+      "name": "Olivia Rodrigo",
       "count": 21
     }
   ],
-  "updated_at": "2026-08-05T06:17:25.381Z"
+  "updated_at": "2026-08-05T10:22:06.354Z"
 }
