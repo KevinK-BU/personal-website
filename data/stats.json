@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-30T01:19:27.268Z",
-  "week_end": "2026-08-06T01:19:27.268Z",
-  "total_plays": 214,
+  "week_start": "2026-07-30T06:20:21.757Z",
+  "week_end": "2026-08-06T06:20:21.757Z",
+  "total_plays": 196,
   "top_track": {
     "name": "Hot & Sexy",
     "artists": [
       "Zara Larsson"
     ],
-    "play_count": 5,
+    "play_count": 4,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 26
+      "count": 25
     },
     {
       "name": "Ariana Grande",
-      "count": 24
+      "count": 23
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 22
+      "count": 19
     }
   ],
-  "updated_at": "2026-08-06T01:19:27.269Z"
+  "updated_at": "2026-08-06T06:20:21.758Z"
 }
