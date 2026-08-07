@@ -4295,5 +4295,72 @@
       "Daddy Yankee"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0"
+  },
+  {
+    "played_at": "2026-08-07T03:33:58.286Z",
+    "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
+    "track_name": "Beauty And A Beat",
+    "artists": [
+      "Justin Bieber",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e"
+  },
+  {
+    "played_at": "2026-08-07T11:41:06.658Z",
+    "track_id": "4ZYlzwjjAJrflwWg4DJTlT",
+    "track_name": "MORNING DEW (DONK)",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
+  },
+  {
+    "played_at": "2026-08-07T11:44:49.732Z",
+    "track_id": "11KgBg77VfJjv0oifmE7M7",
+    "track_name": "Hannah Montana (with NLE Choppa & DaBaby)",
+    "artists": [
+      "Ice Spice",
+      "NLE Choppa",
+      "DaBaby"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ad2cf30bac7e07b554dcdf58"
+  },
+  {
+    "played_at": "2026-08-07T11:48:46.332Z",
+    "track_id": "5J4ZkQpzMUFojo1CtAZYpn",
+    "track_name": "Love Me Harder",
+    "artists": [
+      "Ariana Grande",
+      "The Weeknd"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
+  },
+  {
+    "played_at": "2026-08-07T11:52:30.185Z",
+    "track_id": "5ZLUm9eab8y3tqQ1OhQSHI",
+    "track_name": "Abracadabra",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273edd364b4d7ffb5155ccd4ca9"
+  },
+  {
+    "played_at": "2026-08-07T11:56:03.717Z",
+    "track_id": "2ljvO8ZpKFMT3HXwCjW4Yw",
+    "track_name": "anthems",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-08-07T12:22:49.592Z",
+    "track_id": "6jfiwkcwt8iYCdkbLukxeI",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
   }
 ]
