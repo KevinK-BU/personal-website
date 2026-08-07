@@ -4362,5 +4362,90 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-08-07T19:06:49.465Z",
+    "track_id": "2MvvoeRt8NcOXWESkxWn3g",
+    "track_name": "Ribs",
+    "artists": [
+      "Lorde"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273187331e276c898d39764cc98"
+  },
+  {
+    "played_at": "2026-08-07T19:09:36.050Z",
+    "track_id": "6SRsiMl7w1USE4mFqrOhHC",
+    "track_name": "brutal",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-08-07T19:14:53.490Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-08-07T19:18:21.952Z",
+    "track_id": "1MpCaOeUWhox2Fgigbe1cL",
+    "track_name": "I'M THAT GIRL",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-08-07T19:22:01.254Z",
+    "track_id": "5QCfOMH5K7bS4dH7H7PNeI",
+    "track_name": "Tonight",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-08-07T19:26:36.771Z",
+    "track_id": "3XbNseJrIK8LzoTh4eA0Xf",
+    "track_name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
+    "artists": [
+      "Charli xcx",
+      "Big Freedia",
+      "cupcakKe",
+      "Brooke Candy",
+      "Pabllo Vittar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d67f5dfe2e86a4cdae439ce"
+  },
+  {
+    "played_at": "2026-08-07T19:30:20.246Z",
+    "track_id": "407LgLkk1uM3wMO6jVRe0a",
+    "track_name": "honeybee",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-07T19:33:08.787Z",
+    "track_id": "5BsGmbPJyupA70FlD7NtbS",
+    "track_name": "Luxury",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-08-07T19:38:02.432Z",
+    "track_id": "0KFuXEdOp5QfIfxHR6TJSm",
+    "track_name": "Dangerously In Love",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1"
   }
 ]

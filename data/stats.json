@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-07-31T16:39:10.753Z",
-  "week_end": "2026-08-07T16:39:10.753Z",
-  "total_plays": 194,
+  "week_start": "2026-07-31T20:26:52.437Z",
+  "week_end": "2026-08-07T20:26:52.437Z",
+  "total_plays": 184,
   "top_track": {
     "name": "the cure",
     "artists": [
       "Olivia Rodrigo"
     ],
-    "play_count": 4,
+    "play_count": 5,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 27
-    },
-    {
-      "name": "Ariana Grande",
-      "count": 23
+      "count": 26
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 23
+    },
+    {
+      "name": "Beyoncé",
+      "count": 11
     }
   ],
-  "updated_at": "2026-08-07T16:39:10.754Z"
+  "updated_at": "2026-08-07T20:26:52.438Z"
 }
