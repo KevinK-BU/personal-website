@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-01T00:43:17.063Z",
-  "week_end": "2026-08-08T00:43:17.063Z",
-  "total_plays": 179,
+  "week_start": "2026-08-01T04:44:47.728Z",
+  "week_end": "2026-08-08T04:44:47.728Z",
+  "total_plays": 136,
   "top_track": {
-    "name": "the cure",
+    "name": "Dying for You",
     "artists": [
-      "Olivia Rodrigo"
+      "Charli xcx"
     ],
     "play_count": 4,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 26
+      "count": 23
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 19
     },
     {
-      "name": "Ariana Grande",
-      "count": 10
+      "name": "Zara Larsson",
+      "count": 7
     }
   ],
-  "updated_at": "2026-08-08T00:43:17.064Z"
+  "updated_at": "2026-08-08T04:44:47.729Z"
 }
