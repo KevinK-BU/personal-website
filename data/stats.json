@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-01T04:44:47.728Z",
-  "week_end": "2026-08-08T04:44:47.728Z",
-  "total_plays": 136,
+  "week_start": "2026-08-01T08:25:31.290Z",
+  "week_end": "2026-08-08T08:25:31.290Z",
+  "total_plays": 125,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 7
     }
   ],
-  "updated_at": "2026-08-08T04:44:47.729Z"
+  "updated_at": "2026-08-08T08:25:31.290Z"
 }
