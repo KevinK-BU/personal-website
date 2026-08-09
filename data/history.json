@@ -4447,5 +4447,144 @@
       "Beyoncé"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1"
+  },
+  {
+    "played_at": "2026-08-08T21:29:17.232Z",
+    "track_id": "03kw5kVvTjfZ4BAUU4Txx3",
+    "track_name": "So I featuring a. g. cook",
+    "artists": [
+      "Charli xcx",
+      "A. G. Cook"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-08-08T21:35:08.906Z",
+    "track_id": "58ge6dfP91o9oXMzq3XkIS",
+    "track_name": "505",
+    "artists": [
+      "Arctic Monkeys"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90"
+  },
+  {
+    "played_at": "2026-08-08T23:33:04.287Z",
+    "track_id": "5MxFWjuqQIsbNWbMdMdbli",
+    "track_name": "La Jumpa",
+    "artists": [
+      "Arcángel",
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731e0950bcdb5495e2038e0d14"
+  },
+  {
+    "played_at": "2026-08-08T23:43:32.337Z",
+    "track_id": "5hgnY0mVcVetszbb85qeDg",
+    "track_name": "Partition",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+  },
+  {
+    "played_at": "2026-08-08T23:46:49.292Z",
+    "track_id": "6VrQTLzzuyGIYjUDe4kAZk",
+    "track_name": "Un Coco",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72"
+  },
+  {
+    "played_at": "2026-08-08T23:51:27.226Z",
+    "track_id": "6K8VQ84MqhsoakN5MjrnVR",
+    "track_name": "Supercut",
+    "artists": [
+      "Lorde"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336"
+  },
+  {
+    "played_at": "2026-08-08T23:58:59.354Z",
+    "track_id": "2lTm559tuIvatlT1u0JYG2",
+    "track_name": "BAILE INoLVIDABLE",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+  },
+  {
+    "played_at": "2026-08-09T00:01:15.888Z",
+    "track_id": "13FHy6nHjXHbzHj1dZFB1G",
+    "track_name": "Riri",
+    "artists": [
+      "Young Miko"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d42173bae92f075c0c5f5bb"
+  },
+  {
+    "played_at": "2026-08-09T00:06:40.808Z",
+    "track_id": "0TcJ7QWpggdSg8t0fHThHm",
+    "track_name": "LoveGame",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0"
+  },
+  {
+    "played_at": "2026-08-09T00:14:17.524Z",
+    "track_id": "22WFoPT9VIJlZ0VcJVkCpm",
+    "track_name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+    "artists": [
+      "Miley Cyrus",
+      "Naomi Campbell"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
+  },
+  {
+    "played_at": "2026-08-09T00:17:31.536Z",
+    "track_id": "7yBbV2k2S2uhaQc24NF2xt",
+    "track_name": "Stupid Love",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a"
+  },
+  {
+    "played_at": "2026-08-09T00:20:50.024Z",
+    "track_id": "11a6GzsfPoLY1bVw3IFeMs",
+    "track_name": "I'm Legit",
+    "artists": [
+      "Nicki Minaj",
+      "Ciara"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-08-09T00:25:21.455Z",
+    "track_id": "6Hdc3IQeyCxG5d14uAcwQW",
+    "track_name": "u + me = <3",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-09T00:28:30.280Z",
+    "track_id": "5QezP0xNWDI7j2UKYxdT2K",
+    "track_name": "Can I Get a Bump",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733c97fd259cddc29a14aa28ce"
+  },
+  {
+    "played_at": "2026-08-09T00:31:04.682Z",
+    "track_id": "3OHfY25tqY28d16oZczHc8",
+    "track_name": "Kill Bill",
+    "artists": [
+      "SZA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
   }
 ]
