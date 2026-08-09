@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-02T00:45:53.438Z",
-  "week_end": "2026-08-09T00:45:53.438Z",
-  "total_plays": 131,
+  "week_start": "2026-08-02T04:53:52.144Z",
+  "week_end": "2026-08-09T04:53:52.144Z",
+  "total_plays": 142,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 17
+      "count": 19
     },
     {
       "name": "Beyoncé",
       "count": 8
     }
   ],
-  "updated_at": "2026-08-09T00:45:53.439Z"
+  "updated_at": "2026-08-09T04:53:52.145Z"
 }
