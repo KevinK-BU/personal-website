@@ -1,19 +1,19 @@
 {
-  "week_start": "2026-08-03T16:40:33.189Z",
-  "week_end": "2026-08-10T16:40:33.189Z",
-  "total_plays": 133,
+  "week_start": "2026-08-03T20:29:28.858Z",
+  "week_end": "2026-08-10T20:29:28.858Z",
+  "total_plays": 131,
   "top_track": {
-    "name": "Trophy",
+    "name": "Dying for You",
     "artists": [
       "Charli xcx"
     ],
     "play_count": 4,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 23
+      "count": 22
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 8
     }
   ],
-  "updated_at": "2026-08-10T16:40:33.190Z"
+  "updated_at": "2026-08-10T20:29:28.859Z"
 }
