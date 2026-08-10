@@ -4896,5 +4896,51 @@
       "Addison Rae"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2737eae5dee68960ef1652ff044"
+  },
+  {
+    "played_at": "2026-08-10T01:43:20.840Z",
+    "track_id": "1rIKgCH4H52lrvDcz50hS8",
+    "track_name": "Lush Life",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582"
+  },
+  {
+    "played_at": "2026-08-10T01:45:43.034Z",
+    "track_id": "4KmkJjHTNlr1jFY56Lyz4E",
+    "track_name": "PINKY UP",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b"
+  },
+  {
+    "played_at": "2026-08-10T01:52:20.796Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-08-10T01:56:38.495Z",
+    "track_id": "6XcyAXAYKQD7FqCG2F2xOu",
+    "track_name": "Hot & Sexy",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
+  },
+  {
+    "played_at": "2026-08-10T02:00:13.674Z",
+    "track_id": "3kDO0ttXrVCWbKCS3sQeC1",
+    "track_name": "Aquamarine",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
   }
 ]
