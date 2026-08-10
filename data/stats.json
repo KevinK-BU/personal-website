@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-02T20:17:46.100Z",
-  "week_end": "2026-08-09T20:17:46.100Z",
-  "total_plays": 165,
+  "week_start": "2026-08-03T00:48:38.893Z",
+  "week_end": "2026-08-10T00:48:38.893Z",
+  "total_plays": 164,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 9
     }
   ],
-  "updated_at": "2026-08-09T20:17:46.101Z"
+  "updated_at": "2026-08-10T00:48:38.894Z"
 }
