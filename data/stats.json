@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-03T20:29:28.858Z",
-  "week_end": "2026-08-10T20:29:28.858Z",
-  "total_plays": 131,
+  "week_start": "2026-08-04T00:47:55.440Z",
+  "week_end": "2026-08-11T00:47:55.440Z",
+  "total_plays": 126,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PinkPantheress",
       "count": 8
     }
   ],
-  "updated_at": "2026-08-10T20:29:28.859Z"
+  "updated_at": "2026-08-11T00:47:55.441Z"
 }
