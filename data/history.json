@@ -5705,5 +5705,33 @@
       "Nicki Minaj"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734f0aae4e435a794e0e24d115"
+  },
+  {
+    "played_at": "2026-08-11T16:16:12.306Z",
+    "track_id": "7CwWhMGWICOl2ICwbk3QTE",
+    "track_name": "Talk talk featuring troye sivan",
+    "artists": [
+      "Charli xcx",
+      "Troye Sivan"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-08-11T16:19:39.951Z",
+    "track_id": "0ZzHRRPxUmNVr4vWNnlDAe",
+    "track_name": "Stars",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-08-11T16:22:58.241Z",
+    "track_id": "1hIj5fZhmr8hsEpWhMOoiy",
+    "track_name": "Supernova",
+    "artists": [
+      "Kylie Minogue"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273730fba727eec2fc4dfd06a11"
   }
 ]
