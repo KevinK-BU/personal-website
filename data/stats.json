@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-05T12:39:38.161Z",
-  "week_end": "2026-08-12T12:39:38.161Z",
-  "total_plays": 201,
+  "week_start": "2026-08-05T16:43:40.929Z",
+  "week_end": "2026-08-12T16:43:40.929Z",
+  "total_plays": 196,
   "top_track": {
     "name": "Girl Like Me",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 18
+      "count": 17
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 10
     }
   ],
-  "updated_at": "2026-08-12T12:39:38.162Z"
+  "updated_at": "2026-08-12T16:43:40.930Z"
 }
