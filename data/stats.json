@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-05T08:58:37.709Z",
-  "week_end": "2026-08-12T08:58:37.709Z",
-  "total_plays": 209,
+  "week_start": "2026-08-05T12:39:38.161Z",
+  "week_end": "2026-08-12T12:39:38.161Z",
+  "total_plays": 201,
   "top_track": {
-    "name": "Dying for You",
+    "name": "Girl Like Me",
     "artists": [
-      "Charli xcx"
+      "PinkPantheress"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 19
+      "count": 18
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 16
+      "count": 15
     },
     {
       "name": "PinkPantheress",
       "count": 10
     }
   ],
-  "updated_at": "2026-08-12T08:58:37.710Z"
+  "updated_at": "2026-08-12T12:39:38.162Z"
 }
