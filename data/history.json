@@ -5733,5 +5733,50 @@
       "Kylie Minogue"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273730fba727eec2fc4dfd06a11"
+  },
+  {
+    "played_at": "2026-08-11T21:56:22.786Z",
+    "track_id": "0tMSssfxAL2oV8Vri0mFHE",
+    "track_name": "listen before i go",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-08-11T21:57:51.198Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-11T22:18:44.149Z",
+    "track_id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+    "track_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e"
+  },
+  {
+    "played_at": "2026-08-11T22:21:16.816Z",
+    "track_id": "6TGd66r0nlPaYm3KIoI7ET",
+    "track_name": "THE GREATEST",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-08-11T22:31:27.747Z",
+    "track_id": "3dk7WaeS0y0JG0OMd0FVcg",
+    "track_name": "Spring breakers",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
   }
 ]
