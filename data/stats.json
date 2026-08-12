@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-05T16:43:40.929Z",
-  "week_end": "2026-08-12T16:43:40.929Z",
-  "total_plays": 196,
+  "week_start": "2026-08-05T20:30:03.208Z",
+  "week_end": "2026-08-12T20:30:03.208Z",
+  "total_plays": 183,
   "top_track": {
-    "name": "Girl Like Me",
+    "name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
     "artists": [
-      "PinkPantheress"
+      "Billie Eilish"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 17
-    },
-    {
-      "name": "Olivia Rodrigo",
       "count": 15
     },
     {
-      "name": "PinkPantheress",
-      "count": 10
+      "name": "Olivia Rodrigo",
+      "count": 13
+    },
+    {
+      "name": "Mac DeMarco",
+      "count": 8
     }
   ],
-  "updated_at": "2026-08-12T16:43:40.930Z"
+  "updated_at": "2026-08-12T20:30:03.209Z"
 }
