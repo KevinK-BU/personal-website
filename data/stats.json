@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-06T00:56:38.249Z",
-  "week_end": "2026-08-13T00:56:38.249Z",
-  "total_plays": 188,
+  "week_start": "2026-08-06T05:25:46.732Z",
+  "week_end": "2026-08-13T05:25:46.732Z",
+  "total_plays": 221,
   "top_track": {
     "name": "Tonight",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 13
+      "count": 15
     },
     {
       "name": "Beyoncé",
-      "count": 9
+      "count": 12
     }
   ],
-  "updated_at": "2026-08-13T00:56:38.250Z"
+  "updated_at": "2026-08-13T05:25:46.733Z"
 }
