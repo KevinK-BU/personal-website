@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-05T20:30:03.208Z",
-  "week_end": "2026-08-12T20:30:03.208Z",
-  "total_plays": 183,
+  "week_start": "2026-08-06T00:56:38.249Z",
+  "week_end": "2026-08-13T00:56:38.249Z",
+  "total_plays": 188,
   "top_track": {
-    "name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+    "name": "Tonight",
     "artists": [
-      "Billie Eilish"
+      "PinkPantheress"
     ],
     "play_count": 3,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Olivia Rodrigo",
       "count": 13
     },
     {
-      "name": "Mac DeMarco",
-      "count": 8
+      "name": "Beyoncé",
+      "count": 9
     }
   ],
-  "updated_at": "2026-08-12T20:30:03.209Z"
+  "updated_at": "2026-08-13T00:56:38.250Z"
 }
