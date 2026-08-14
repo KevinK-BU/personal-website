@@ -6592,5 +6592,78 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-08-14T19:01:19.825Z",
+    "track_id": "5rfOARz6QO73wPATyMtQQZ",
+    "track_name": "DANCE...",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27313823d6fa982add5b750bf15"
+  },
+  {
+    "played_at": "2026-08-14T19:03:45.888Z",
+    "track_id": "4KmkJjHTNlr1jFY56Lyz4E",
+    "track_name": "PINKY UP",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b"
+  },
+  {
+    "played_at": "2026-08-14T19:07:37.450Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-08-14T19:10:03.438Z",
+    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
+    "track_name": "Girl Like Me",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-08-14T19:17:59.117Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-14T19:23:12.289Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-14T19:25:22.271Z",
+    "track_id": "4ipzXe2jmoeN7zm2VMb4eX",
+    "track_name": "Hasta Cuando",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+  },
+  {
+    "played_at": "2026-08-14T19:28:22.749Z",
+    "track_id": "541sN2qNfIlllGn9nGOQoC",
+    "track_name": "Revolving door",
+    "artists": [
+      "Tate McRae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27330420759f1a2cd4923c5c65b"
   }
 ]
