@@ -7039,5 +7039,23 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-15T16:05:47.319Z",
+    "track_id": "6K8VQ84MqhsoakN5MjrnVR",
+    "track_name": "Supercut",
+    "artists": [
+      "Lorde"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336"
+  },
+  {
+    "played_at": "2026-08-15T16:09:11.255Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
