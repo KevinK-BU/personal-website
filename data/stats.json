@@ -1,29 +1,29 @@
 {
-  "week_start": "2026-08-11T00:31:27.915Z",
-  "week_end": "2026-08-18T00:31:27.915Z",
-  "total_plays": 336,
+  "week_start": "2026-08-11T04:23:28.716Z",
+  "week_end": "2026-08-18T04:23:28.716Z",
+  "total_plays": 342,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
       "FKA twigs",
       "Lil Yachty"
     ],
-    "play_count": 7,
+    "play_count": 8,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 29
+      "count": 34
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 23
     },
     {
       "name": "Beyoncé",
-      "count": 17
+      "count": 20
     }
   ],
-  "updated_at": "2026-08-18T00:31:27.916Z"
+  "updated_at": "2026-08-18T04:23:28.718Z"
 }
