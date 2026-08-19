@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-12T00:32:27.380Z",
-  "week_end": "2026-08-19T00:32:27.380Z",
-  "total_plays": 287,
+  "week_start": "2026-08-12T04:24:38.165Z",
+  "week_end": "2026-08-19T04:24:38.165Z",
+  "total_plays": 291,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -14,16 +14,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 31
+      "count": 33
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Beyoncé",
       "count": 18
     }
   ],
-  "updated_at": "2026-08-19T00:32:27.381Z"
+  "updated_at": "2026-08-19T04:24:38.167Z"
 }

@@ -8442,5 +8442,42 @@
       "ADÉLA"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
+  },
+  {
+    "played_at": "2026-08-19T02:00:48.461Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-08-19T02:11:24.640Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-08-19T02:14:49.023Z",
+    "track_id": "1RGidCmtrqER8GBs8TnG9C",
+    "track_name": "Everything is romantic featuring caroline polachek",
+    "artists": [
+      "Charli xcx",
+      "Caroline Polachek"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-08-19T02:38:36.863Z",
+    "track_id": "20jbSiX29FDX4oQxBXyUEi",
+    "track_name": "hate that i made you love me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c"
   }
 ]
