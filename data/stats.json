@@ -1,20 +1,20 @@
 {
-  "week_start": "2026-08-15T00:31:29.372Z",
-  "week_end": "2026-08-22T00:31:29.372Z",
-  "total_plays": 240,
+  "week_start": "2026-08-15T04:20:13.376Z",
+  "week_end": "2026-08-22T04:20:13.376Z",
+  "total_plays": 219,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
       "FKA twigs",
       "Lil Yachty"
     ],
-    "play_count": 6,
+    "play_count": 4,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 27
+      "count": 24
     },
     {
       "name": "Bad Bunny",
@@ -25,5 +25,5 @@
       "count": 15
     }
   ],
-  "updated_at": "2026-08-22T00:31:29.373Z"
+  "updated_at": "2026-08-22T04:20:13.377Z"
 }
