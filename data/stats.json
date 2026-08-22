@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-15T04:20:13.376Z",
-  "week_end": "2026-08-22T04:20:13.376Z",
-  "total_plays": 219,
+  "week_start": "2026-08-15T08:15:22.485Z",
+  "week_end": "2026-08-22T08:15:22.485Z",
+  "total_plays": 200,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -17,13 +17,13 @@
       "count": 24
     },
     {
-      "name": "Bad Bunny",
-      "count": 16
-    },
-    {
       "name": "Beyoncé",
       "count": 15
+    },
+    {
+      "name": "Bad Bunny",
+      "count": 14
     }
   ],
-  "updated_at": "2026-08-22T04:20:13.377Z"
+  "updated_at": "2026-08-22T08:15:22.486Z"
 }
