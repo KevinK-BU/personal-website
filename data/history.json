@@ -1,32 +1,5 @@
 [
   {
-    "played_at": "2026-07-18T20:39:43.650Z",
-    "track_id": "4bkClAuofJULiaIZsuL3gT",
-    "track_name": "expectations",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
-    "played_at": "2026-07-19T00:24:00.323Z",
-    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
-    "track_name": "purple",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-07-19T00:26:12.480Z",
-    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
-    "track_name": "purple",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
     "played_at": "2026-07-19T03:50:46.634Z",
     "track_id": "4EoJ151oQ5jY48z4RhSE96",
     "track_name": "the cure",
@@ -8676,5 +8649,80 @@
       "Ariana Grande"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c"
+  },
+  {
+    "played_at": "2026-08-22T01:33:51.670Z",
+    "track_id": "0KDHIZn2go4pO5wXtGAKn2",
+    "track_name": "Alter Ego (Precious Remix)[with JT]",
+    "artists": [
+      "Doechii",
+      "JT",
+      "Precious"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1e4bce5039565c68f8ce1e9"
+  },
+  {
+    "played_at": "2026-08-22T21:58:15.721Z",
+    "track_id": "6oUUmBcUbZa5O48V5pjgAD",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
+  },
+  {
+    "played_at": "2026-08-22T22:01:16.224Z",
+    "track_id": "6eqQLOOiqBnrwKQEzXoHll",
+    "track_name": "CRANK",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
+  },
+  {
+    "played_at": "2026-08-22T22:04:21.436Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-08-22T22:08:34.923Z",
+    "track_id": "5QCfOMH5K7bS4dH7H7PNeI",
+    "track_name": "Tonight",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-08-22T22:18:07.442Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-22T22:21:58.097Z",
+    "track_id": "4pmc2AxSEq6g7hPVlJCPyP",
+    "track_name": "Jumpin', Jumpin'",
+    "artists": [
+      "Destiny's Child"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733718df75b57340c1947747e8"
+  },
+  {
+    "played_at": "2026-08-22T22:25:26.394Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   }
 ]
