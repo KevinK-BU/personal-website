@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-17T00:33:31.129Z",
-  "week_end": "2026-08-24T00:33:31.129Z",
-  "total_plays": 193,
+  "week_start": "2026-08-17T04:33:38.981Z",
+  "week_end": "2026-08-24T04:33:38.981Z",
+  "total_plays": 183,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -14,16 +14,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 20
-    },
-    {
-      "name": "Beyoncé",
-      "count": 15
+      "count": 18
     },
     {
       "name": "Bad Bunny",
       "count": 14
+    },
+    {
+      "name": "Nicki Minaj",
+      "count": 13
     }
   ],
-  "updated_at": "2026-08-24T00:33:31.130Z"
+  "updated_at": "2026-08-24T04:33:38.983Z"
 }
