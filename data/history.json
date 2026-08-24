@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-07-19T21:06:34.640Z",
-    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
-    "track_name": "cigarette smoke",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
     "played_at": "2026-07-20T05:20:00.039Z",
     "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
     "track_name": "cigarette smoke",
@@ -8685,5 +8676,33 @@
       "Lady Gaga"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
+  },
+  {
+    "played_at": "2026-08-23T20:11:59.910Z",
+    "track_id": "5b5cPscqVEMChvDqscVw26",
+    "track_name": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575"
+  },
+  {
+    "played_at": "2026-08-23T20:14:54.292Z",
+    "track_id": "6I9VzXrHxO9rA9A5euc8Ak",
+    "track_name": "Toxic",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
+  },
+  {
+    "played_at": "2026-08-23T20:19:11.217Z",
+    "track_id": "1gZ7i4qxXkHZb1r6eioaAP",
+    "track_name": "Don't Cha",
+    "artists": [
+      "The Pussycat Dolls",
+      "Busta Rhymes"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
   }
 ]
