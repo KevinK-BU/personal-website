@@ -1,41 +1,5 @@
 [
   {
-    "played_at": "2026-07-20T20:56:03.508Z",
-    "track_id": "4EoJ151oQ5jY48z4RhSE96",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
-  },
-  {
-    "played_at": "2026-07-20T21:00:17.467Z",
-    "track_id": "41nT1Sp6ChR65FbsdLlFHW",
-    "track_name": "Bootylicious",
-    "artists": [
-      "Destiny's Child"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273163cdae7f1e2c82786a84e3e"
-  },
-  {
-    "played_at": "2026-07-20T21:26:16.545Z",
-    "track_id": "1xWH8zYtDeS9mW1JJG23VZ",
-    "track_name": "R.E.M",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394"
-  },
-  {
-    "played_at": "2026-07-20T21:31:03.894Z",
-    "track_id": "2wQZ5DBJiir4QJkdbzyBm3",
-    "track_name": "LIGHT AGAIN!",
-    "artists": [
-      "Lil Nas X"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a0fb14fbac7f5b50e68e7d45"
-  },
-  {
     "played_at": "2026-07-21T02:19:41.076Z",
     "track_id": "42tYHqMxXxXHAAWqLaoOfQ",
     "track_name": "MacArthur Park - Single Version",
@@ -8669,5 +8633,32 @@
       "Ayesha Erotica"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735e4a4e08337fbba6762fc1ca"
+  },
+  {
+    "played_at": "2026-08-25T00:19:24.289Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-08-25T00:27:34.502Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-25T00:31:09.653Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]
