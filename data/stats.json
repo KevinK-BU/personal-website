@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-19T00:34:07.135Z",
-  "week_end": "2026-08-26T00:34:07.135Z",
-  "total_plays": 148,
+  "week_start": "2026-08-19T04:28:03.978Z",
+  "week_end": "2026-08-26T04:28:03.978Z",
+  "total_plays": 144,
   "top_track": {
     "name": "cigarette smoke",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 18
+      "count": 16
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Beyoncé",
       "count": 9
     }
   ],
-  "updated_at": "2026-08-26T00:34:07.137Z"
+  "updated_at": "2026-08-26T04:28:03.979Z"
 }
