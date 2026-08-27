@@ -1,13 +1,13 @@
 {
-  "week_start": "2026-08-19T22:33:22.077Z",
-  "week_end": "2026-08-26T22:33:22.077Z",
-  "total_plays": 144,
+  "week_start": "2026-08-20T05:26:29.604Z",
+  "week_end": "2026-08-27T05:26:29.604Z",
+  "total_plays": 170,
   "top_track": {
     "name": "cigarette smoke",
     "artists": [
       "Olivia Rodrigo"
     ],
-    "play_count": 4,
+    "play_count": 5,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   },
   "top_artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 10
+      "count": 16
     },
     {
       "name": "Beyoncé",
-      "count": 9
+      "count": 10
     }
   ],
-  "updated_at": "2026-08-26T22:33:22.078Z"
+  "updated_at": "2026-08-27T05:26:29.605Z"
 }
