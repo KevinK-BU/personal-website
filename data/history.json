@@ -1,155 +1,5 @@
 [
   {
-    "played_at": "2026-07-23T06:06:39.735Z",
-    "track_id": "7gaA3wERFkFkgivjwbSvkG",
-    "track_name": "yes, and?",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6"
-  },
-  {
-    "played_at": "2026-07-23T11:30:49.122Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
-    "played_at": "2026-07-23T11:44:00.589Z",
-    "track_id": "4EoJ151oQ5jY48z4RhSE96",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
-  },
-  {
-    "played_at": "2026-07-23T12:01:42.219Z",
-    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
-    "track_name": "Diva",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
-  },
-  {
-    "played_at": "2026-07-23T12:04:32.495Z",
-    "track_id": "3k4CoiIQXiNBrwrmbBMDxj",
-    "track_name": "ALL UP IN YOUR MIND",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-07-23T12:10:47.008Z",
-    "track_id": "5mUlozUYpdmXVPkj4BW8cA",
-    "track_name": "TYRANT",
-    "artists": [
-      "Beyoncé",
-      "Dolly Parton"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
-  },
-  {
-    "played_at": "2026-07-23T12:12:20.151Z",
-    "track_id": "5YLGlPYkZBDXieMwzVve7g",
-    "track_name": "MOVE (feat. Grace Jones & Tems)",
-    "artists": [
-      "Beyoncé",
-      "Grace Jones",
-      "Tems"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-07-23T16:04:26.039Z",
-    "track_id": "4bkClAuofJULiaIZsuL3gT",
-    "track_name": "expectations",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
-    "played_at": "2026-07-23T16:07:51.733Z",
-    "track_id": "20jbSiX29FDX4oQxBXyUEi",
-    "track_name": "hate that i made you love me",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c"
-  },
-  {
-    "played_at": "2026-07-23T16:11:57.114Z",
-    "track_id": "4dvQg9sD8k9y4qiEURuj8v",
-    "track_name": "Lose My Breath",
-    "artists": [
-      "Destiny's Child"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735a4df8a804866955ab8c4def"
-  },
-  {
-    "played_at": "2026-07-23T16:18:44.304Z",
-    "track_id": "51jBoXb9mj2Pv1oD9Stysx",
-    "track_name": "Frequency",
-    "artists": [
-      "Demi Lovato"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e38b894c6fd27be7f3327015"
-  },
-  {
-    "played_at": "2026-07-23T16:53:34Z",
-    "track_id": "37UCSVSqiPGdR1DijOFyYY",
-    "track_name": "Midnight Sun",
-    "artists": [
-      "Zara Larsson"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead"
-  },
-  {
-    "played_at": "2026-07-23T17:08:24.755Z",
-    "track_id": "6Ou2HNjSmOQHShb22AJRmk",
-    "track_name": "I Don't Sell - Records Remix",
-    "artists": [
-      "umru",
-      "Chase Icon",
-      "JEL: The Digital Dream Girl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273856095a60f4404ef411607ee"
-  },
-  {
-    "played_at": "2026-07-23T17:12:13.600Z",
-    "track_id": "0sdbFOyfgAhAhWq8DpzkaW",
-    "track_name": "the light is coming (feat. Nicki Minaj)",
-    "artists": [
-      "Ariana Grande",
-      "Nicki Minaj"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394"
-  },
-  {
-    "played_at": "2026-07-23T17:17:37.830Z",
-    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
-    "track_name": "Girl Like Me",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-07-23T17:17:41.213Z",
-    "track_id": "1a19jsjG2DvbN1fVJonKUU",
-    "track_name": "Beaches",
-    "artists": [
-      "beabadoobee"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa"
-  },
-  {
     "played_at": "2026-07-23T19:40:17.722Z",
     "track_id": "1gZ7i4qxXkHZb1r6eioaAP",
     "track_name": "Don't Cha",
@@ -8663,5 +8513,191 @@
       "Nicki Minaj"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
+  },
+  {
+    "played_at": "2026-08-27T05:27:47.851Z",
+    "track_id": "6Y46tOTRhkBamosyuWa6YX",
+    "track_name": "LA FAMA",
+    "artists": [
+      "ROSALÍA",
+      "The Weeknd"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ac8367a27c0eb7195dc3a58d"
+  },
+  {
+    "played_at": "2026-08-27T05:31:35.088Z",
+    "track_id": "2ROQe6QkIXODJRx0y8UjzV",
+    "track_name": "Delincuente",
+    "artists": [
+      "Tokischa",
+      "Anuel AA",
+      "Ñengo Flow"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f0a8f2ab4b523cb7a92dc3ff"
+  },
+  {
+    "played_at": "2026-08-27T05:34:00.563Z",
+    "track_id": "4NpwTYTjdYAffkixiY3TnW",
+    "track_name": "Fuck up the Fun",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f6e1476d2f72752b77bd46a7"
+  },
+  {
+    "played_at": "2026-08-27T05:38:29.222Z",
+    "track_id": "2bkyTJ4bAnc8a5ly3dg9DX",
+    "track_name": "Pills N Potions",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730f79d1616e3b02368d41f458"
+  },
+  {
+    "played_at": "2026-08-27T05:41:39.682Z",
+    "track_id": "37UCSVSqiPGdR1DijOFyYY",
+    "track_name": "Midnight Sun",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead"
+  },
+  {
+    "played_at": "2026-08-27T05:44:41.095Z",
+    "track_id": "5ZJGv7aGdIr9IGpxzSG18T",
+    "track_name": "Everybody (feat. Lil Uzi Vert)",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Uzi Vert"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
+  },
+  {
+    "played_at": "2026-08-27T05:48:24.596Z",
+    "track_id": "4T652DlATVHe0jdLKaN3Bw",
+    "track_name": "in my head",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
+  },
+  {
+    "played_at": "2026-08-27T05:52:19.992Z",
+    "track_id": "7niKxzFThgRf5fXlIYdjtZ",
+    "track_name": "Lipgloss (feat. CupcakKe)",
+    "artists": [
+      "Charli xcx",
+      "cupcakKe"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
+  },
+  {
+    "played_at": "2026-08-27T05:57:08.597Z",
+    "track_id": "0Yk6Xgk1Do6fAJWydT1dI6",
+    "track_name": "State Of The World",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371511473d9e34fcdc13d90ef"
+  },
+  {
+    "played_at": "2026-08-27T05:59:48.730Z",
+    "track_id": "1eTaznNW4Xxtx9za2SMTXB",
+    "track_name": "DENIAL IS A RIVER",
+    "artists": [
+      "Doechii"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b245099fe26319344ddf6054"
+  },
+  {
+    "played_at": "2026-08-27T06:04:19.219Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-27T06:06:18.525Z",
+    "track_id": "51NYFGDXYKS4FkRqkw98hx",
+    "track_name": "Like Me",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b626598f98802d945774fd1d"
+  },
+  {
+    "played_at": "2026-08-27T06:09:36.163Z",
+    "track_id": "13VDHbpoKlRhtgUaWTE2Ld",
+    "track_name": "Stupid Hoe",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27385235715597dcd07bb9e0f84"
+  },
+  {
+    "played_at": "2026-08-27T06:12:34.937Z",
+    "track_id": "3jYW03V9XeM2w7LJ0EXQDC",
+    "track_name": "Cockiness (Love It)",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef"
+  },
+  {
+    "played_at": "2026-08-27T06:15:33.445Z",
+    "track_id": "1qEmFfgcLObUfQm0j1W2CK",
+    "track_name": "Late Night Talking",
+    "artists": [
+      "Harry Styles"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee"
+  },
+  {
+    "played_at": "2026-08-27T06:18:17.513Z",
+    "track_id": "7h1OtABVvKN9Okr6KfjMoX",
+    "track_name": "Missed Connections",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27324b9396acab49f4dc44ccf1e"
+  },
+  {
+    "played_at": "2026-08-27T06:22:56.389Z",
+    "track_id": "4qG7hWhljsqqENL5PaLA2z",
+    "track_name": "Let The Light In (feat. Father John Misty)",
+    "artists": [
+      "Lana Del Rey",
+      "Father John Misty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634"
+  },
+  {
+    "played_at": "2026-08-27T06:25:17.678Z",
+    "track_id": "6RJiY28t9jWpdy1JkUhNgK",
+    "track_name": "Mequetrefe",
+    "artists": [
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733fb118a60e7a487d5586b2d7"
+  },
+  {
+    "played_at": "2026-08-27T06:28:14.235Z",
+    "track_id": "2NMjggapJcXXM7WccGEBUO",
+    "track_name": "Enséñame a Bailar",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72"
+  },
+  {
+    "played_at": "2026-08-27T06:31:03.412Z",
+    "track_id": "50GxvQA2KEWNt31EdwIlzY",
+    "track_name": "Rewind",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
