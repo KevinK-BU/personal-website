@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-20T18:28:04.985Z",
-  "week_end": "2026-08-27T18:28:04.985Z",
-  "total_plays": 152,
+  "week_start": "2026-08-21T03:53:36.525Z",
+  "week_end": "2026-08-28T03:53:36.525Z",
+  "total_plays": 164,
   "top_track": {
     "name": "cigarette smoke",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 17
+      "count": 21
     },
     {
       "name": "Charli xcx",
       "count": 15
     },
     {
-      "name": "PinkPantheress",
-      "count": 7
+      "name": "Bad Bunny",
+      "count": 8
     }
   ],
-  "updated_at": "2026-08-27T18:28:04.986Z"
+  "updated_at": "2026-08-28T03:53:36.526Z"
 }

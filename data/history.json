@@ -1,187 +1,5 @@
 [
   {
-    "played_at": "2026-07-23T19:40:17.722Z",
-    "track_id": "1gZ7i4qxXkHZb1r6eioaAP",
-    "track_name": "Don't Cha",
-    "artists": [
-      "The Pussycat Dolls",
-      "Busta Rhymes"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
-  },
-  {
-    "played_at": "2026-07-23T19:43:41.807Z",
-    "track_id": "5h68SoVFGleijCtjEja3xG",
-    "track_name": "365",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-07-23T19:47:06.568Z",
-    "track_id": "1e4rwBPVI32vZtTJu7mJ4J",
-    "track_name": "Chun-Li",
-    "artists": [
-      "Nicki Minaj"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4"
-  },
-  {
-    "played_at": "2026-07-23T19:50:02.777Z",
-    "track_id": "5lFu1VR7s2EvuKAi6qxU0G",
-    "track_name": "CRANK",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273d4cf50c3d8b9196ae6754e81"
-  },
-  {
-    "played_at": "2026-07-23T19:59:31.732Z",
-    "track_id": "3cWQRSutAjP6PY3kPzgi2b",
-    "track_name": "Rock Music",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b7bc469a85354ff1ae7a1386"
-  },
-  {
-    "played_at": "2026-07-23T20:01:58.120Z",
-    "track_id": "5dry5tz8yLcLuOJ3l6ZEQd",
-    "track_name": "Used to Know Me",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273eefcaa4f481bb1c3b3b53743"
-  },
-  {
-    "played_at": "2026-07-23T22:23:23.102Z",
-    "track_id": "6GjXR9FaxCuDNbqBrP9aYO",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737aa38b76a2c915ed73ca15c6"
-  },
-  {
-    "played_at": "2026-07-23T22:27:57.343Z",
-    "track_id": "4lD7gHKF1e8Y9stQuVezZB",
-    "track_name": "ghostin",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6"
-  },
-  {
-    "played_at": "2026-07-23T22:30:39.017Z",
-    "track_id": "5BBkvXH2jYROUzKIB7WX7S",
-    "track_name": "intro (end of the world) - extended",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9"
-  },
-  {
-    "played_at": "2026-07-23T22:33:12.217Z",
-    "track_id": "5JCoSi02qi3jJeHdZXMmR8",
-    "track_name": "favorite crime",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-  },
-  {
-    "played_at": "2026-07-23T22:37:06.919Z",
-    "track_id": "08PdFBcXzpkn1cWNgmKqhn",
-    "track_name": "Promise",
-    "artists": [
-      "Laufey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
-  },
-  {
-    "played_at": "2026-07-23T22:40:18.389Z",
-    "track_id": "1oFAF1hdPOickyHgbuRjyX",
-    "track_name": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
-    "artists": [
-      "The Weeknd",
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf"
-  },
-  {
-    "played_at": "2026-07-23T22:45:04.768Z",
-    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
-    "track_name": "Love In The Dark",
-    "artists": [
-      "Adele"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
-  },
-  {
-    "played_at": "2026-07-23T22:48:07.468Z",
-    "track_id": "4SPu0Ql902hTVXkBoNIYtq",
-    "track_name": "NASA",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379826f235cf8bc00256db3a6"
-  },
-  {
-    "played_at": "2026-07-23T22:51:25.989Z",
-    "track_id": "4xqrdfXkTW4T0RauPLv3WA",
-    "track_name": "Heather",
-    "artists": [
-      "Conan Gray"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
-  },
-  {
-    "played_at": "2026-07-23T22:55:28.463Z",
-    "track_id": "5wANPM4fQCJwkGd4rN57mH",
-    "track_name": "drivers license",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-  },
-  {
-    "played_at": "2026-07-23T23:00:08.124Z",
-    "track_id": "4PMqSO5qyjpvzhlLI5GnID",
-    "track_name": "Good Days",
-    "artists": [
-      "SZA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
-  },
-  {
-    "played_at": "2026-07-23T23:23:51.505Z",
-    "track_id": "6ghDayhHeBXAP4OOnnrFW9",
-    "track_name": "David",
-    "artists": [
-      "Lorde"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27323d41bf736920a032e222a78"
-  },
-  {
-    "played_at": "2026-07-23T23:27:29.019Z",
-    "track_id": "7gkZNvBHfI30qG7hA0eopT",
-    "track_name": "Die On This Hill",
-    "artists": [
-      "SIENNA SPIRO"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b"
-  },
-  {
-    "played_at": "2026-07-23T23:27:31.219Z",
-    "track_id": "3Nl5OkkmS5DaBZvuYofpAt",
-    "track_name": "the grudge",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d"
-  },
-  {
     "played_at": "2026-07-24T18:40:02.358Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -8699,5 +8517,116 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-08-27T07:10:40.022Z",
+    "track_id": "20jbSiX29FDX4oQxBXyUEi",
+    "track_name": "hate that i made you love me",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c"
+  },
+  {
+    "played_at": "2026-08-27T23:22:11.713Z",
+    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
+    "track_name": "serena joy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-08-27T23:24:23.486Z",
+    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
+    "track_name": "Purrr",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-08-27T23:27:22.524Z",
+    "track_id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+    "track_name": "Me Porto Bonito",
+    "artists": [
+      "Bad Bunny",
+      "Chencho Corleone"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72"
+  },
+  {
+    "played_at": "2026-08-27T23:57:45.844Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-28T00:01:53.329Z",
+    "track_id": "6Hdc3IQeyCxG5d14uAcwQW",
+    "track_name": "u + me = <3",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-28T00:03:04.468Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-28T02:09:32.592Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-08-28T02:12:25.782Z",
+    "track_id": "6Uj1ctrBOjOas8xZXGqKk4",
+    "track_name": "Woman",
+    "artists": [
+      "Doja Cat"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
+  },
+  {
+    "played_at": "2026-08-28T02:15:19.574Z",
+    "track_id": "1mnQiO568zXIrUncttTZGp",
+    "track_name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+    "artists": [
+      "Queen"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27395313a5eee00d9bdf37883e2"
+  },
+  {
+    "played_at": "2026-08-28T02:21:12.820Z",
+    "track_id": "5hgnY0mVcVetszbb85qeDg",
+    "track_name": "Partition",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+  },
+  {
+    "played_at": "2026-08-28T02:25:09.076Z",
+    "track_id": "4I4G0LD277PWvfblYtSf91",
+    "track_name": "Needle (feat. Drake)",
+    "artists": [
+      "Nicki Minaj",
+      "Drake"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
   }
 ]
