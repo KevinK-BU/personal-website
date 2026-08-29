@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-21T15:44:31.954Z",
-  "week_end": "2026-08-28T15:44:31.954Z",
-  "total_plays": 164,
+  "week_start": "2026-08-22T00:12:17.053Z",
+  "week_end": "2026-08-29T00:12:17.053Z",
+  "total_plays": 214,
   "top_track": {
-    "name": "cigarette smoke",
+    "name": "Club classics",
     "artists": [
-      "Olivia Rodrigo"
+      "Charli xcx"
     ],
-    "play_count": 5,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+    "play_count": 29,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
-      "name": "Olivia Rodrigo",
-      "count": 21
-    },
-    {
       "name": "Charli xcx",
-      "count": 15
+      "count": 45
     },
     {
-      "name": "Bad Bunny",
-      "count": 8
+      "name": "Olivia Rodrigo",
+      "count": 22
+    },
+    {
+      "name": "Azealia Banks",
+      "count": 9
     }
   ],
-  "updated_at": "2026-08-28T15:44:31.954Z"
+  "updated_at": "2026-08-29T00:12:17.054Z"
 }
