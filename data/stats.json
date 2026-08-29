@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-22T18:57:36.257Z",
-  "week_end": "2026-08-29T18:57:36.257Z",
-  "total_plays": 213,
+  "week_start": "2026-08-22T22:04:45.471Z",
+  "week_end": "2026-08-29T22:04:45.471Z",
+  "total_plays": 215,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 22
+      "count": 26
     },
     {
       "name": "Azealia Banks",
       "count": 9
     }
   ],
-  "updated_at": "2026-08-29T18:57:36.258Z"
+  "updated_at": "2026-08-29T22:04:45.472Z"
 }

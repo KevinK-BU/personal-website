@@ -8988,5 +8988,50 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-08-28T22:42:53.477Z",
+    "track_id": "4OkPamOn5GofkOQu64Z4eR",
+    "track_name": "Teddy Picker",
+    "artists": [
+      "Arctic Monkeys"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90"
+  },
+  {
+    "played_at": "2026-08-29T21:50:33.726Z",
+    "track_id": "0yO9QD2Ga7eUzqnNYsSSPo",
+    "track_name": "drop dead",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-29T21:54:03.432Z",
+    "track_id": "4LfCY65LvojKjWEnU7fNN4",
+    "track_name": "stupid song",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-29T21:57:46.740Z",
+    "track_id": "407LgLkk1uM3wMO6jVRe0a",
+    "track_name": "honeybee",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-08-29T22:01:46.791Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]
