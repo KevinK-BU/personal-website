@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-22T00:12:17.053Z",
-  "week_end": "2026-08-29T00:12:17.053Z",
-  "total_plays": 214,
+  "week_start": "2026-08-22T10:31:52.628Z",
+  "week_end": "2026-08-29T10:31:52.628Z",
+  "total_plays": 213,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 9
     }
   ],
-  "updated_at": "2026-08-29T00:12:17.054Z"
+  "updated_at": "2026-08-29T10:31:52.629Z"
 }
