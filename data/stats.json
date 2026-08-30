@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-22T22:04:45.471Z",
-  "week_end": "2026-08-29T22:04:45.471Z",
-  "total_plays": 215,
+  "week_start": "2026-08-23T02:03:50.091Z",
+  "week_end": "2026-08-30T02:03:50.091Z",
+  "total_plays": 240,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 45
+      "count": 47
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 26
+      "count": 34
     },
     {
       "name": "Azealia Banks",
-      "count": 9
+      "count": 10
     }
   ],
-  "updated_at": "2026-08-29T22:04:45.472Z"
+  "updated_at": "2026-08-30T02:03:50.093Z"
 }
