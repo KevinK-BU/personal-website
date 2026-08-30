@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-23T18:53:32.310Z",
-  "week_end": "2026-08-30T18:53:32.310Z",
-  "total_plays": 241,
+  "week_start": "2026-08-23T22:11:46.637Z",
+  "week_end": "2026-08-30T22:11:46.637Z",
+  "total_plays": 217,
   "top_track": {
     "name": "Club classics",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 29,
+    "play_count": 28,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 47
+      "count": 45
     },
     {
       "name": "Olivia Rodrigo",
       "count": 34
     },
     {
-      "name": "Azealia Banks",
-      "count": 10
+      "name": "Bad Bunny",
+      "count": 9
     }
   ],
-  "updated_at": "2026-08-30T18:53:32.312Z"
+  "updated_at": "2026-08-30T22:11:46.639Z"
 }
