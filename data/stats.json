@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-24T23:28:18.226Z",
-  "week_end": "2026-08-31T23:28:18.226Z",
-  "total_plays": 157,
+  "week_start": "2026-08-25T02:21:04.472Z",
+  "week_end": "2026-09-01T02:21:04.472Z",
+  "total_plays": 149,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 36
+      "count": 35
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 27
+      "count": 25
     },
     {
       "name": "Bad Bunny",
       "count": 7
     }
   ],
-  "updated_at": "2026-08-31T23:28:18.226Z"
+  "updated_at": "2026-09-01T02:21:04.474Z"
 }
