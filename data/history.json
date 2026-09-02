@@ -1,36 +1,5 @@
 [
   {
-    "played_at": "2026-07-29T00:38:45.644Z",
-    "track_id": "5qzLdvRViHUrRNdkpakG7C",
-    "track_name": "BATICANO",
-    "artists": [
-      "Bad Bunny"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732ea1f035463d11e1fc3b193d"
-  },
-  {
-    "played_at": "2026-07-29T00:53:29.276Z",
-    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
-    "track_name": "BEAT UP CHANEL$",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
-  },
-  {
-    "played_at": "2026-07-29T00:58:21.471Z",
-    "track_id": "3XbNseJrIK8LzoTh4eA0Xf",
-    "track_name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
-    "artists": [
-      "Charli xcx",
-      "Big Freedia",
-      "cupcakKe",
-      "Brooke Candy",
-      "Pabllo Vittar"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d67f5dfe2e86a4cdae439ce"
-  },
-  {
     "played_at": "2026-07-29T06:30:43.264Z",
     "track_id": "0lYBSQXN6rCTvUZvg9S0lU",
     "track_name": "Let Me Love You",
@@ -9404,5 +9373,60 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-01T22:10:12.950Z",
+    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
+    "track_name": "No Comma",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-09-01T22:16:58.258Z",
+    "track_id": "6XcyAXAYKQD7FqCG2F2xOu",
+    "track_name": "Hot & Sexy",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
+  },
+  {
+    "played_at": "2026-09-01T22:23:28.564Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-01T22:27:02.464Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-09-01T22:32:14.393Z",
+    "track_id": "55pBIZO1cqoldeqpp5WR7H",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-01T22:39:10.460Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
