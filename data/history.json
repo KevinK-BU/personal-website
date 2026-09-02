@@ -1,15 +1,5 @@
 [
   {
-    "played_at": "2026-07-29T06:30:43.264Z",
-    "track_id": "0lYBSQXN6rCTvUZvg9S0lU",
-    "track_name": "Let Me Love You",
-    "artists": [
-      "DJ Snake",
-      "Justin Bieber"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc"
-  },
-  {
     "played_at": "2026-07-29T20:19:07.332Z",
     "track_id": "5hgnY0mVcVetszbb85qeDg",
     "track_name": "Partition",
@@ -9428,5 +9418,14 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-01T22:41:23.436Z",
+    "track_id": "5h68SoVFGleijCtjEja3xG",
+    "track_name": "365",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
