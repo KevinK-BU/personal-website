@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-26T15:28:19.723Z",
-  "week_end": "2026-09-02T15:28:19.723Z",
-  "total_plays": 189,
+  "week_start": "2026-08-26T19:01:22.733Z",
+  "week_end": "2026-09-02T19:01:22.733Z",
+  "total_plays": 195,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 27
+      "count": 32
     },
     {
       "name": "Slayyyter",
       "count": 11
     }
   ],
-  "updated_at": "2026-09-02T15:28:19.725Z"
+  "updated_at": "2026-09-02T19:01:22.735Z"
 }

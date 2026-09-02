@@ -9464,5 +9464,59 @@
       "Ariana Grande"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065"
+  },
+  {
+    "played_at": "2026-09-02T14:57:51.473Z",
+    "track_id": "2Y6U158gVXfvqNWOLdis0R",
+    "track_name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
+  },
+  {
+    "played_at": "2026-09-02T17:07:38.664Z",
+    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
+    "track_name": "begged",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-02T17:11:11.770Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-02T17:20:47.899Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-02T17:25:53.282Z",
+    "track_id": "6jfiwkcwt8iYCdkbLukxeI",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-09-02T17:30:40.140Z",
+    "track_id": "4bkClAuofJULiaIZsuL3gT",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
   }
 ]
