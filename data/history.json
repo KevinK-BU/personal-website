@@ -9653,5 +9653,114 @@
       "Ariana Grande"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
+  },
+  {
+    "played_at": "2026-09-02T22:06:55.889Z",
+    "track_id": "0lWcOHxfnxj1GlVr4zpnyD",
+    "track_name": "Pretty Ugly",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da76813c5a92916e0ac68041"
+  },
+  {
+    "played_at": "2026-09-02T22:15:50.732Z",
+    "track_id": "1RFXENx9ILC6PECmNhEstC",
+    "track_name": "ScheiBe",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
+  },
+  {
+    "played_at": "2026-09-02T22:21:29.334Z",
+    "track_id": "2n1MTLCis6qPSDKdr5XSDI",
+    "track_name": "Oh Qué Será?",
+    "artists": [
+      "Willie Colón"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f37950978573d045e79d886b"
+  },
+  {
+    "played_at": "2026-09-02T22:24:24.888Z",
+    "track_id": "4YQImHflXSiIMXntcwPkx8",
+    "track_name": "Bongos (feat. Megan Thee Stallion)",
+    "artists": [
+      "Cardi B",
+      "Megan Thee Stallion"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736c4f8f8350e6c63536c8683e"
+  },
+  {
+    "played_at": "2026-09-02T22:25:18.786Z",
+    "track_id": "486YUqcmF9IWPkreU0THcQ",
+    "track_name": "MY ROSE",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-09-02T22:27:33.110Z",
+    "track_id": "4w2GLmK2wnioVnb5CPQeex",
+    "track_name": "360",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-02T22:35:20.515Z",
+    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
+    "track_name": "Girl Like Me",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-09-02T22:38:28.794Z",
+    "track_id": "0JmnkIqdlnUzPaf8sqBRs3",
+    "track_name": "Moonlight",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+  },
+  {
+    "played_at": "2026-09-02T22:42:40.648Z",
+    "track_id": "37UCSVSqiPGdR1DijOFyYY",
+    "track_name": "Midnight Sun",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27339905bfc6729b13ec7a7fead"
+  },
+  {
+    "played_at": "2026-09-02T22:45:05.939Z",
+    "track_id": "4NpwTYTjdYAffkixiY3TnW",
+    "track_name": "Fuck up the Fun",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f6e1476d2f72752b77bd46a7"
+  },
+  {
+    "played_at": "2026-09-02T22:46:52.645Z",
+    "track_id": "7yBbV2k2S2uhaQc24NF2xt",
+    "track_name": "Stupid Love",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a"
+  },
+  {
+    "played_at": "2026-09-02T23:04:13.737Z",
+    "track_id": "6PnluwP0fjGnpIBsqTdUTq",
+    "track_name": "Pretty When You Cry",
+    "artists": [
+      "Lana Del Rey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
   }
 ]
