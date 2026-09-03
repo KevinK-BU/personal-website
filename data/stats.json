@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-08-27T15:22:27.332Z",
-  "week_end": "2026-09-03T15:22:27.332Z",
-  "total_plays": 186,
+  "week_start": "2026-08-27T18:57:03.547Z",
+  "week_end": "2026-09-03T18:57:03.547Z",
+  "total_plays": 212,
   "top_track": {
     "name": "Club classics",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 28,
+    "play_count": 29,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 46
+      "count": 51
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 28
+      "count": 30
     },
     {
       "name": "Slayyyter",
-      "count": 11
+      "count": 12
     }
   ],
-  "updated_at": "2026-09-03T15:22:27.334Z"
+  "updated_at": "2026-09-03T18:57:03.549Z"
 }
