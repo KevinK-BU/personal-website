@@ -1,133 +1,5 @@
 [
   {
-    "played_at": "2026-07-31T17:10:46.510Z",
-    "track_id": "0lok0VDJn0zRvHLBCITSSw",
-    "track_name": "kiss me",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:11:36.700Z",
-    "track_id": "3iy2QuCtCzpWnR6tia39AB",
-    "track_name": "hate that i made you love me",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:14:40.869Z",
-    "track_id": "70pVCVMGjmIWPbWXDwf11e",
-    "track_name": "petal",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:17:10.257Z",
-    "track_id": "0QltPqkR4dnhbINyBOU5SY",
-    "track_name": "stay",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:20:26.407Z",
-    "track_id": "5DZOKNtaoVEssXu9ltcMjx",
-    "track_name": "oh well",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:22:57.470Z",
-    "track_id": "4jkeVMYDhEvbpi6gxBsTeV",
-    "track_name": "34+35 - Remix",
-    "artists": [
-      "Ariana Grande",
-      "Doja Cat",
-      "Megan Thee Stallion"
-    ],
-    "album_art": "https://i.scdn.co/image/ab6742d3000053b77a57a6c0d3e10be599bd48a8"
-  },
-  {
-    "played_at": "2026-07-31T17:23:20.007Z",
-    "track_id": "6MFSqc8pzXlwfzXqWZEKd4",
-    "track_name": "big feelings",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:26:39.833Z",
-    "track_id": "6QhsCYcFdfyMbPWCiViI8K",
-    "track_name": "freak",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:27:57.232Z",
-    "track_id": "0cJRr7kw5FkV5e8ejEB2j6",
-    "track_name": "warning signs (interlude)",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:30:44.518Z",
-    "track_id": "3d1oTMjtfVySbAYQp3v4MU",
-    "track_name": "like i do",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:34:33.366Z",
-    "track_id": "55srcWA7TioKV0LZVNXltY",
-    "track_name": "never get over me",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:38:01.433Z",
-    "track_id": "4zmXWmILSBkn7gTvIyCiNi",
-    "track_name": "bad thing (bunny hop)",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:40:53.393Z",
-    "track_id": "5JbnupagBhD0AanbkCELdH",
-    "track_name": "nowhere, nobody",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7"
-  },
-  {
-    "played_at": "2026-07-31T17:41:50.479Z",
-    "track_id": "6FFHObl8rAxig1QZewCTXN",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-07-31T20:07:11.191Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -10518,5 +10390,136 @@
       "Slayyyter"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
+  },
+  {
+    "played_at": "2026-09-04T15:08:48.010Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-09-04T16:35:03.798Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-09-04T16:37:52.252Z",
+    "track_id": "7N1GSHGlLwXY3lN5gv3QLV",
+    "track_name": "Midnight Sun",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752"
+  },
+  {
+    "played_at": "2026-09-04T16:40:00.707Z",
+    "track_id": "4KmkJjHTNlr1jFY56Lyz4E",
+    "track_name": "PINKY UP",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b"
+  },
+  {
+    "played_at": "2026-09-04T16:43:43.181Z",
+    "track_id": "4bkClAuofJULiaIZsuL3gT",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-09-04T16:47:02.275Z",
+    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
+    "track_name": "BEAT UP CHANEL$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
+  },
+  {
+    "played_at": "2026-09-04T16:50:58.350Z",
+    "track_id": "42tYHqMxXxXHAAWqLaoOfQ",
+    "track_name": "MacArthur Park - Single Version",
+    "artists": [
+      "Donna Summer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72"
+  },
+  {
+    "played_at": "2026-09-04T16:58:00.597Z",
+    "track_id": "3IAyQMTYOsspp9p1htFSak",
+    "track_name": "Freakum Dress",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273632e4eafb2ffba59a2ae4500"
+  },
+  {
+    "played_at": "2026-09-04T17:00:52.920Z",
+    "track_id": "2ljvO8ZpKFMT3HXwCjW4Yw",
+    "track_name": "anthems",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-09-04T17:06:39.080Z",
+    "track_id": "4PzxlHzDM3bDafkHjg1XCX",
+    "track_name": "Muñekita (with El Alfa & JT)",
+    "artists": [
+      "Kali Uchis",
+      "El Alfa",
+      "JT"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e981f5561a9ae51bc411712"
+  },
+  {
+    "played_at": "2026-09-04T17:17:01.176Z",
+    "track_id": "4bkClAuofJULiaIZsuL3gT",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-09-04T17:17:40.269Z",
+    "track_id": "6ziMwlEb8Q7vytSn4hYTe9",
+    "track_name": "MPH",
+    "artists": [
+      "Doechii"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d5fc6c256dc0f09ac9a1d3cc"
+  },
+  {
+    "played_at": "2026-09-04T18:24:56.161Z",
+    "track_id": "7C7vnAW3L8ahsOGsZKY6EP",
+    "track_name": "KGB",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
+  },
+  {
+    "played_at": "2026-09-04T18:30:02.419Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   }
 ]
