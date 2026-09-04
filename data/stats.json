@@ -1,28 +1,29 @@
 {
-  "week_start": "2026-08-28T18:38:30.727Z",
-  "week_end": "2026-09-04T18:38:30.727Z",
-  "total_plays": 306,
+  "week_start": "2026-08-28T21:54:08.638Z",
+  "week_end": "2026-09-04T21:54:08.638Z",
+  "total_plays": 262,
   "top_track": {
-    "name": "Club classics",
+    "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
-      "Charli xcx"
+      "FKA twigs",
+      "Lil Yachty"
     ],
-    "play_count": 30,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+    "play_count": 9,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
-      "name": "Charli xcx",
-      "count": 63
-    },
-    {
       "name": "Olivia Rodrigo",
-      "count": 47
+      "count": 50
     },
     {
-      "name": "Slayyyter",
-      "count": 16
+      "name": "Charli xcx",
+      "count": 33
+    },
+    {
+      "name": "PinkPantheress",
+      "count": 13
     }
   ],
-  "updated_at": "2026-09-04T18:38:30.729Z"
+  "updated_at": "2026-09-04T21:54:08.640Z"
 }
