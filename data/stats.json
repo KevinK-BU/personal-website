@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-08-28T01:42:27.719Z",
-  "week_end": "2026-09-04T01:42:27.719Z",
-  "total_plays": 242,
+  "week_start": "2026-08-28T08:16:50.887Z",
+  "week_end": "2026-09-04T08:16:50.887Z",
+  "total_plays": 287,
   "top_track": {
     "name": "Club classics",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 56
+      "count": 62
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 26
+      "count": 44
     },
     {
       "name": "Slayyyter",
       "count": 14
     }
   ],
-  "updated_at": "2026-09-04T01:42:27.721Z"
+  "updated_at": "2026-09-04T08:16:50.889Z"
 }
