@@ -1,24 +1,5 @@
 [
   {
-    "played_at": "2026-08-04T00:32:40.813Z",
-    "track_id": "3RIgHHpnFKj5Rni1shokDj",
-    "track_name": "Norman fucking Rockwell",
-    "artists": [
-      "Lana Del Rey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9"
-  },
-  {
-    "played_at": "2026-08-04T00:39:00.637Z",
-    "track_id": "2gam98EZKrF9XuOkU13ApN",
-    "track_name": "Promiscuous",
-    "artists": [
-      "Nelly Furtado",
-      "Timbaland"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2"
-  },
-  {
     "played_at": "2026-08-05T02:36:02.470Z",
     "track_id": "4EoJ151oQ5jY48z4RhSE96",
     "track_name": "the cure",
@@ -10473,5 +10454,32 @@
       "Diana Ross"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735efb83257d6be956a8cad4fb"
+  },
+  {
+    "played_at": "2026-09-08T00:04:32.954Z",
+    "track_id": "4XOq7frultDFgx4l3wuRPc",
+    "track_name": "The Right Stuff",
+    "artists": [
+      "Vanessa Williams"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730538d760970342f81f6fbc58"
+  },
+  {
+    "played_at": "2026-09-08T00:08:39.332Z",
+    "track_id": "0UqHzMvRQnaOXEPKgFVhxN",
+    "track_name": "Madwoman",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736ec6bdb1b31c8cb6b1d3511f"
+  },
+  {
+    "played_at": "2026-09-08T00:12:45.473Z",
+    "track_id": "7C7vnAW3L8ahsOGsZKY6EP",
+    "track_name": "KGB",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
   }
 ]
