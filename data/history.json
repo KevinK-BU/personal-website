@@ -10518,5 +10518,50 @@
       "Hex Hector"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27392c79e319a1a5519ebf669d4"
+  },
+  {
+    "played_at": "2026-09-08T13:58:56.203Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-08T14:08:34.026Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-08T14:23:31.509Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-08T14:37:41.631Z",
+    "track_id": "30cSNer6TV8x2utjULVeQ5",
+    "track_name": "SOS",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d744a51e193d52170070062b"
+  },
+  {
+    "played_at": "2026-09-08T14:41:34.252Z",
+    "track_id": "1NEBuFp0BJMikgXJI9VVab",
+    "track_name": "Te Mata",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3"
   }
 ]
