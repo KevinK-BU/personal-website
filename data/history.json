@@ -10481,5 +10481,42 @@
       "ADÉLA"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
+  },
+  {
+    "played_at": "2026-09-08T01:53:05.892Z",
+    "track_id": "3H6xZgwRZx8McVUJzmMxWe",
+    "track_name": "Headphones On",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
+  },
+  {
+    "played_at": "2026-09-08T01:57:11.617Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-08T02:03:02.700Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-08T02:07:17.671Z",
+    "track_id": "0OdiAlnSN0k39jarFqVTY8",
+    "track_name": "Nobody's Supposed to Be Here - Dance Mix",
+    "artists": [
+      "Deborah Cox",
+      "Hex Hector"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27392c79e319a1a5519ebf669d4"
   }
 ]
