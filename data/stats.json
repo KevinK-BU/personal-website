@@ -1,20 +1,19 @@
 {
-  "week_start": "2026-09-02T18:54:05.112Z",
-  "week_end": "2026-09-09T18:54:05.112Z",
-  "total_plays": 362,
+  "week_start": "2026-09-02T22:03:32.098Z",
+  "week_end": "2026-09-09T22:03:32.098Z",
+  "total_plays": 359,
   "top_track": {
-    "name": "On Your Mind (feat. Lil Yachty)",
+    "name": "We Are Charlie Kirk",
     "artists": [
-      "FKA twigs",
-      "Lil Yachty"
+      "Spalexma"
     ],
     "play_count": 19,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
   },
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 44
+      "count": 45
     },
     {
       "name": "Charli xcx",
@@ -25,5 +24,5 @@
       "count": 26
     }
   ],
-  "updated_at": "2026-09-09T18:54:05.113Z"
+  "updated_at": "2026-09-09T22:03:32.100Z"
 }
