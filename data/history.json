@@ -1,77 +1,5 @@
 [
   {
-    "played_at": "2026-08-05T10:03:19.205Z",
-    "track_id": "2vdBo4ALPYbHRUPKgtE5iC",
-    "track_name": "ghostin",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
-  },
-  {
-    "played_at": "2026-08-05T11:30:35.452Z",
-    "track_id": "5hgnY0mVcVetszbb85qeDg",
-    "track_name": "Partition",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
-  },
-  {
-    "played_at": "2026-08-05T11:34:54.039Z",
-    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
-    "track_name": "my way",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-05T11:47:05.388Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-08-05T11:52:45.447Z",
-    "track_id": "3AL8YLDOJ4rTTkTX4Jjo9S",
-    "track_name": "Bang 2",
-    "artists": [
-      "Chase Icon"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b771d64998ae18759eac6da4"
-  },
-  {
-    "played_at": "2026-08-05T12:05:33.936Z",
-    "track_id": "0Q9kIg9o8w1XKepXWmDUmT",
-    "track_name": "New York",
-    "artists": [
-      "Addison Rae"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
-  },
-  {
-    "played_at": "2026-08-05T12:10:15.009Z",
-    "track_id": "0Q9kIg9o8w1XKepXWmDUmT",
-    "track_name": "New York",
-    "artists": [
-      "Addison Rae"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
-  },
-  {
-    "played_at": "2026-08-05T12:19:51.755Z",
-    "track_id": "092IqUmkOsPdcsqS0rTlir",
-    "track_name": "Bubblegum",
-    "artists": [
-      "Chase Icon"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b771d64998ae18759eac6da4"
-  },
-  {
     "played_at": "2026-08-05T15:48:35.970Z",
     "track_id": "4QpGrDM7EsvbeaZ5G1Nu3j",
     "track_name": "Count Contessa",
@@ -10664,5 +10592,439 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-09T13:24:59.645Z",
+    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
+    "track_name": "serena joy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-09-09T13:26:44.001Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:26:47.393Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:01.451Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:12.492Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:22.676Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:37.570Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:41.591Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:49.714Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:56.903Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:27:59.162Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:28:09.616Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:28:24.107Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:28:28.461Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:28:36.607Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:28:46.517Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:29:09.342Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:16.774Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:24.013Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:35.789Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:38.694Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:47.099Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:29:59.018Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:30:13.049Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:30:16.709Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:30:24.821Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:30:53.883Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:31:28.505Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-09T13:31:41.118Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:32:05.712Z",
+    "track_id": "0puf9yIluy9W0vpMEUoAnN",
+    "track_name": "Bang Bang",
+    "artists": [
+      "Jessie J",
+      "Ariana Grande",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d"
+  },
+  {
+    "played_at": "2026-09-09T13:32:26.422Z",
+    "track_id": "0puf9yIluy9W0vpMEUoAnN",
+    "track_name": "Bang Bang",
+    "artists": [
+      "Jessie J",
+      "Ariana Grande",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d"
+  },
+  {
+    "played_at": "2026-09-09T13:32:51.172Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:32:59.614Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:33:12.561Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:33:22.923Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:00.140Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:07.874Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:11.101Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:19.211Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:30.516Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:34:43.089Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:36:03.322Z",
+    "track_id": "0puf9yIluy9W0vpMEUoAnN",
+    "track_name": "Bang Bang",
+    "artists": [
+      "Jessie J",
+      "Ariana Grande",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d"
+  },
+  {
+    "played_at": "2026-09-09T13:36:18.918Z",
+    "track_id": "0puf9yIluy9W0vpMEUoAnN",
+    "track_name": "Bang Bang",
+    "artists": [
+      "Jessie J",
+      "Ariana Grande",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d"
+  },
+  {
+    "played_at": "2026-09-09T13:36:36.574Z",
+    "track_id": "5Ssv6DaKrW0HczVqx6zXdl",
+    "track_name": "Diva",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-09-09T13:36:49.525Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-09T13:36:59.018Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
   }
 ]
