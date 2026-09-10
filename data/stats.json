@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-02T22:03:32.098Z",
-  "week_end": "2026-09-09T22:03:32.098Z",
-  "total_plays": 359,
+  "week_start": "2026-09-03T01:48:27.682Z",
+  "week_end": "2026-09-10T01:48:27.682Z",
+  "total_plays": 357,
   "top_track": {
     "name": "We Are Charlie Kirk",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 45
+      "count": 47
     },
     {
       "name": "Charli xcx",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Beyoncé",
-      "count": 26
+      "count": 28
     }
   ],
-  "updated_at": "2026-09-09T22:03:32.100Z"
+  "updated_at": "2026-09-10T01:48:27.684Z"
 }
