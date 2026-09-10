@@ -1,28 +1,29 @@
 {
-  "week_start": "2026-09-03T15:21:49.744Z",
-  "week_end": "2026-09-10T15:21:49.744Z",
-  "total_plays": 358,
+  "week_start": "2026-09-03T18:46:08.504Z",
+  "week_end": "2026-09-10T18:46:08.504Z",
+  "total_plays": 384,
   "top_track": {
-    "name": "We Are Charlie Kirk",
+    "name": "Roman Reloaded",
     "artists": [
-      "Spalexma"
+      "Nicki Minaj",
+      "Lil Wayne"
     ],
-    "play_count": 19,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+    "play_count": 28,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 47
+      "count": 43
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 45
+      "count": 43
     },
     {
-      "name": "Beyoncé",
-      "count": 28
+      "name": "Nicki Minaj",
+      "count": 43
     }
   ],
-  "updated_at": "2026-09-10T15:21:49.746Z"
+  "updated_at": "2026-09-10T18:46:08.505Z"
 }
