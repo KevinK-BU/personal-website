@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-03T01:48:27.682Z",
-  "week_end": "2026-09-10T01:48:27.682Z",
-  "total_plays": 357,
+  "week_start": "2026-09-03T08:28:01.769Z",
+  "week_end": "2026-09-10T08:28:01.769Z",
+  "total_plays": 352,
   "top_track": {
     "name": "We Are Charlie Kirk",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 47
+      "count": 46
     },
     {
       "name": "Charli xcx",
@@ -24,5 +24,5 @@
       "count": 28
     }
   ],
-  "updated_at": "2026-09-10T01:48:27.684Z"
+  "updated_at": "2026-09-10T08:28:01.771Z"
 }
