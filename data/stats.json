@@ -1,29 +1,28 @@
 {
-  "week_start": "2026-09-03T22:01:35.400Z",
-  "week_end": "2026-09-10T22:01:35.400Z",
-  "total_plays": 356,
+  "week_start": "2026-09-04T01:47:51.620Z",
+  "week_end": "2026-09-11T01:47:51.620Z",
+  "total_plays": 406,
   "top_track": {
-    "name": "Roman Reloaded",
+    "name": "Judas",
     "artists": [
-      "Nicki Minaj",
-      "Lil Wayne"
+      "Lady Gaga"
     ],
-    "play_count": 28,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+    "play_count": 31,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
   },
   "top_artists": [
     {
       "name": "Olivia Rodrigo",
-      "count": 43
+      "count": 46
+    },
+    {
+      "name": "Charli xcx",
+      "count": 45
     },
     {
       "name": "Nicki Minaj",
       "count": 43
-    },
-    {
-      "name": "Charli xcx",
-      "count": 42
     }
   ],
-  "updated_at": "2026-09-10T22:01:35.401Z"
+  "updated_at": "2026-09-11T01:47:51.621Z"
 }
