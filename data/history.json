@@ -12028,5 +12028,44 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-12T04:21:16.375Z",
+    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
+    "track_name": "BEAT UP CHANEL$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
+  },
+  {
+    "played_at": "2026-09-12T04:57:30.134Z",
+    "track_id": "1VTEoni0vuY5eRjPKD3aqo",
+    "track_name": "We Are Charlie Kirk",
+    "artists": [
+      "Spalexma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734db693f8caf3725e79eed610"
+  },
+  {
+    "played_at": "2026-09-12T04:57:42.825Z",
+    "track_id": "1e2j0v2S32Pc0s71DtQPdh",
+    "track_name": "Roman Reloaded",
+    "artists": [
+      "Nicki Minaj",
+      "Lil Wayne"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa2a62fe48c2c929c834c084"
+  },
+  {
+    "played_at": "2026-09-12T04:57:56.091Z",
+    "track_id": "0puf9yIluy9W0vpMEUoAnN",
+    "track_name": "Bang Bang",
+    "artists": [
+      "Jessie J",
+      "Ariana Grande",
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273930f686fe89425c7b6bf9a7d"
   }
 ]
