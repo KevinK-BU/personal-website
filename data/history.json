@@ -1,24 +1,5 @@
 [
   {
-    "played_at": "2026-08-08T21:29:17.232Z",
-    "track_id": "03kw5kVvTjfZ4BAUU4Txx3",
-    "track_name": "So I featuring a. g. cook",
-    "artists": [
-      "Charli xcx",
-      "A. G. Cook"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-08-08T21:35:08.906Z",
-    "track_id": "58ge6dfP91o9oXMzq3XkIS",
-    "track_name": "505",
-    "artists": [
-      "Arctic Monkeys"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90"
-  },
-  {
     "played_at": "2026-08-08T23:33:04.287Z",
     "track_id": "5MxFWjuqQIsbNWbMdMdbli",
     "track_name": "La Jumpa",
@@ -12103,5 +12084,181 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-12T18:15:52.990Z",
+    "track_id": "1dQ1NabpBdlusGB0fmk0cy",
+    "track_name": "Chu Chu Pamela",
+    "artists": [
+      "El Alfa"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738944ce2644cc2e19beca7dd5"
+  },
+  {
+    "played_at": "2026-09-12T19:58:50.419Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-09-12T20:01:11.041Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-12T20:02:03.734Z",
+    "track_id": "7pkqvejfDmeLen9MrnppQr",
+    "track_name": "OH LOUISIANA",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-09-12T20:02:07.408Z",
+    "track_id": "6K4t31amVTZDgR3sKmwUJJ",
+    "track_name": "The Less I Know The Better",
+    "artists": [
+      "Tame Impala"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
+  },
+  {
+    "played_at": "2026-09-12T20:14:38.952Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-12T20:16:41.798Z",
+    "track_id": "0bhudMmr0XdtBOjFbjq8R0",
+    "track_name": "Jealous",
+    "artists": [
+      "Eyedress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f"
+  },
+  {
+    "played_at": "2026-09-12T20:21:17.357Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-12T20:24:40.383Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-12T20:31:13.934Z",
+    "track_id": "1W7023CuJrWPbD4q2Sipoh",
+    "track_name": "what’s wrong with me",
+    "artists": [
+      "Olivia Rodrigo",
+      "Robert Smith"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-12T20:36:41.762Z",
+    "track_id": "22WFoPT9VIJlZ0VcJVkCpm",
+    "track_name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+    "artists": [
+      "Miley Cyrus",
+      "Naomi Campbell"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
+  },
+  {
+    "played_at": "2026-09-12T20:39:07.114Z",
+    "track_id": "5pGz6FrmpHjOuso83azbik",
+    "track_name": "El Alma Que Te Trajo",
+    "artists": [
+      "Safety Trance",
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739db15008cd7d44e6712a1d69"
+  },
+  {
+    "played_at": "2026-09-12T20:44:15.838Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-09-12T20:46:46.356Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-09-12T20:49:28.998Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-09-12T20:59:34.275Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-09-12T21:02:40.947Z",
+    "track_id": "1TEL6MlSSVLSdhOSddidlJ",
+    "track_name": "needy",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
+  },
+  {
+    "played_at": "2026-09-12T21:06:04.194Z",
+    "track_id": "6SRsiMl7w1USE4mFqrOhHC",
+    "track_name": "brutal",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-09-12T21:09:50.559Z",
+    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
+    "track_name": "begged",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]

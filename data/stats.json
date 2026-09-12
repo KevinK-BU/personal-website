@@ -1,6 +1,6 @@
 {
-  "week_start": "2026-09-05T17:56:32.261Z",
-  "week_end": "2026-09-12T17:56:32.261Z",
+  "week_start": "2026-09-05T21:46:14.783Z",
+  "week_end": "2026-09-12T21:46:14.783Z",
   "total_plays": 337,
   "top_track": {
     "name": "Judas",
@@ -17,12 +17,12 @@
     },
     {
       "name": "Charli xcx",
-      "count": 39
+      "count": 41
     },
     {
       "name": "Lady Gaga",
       "count": 39
     }
   ],
-  "updated_at": "2026-09-12T17:56:32.262Z"
+  "updated_at": "2026-09-12T21:46:14.784Z"
 }
