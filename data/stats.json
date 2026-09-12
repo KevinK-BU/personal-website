@@ -1,13 +1,13 @@
 {
-  "week_start": "2026-09-04T22:03:56.870Z",
-  "week_end": "2026-09-11T22:03:56.870Z",
-  "total_plays": 345,
+  "week_start": "2026-09-05T01:52:45.910Z",
+  "week_end": "2026-09-12T01:52:45.910Z",
+  "total_plays": 329,
   "top_track": {
     "name": "Judas",
     "artists": [
       "Lady Gaga"
     ],
-    "play_count": 35,
+    "play_count": 36,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
   },
   "top_artists": [
@@ -16,13 +16,13 @@
       "count": 43
     },
     {
-      "name": "Charli xcx",
-      "count": 41
-    },
-    {
       "name": "Lady Gaga",
       "count": 39
+    },
+    {
+      "name": "Charli xcx",
+      "count": 36
     }
   ],
-  "updated_at": "2026-09-11T22:03:56.872Z"
+  "updated_at": "2026-09-12T01:52:45.911Z"
 }

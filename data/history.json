@@ -12010,5 +12010,23 @@
       "Lady Gaga"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-09-12T00:08:27.721Z",
+    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
+    "track_name": "Judas",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-09-12T00:17:11.411Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
