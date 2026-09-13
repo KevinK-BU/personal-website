@@ -1,77 +1,5 @@
 [
   {
-    "played_at": "2026-08-09T03:24:59.524Z",
-    "track_id": "4Q6K6M0HSiRboY3C97AxD4",
-    "track_name": "Let's Have A Kiki",
-    "artists": [
-      "Scissor Sisters"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27343ce56fe66b67e250ab3c7c8"
-  },
-  {
-    "played_at": "2026-08-09T03:26:26.861Z",
-    "track_id": "6aedim7Xd6XWqFDfv6z1Vx",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab6742d3000053b73d7ced09b65838068fe2ae0a"
-  },
-  {
-    "played_at": "2026-08-09T03:33:09.342Z",
-    "track_id": "3su8VunluUL4Oj7UTTEREt",
-    "track_name": "Love Sensation",
-    "artists": [
-      "Loleatta Holloway"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
-  },
-  {
-    "played_at": "2026-08-09T03:37:04.086Z",
-    "track_id": "6ldwfK0yWgTAlmIfuQkTYN",
-    "track_name": "I'm a Slave 4 U",
-    "artists": [
-      "Britney Spears"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273801ce9753a4f30a71fedb0fd"
-  },
-  {
-    "played_at": "2026-08-09T03:42:25.864Z",
-    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
-    "track_name": "Total Eclipse of the Heart",
-    "artists": [
-      "Bonnie Tyler"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
-  },
-  {
-    "played_at": "2026-08-09T03:50:03.889Z",
-    "track_id": "7yPwc5aPWLWjO37iAey7Ww",
-    "track_name": "I Heard a Rumour",
-    "artists": [
-      "Bananarama"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1661e05970bbafcf9339e43"
-  },
-  {
-    "played_at": "2026-08-09T03:54:25.641Z",
-    "track_id": "482SsTQYL6EdC0bL5BylW9",
-    "track_name": "Nasty Girl",
-    "artists": [
-      "Abfab Party Band"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c71bc781323c2b6c7fe3dd87"
-  },
-  {
-    "played_at": "2026-08-09T03:58:29.376Z",
-    "track_id": "07OzC5JlcaDwEkzWmvqp6y",
-    "track_name": "Nasty",
-    "artists": [
-      "Janet Jackson"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273d43ed38753792fe6606568f2"
-  },
-  {
     "played_at": "2026-08-09T17:45:45.996Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -12214,5 +12142,25 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-09-13T02:25:30.109Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-09-13T02:38:11.916Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   }
 ]
