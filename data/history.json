@@ -1,106 +1,5 @@
 [
   {
-    "played_at": "2026-08-09T18:25:32.386Z",
-    "track_id": "4dvQg9sD8k9y4qiEURuj8v",
-    "track_name": "Lose My Breath",
-    "artists": [
-      "Destiny's Child"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735a4df8a804866955ab8c4def"
-  },
-  {
-    "played_at": "2026-08-09T18:28:19.586Z",
-    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
-    "track_name": "Girl Like Me",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-08-09T18:31:54.182Z",
-    "track_id": "5QCfOMH5K7bS4dH7H7PNeI",
-    "track_name": "Tonight",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-08-09T18:40:26.958Z",
-    "track_id": "49gRYU6hBWgSH2JVixGkJq",
-    "track_name": "Into You",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065"
-  },
-  {
-    "played_at": "2026-08-09T18:44:43.300Z",
-    "track_id": "12KUFSHFgT0XCoiSlvdQi4",
-    "track_name": "Break Free",
-    "artists": [
-      "Ariana Grande",
-      "Zedd"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa"
-  },
-  {
-    "played_at": "2026-08-09T18:47:31.832Z",
-    "track_id": "5BsGmbPJyupA70FlD7NtbS",
-    "track_name": "Luxury",
-    "artists": [
-      "Azealia Banks"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
-  },
-  {
-    "played_at": "2026-08-09T18:52:26.871Z",
-    "track_id": "0SiywuOBRcynK0uKGWdCnn",
-    "track_name": "Bad Romance",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa"
-  },
-  {
-    "played_at": "2026-08-09T18:54:49.855Z",
-    "track_id": "3dk7WaeS0y0JG0OMd0FVcg",
-    "track_name": "Spring breakers",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
-  },
-  {
-    "played_at": "2026-08-09T18:59:53.573Z",
-    "track_id": "4QpGrDM7EsvbeaZ5G1Nu3j",
-    "track_name": "Count Contessa",
-    "artists": [
-      "Azealia Banks",
-      "Lone"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d18e046e3af5a9d233cd774"
-  },
-  {
-    "played_at": "2026-08-09T19:02:27.571Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-08-09T19:05:31.272Z",
-    "track_id": "1c2AFg2WpURtpsOTMr6ZBX",
-    "track_name": "Fame is a Gun",
-    "artists": [
-      "Addison Rae"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737eae5dee68960ef1652ff044"
-  },
-  {
     "played_at": "2026-08-10T01:43:20.840Z",
     "track_id": "1rIKgCH4H52lrvDcz50hS8",
     "track_name": "Lush Life",
@@ -12089,5 +11988,284 @@
       "Kim Petras"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2730ca206219df7e324994ba77e"
+  },
+  {
+    "played_at": "2026-09-13T18:37:30.923Z",
+    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
+    "track_name": "No Comma",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-09-13T18:42:46.333Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-09-13T18:57:27.803Z",
+    "track_id": "0D6VCA9ycrkk9kH9F0p0AB",
+    "track_name": "Roll with Me",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
+  },
+  {
+    "played_at": "2026-09-13T19:08:41.262Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-09-13T19:15:31.433Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-13T19:18:43.091Z",
+    "track_id": "0ZhPWSfAKzeVQbRG08E1iI",
+    "track_name": "Big Difference",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
+  },
+  {
+    "played_at": "2026-09-13T19:25:45.071Z",
+    "track_id": "3Fj47GNK2kUF0uaEDgXLaD",
+    "track_name": "wish you were gay",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+  },
+  {
+    "played_at": "2026-09-13T19:28:12.947Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-13T19:37:14.307Z",
+    "track_id": "41v23mPw4Se92JKUGvnkmW",
+    "track_name": "On The Radio",
+    "artists": [
+      "Donna Summer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72"
+  },
+  {
+    "played_at": "2026-09-13T20:03:18.455Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
+  },
+  {
+    "played_at": "2026-09-13T20:12:30.845Z",
+    "track_id": "7yPwc5aPWLWjO37iAey7Ww",
+    "track_name": "I Heard a Rumour",
+    "artists": [
+      "Bananarama"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1661e05970bbafcf9339e43"
+  },
+  {
+    "played_at": "2026-09-13T20:15:59.187Z",
+    "track_id": "0ozd432IdkUR3ItM8ieKt0",
+    "track_name": "Point of No Return",
+    "artists": [
+      "Exposé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730e4f9733b4000bb96b982365"
+  },
+  {
+    "played_at": "2026-09-13T20:21:26.141Z",
+    "track_id": "1mk6Ts3Rl80ZiRuGdV8ydx",
+    "track_name": "Fascinated",
+    "artists": [
+      "Company B"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273670de90046ddaae59dd9969d"
+  },
+  {
+    "played_at": "2026-09-13T20:25:04.117Z",
+    "track_id": "5PIgwTDsrWXvW7VU6QCEOf",
+    "track_name": "Ain't No Mountain High Enough - Edit Version",
+    "artists": [
+      "Diana Ross"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735efb83257d6be956a8cad4fb"
+  },
+  {
+    "played_at": "2026-09-13T20:34:43.731Z",
+    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
+    "track_name": "Total Eclipse of the Heart",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
+  },
+  {
+    "played_at": "2026-09-13T20:41:15.027Z",
+    "track_id": "6ldwfK0yWgTAlmIfuQkTYN",
+    "track_name": "I'm a Slave 4 U",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273801ce9753a4f30a71fedb0fd"
+  },
+  {
+    "played_at": "2026-09-13T20:48:28.668Z",
+    "track_id": "72IoRIDa2ozksjjhOXw7f5",
+    "track_name": "Feel Like a Woman (feat. Vjuan Allure)",
+    "artists": [
+      "RuPaul"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f5c9f4287080a457d33fd2ba"
+  },
+  {
+    "played_at": "2026-09-13T20:51:41.637Z",
+    "track_id": "4RFtvKbrGVYgihhLGSlMat",
+    "track_name": "Just What They Want",
+    "artists": [
+      "RuPaul"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732b466c97481a5795065152c1"
+  },
+  {
+    "played_at": "2026-09-13T20:55:16.018Z",
+    "track_id": "2wJccqQaVphXhLEWxOSHtm",
+    "track_name": "Step It Up (feat. Dave Audé)",
+    "artists": [
+      "RuPaul"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273226ef8be6ac1c409ff69ac90"
+  },
+  {
+    "played_at": "2026-09-13T20:59:15.335Z",
+    "track_id": "6ldwfK0yWgTAlmIfuQkTYN",
+    "track_name": "I'm a Slave 4 U",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273801ce9753a4f30a71fedb0fd"
+  },
+  {
+    "played_at": "2026-09-13T21:05:41.223Z",
+    "track_id": "0uNMe6UEqe9uGazPgUGnLD",
+    "track_name": "Paparazzi",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa"
+  },
+  {
+    "played_at": "2026-09-13T21:12:16.965Z",
+    "track_id": "6I9VzXrHxO9rA9A5euc8Ak",
+    "track_name": "Toxic",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
+  },
+  {
+    "played_at": "2026-09-13T21:15:30.965Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-09-13T21:17:26.632Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-13T21:21:26.031Z",
+    "track_id": "30cSNer6TV8x2utjULVeQ5",
+    "track_name": "SOS",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d744a51e193d52170070062b"
+  },
+  {
+    "played_at": "2026-09-13T21:29:34.385Z",
+    "track_id": "2o1pb13quMReXZqE7jWsgq",
+    "track_name": "intro (end of the world)",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4"
+  },
+  {
+    "played_at": "2026-09-13T21:36:34.868Z",
+    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
+    "track_name": "Love In The Dark",
+    "artists": [
+      "Adele"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
+  },
+  {
+    "played_at": "2026-09-13T21:40:48.535Z",
+    "track_id": "6eF2psRQNVS3EbIZ1q5NV3",
+    "track_name": "What Love Is",
+    "artists": [
+      "Zimmer90"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734a2df75ec14b683c25a9d987"
+  },
+  {
+    "played_at": "2026-09-13T21:42:58.447Z",
+    "track_id": "4ipzXe2jmoeN7zm2VMb4eX",
+    "track_name": "Hasta Cuando",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+  },
+  {
+    "played_at": "2026-09-13T21:46:06.491Z",
+    "track_id": "2i2gDpKKWjvnRTOZRhaPh2",
+    "track_name": "Moonlight",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b13b4a434585f484548e42c9"
+  },
+  {
+    "played_at": "2026-09-13T21:48:40.594Z",
+    "track_id": "5cQX9BexkPIEESTZijJhXg",
+    "track_name": "i wish i hated you",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4"
   }
 ]
