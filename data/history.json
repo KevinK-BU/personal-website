@@ -12454,5 +12454,41 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-14T18:22:33.555Z",
+    "track_id": "2lTm559tuIvatlT1u0JYG2",
+    "track_name": "BAILE INoLVIDABLE",
+    "artists": [
+      "Bad Bunny"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411"
+  },
+  {
+    "played_at": "2026-09-14T18:28:31.353Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-14T18:30:16.309Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-09-14T22:31:02.840Z",
+    "track_id": "0g8FizeHVo2cG7qxBfmckf",
+    "track_name": "SS26",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
