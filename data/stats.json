@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-09T19:09:44.168Z",
-  "week_end": "2026-09-16T19:09:44.168Z",
-  "total_plays": 313,
+  "week_start": "2026-09-09T22:26:49.984Z",
+  "week_end": "2026-09-16T22:26:49.984Z",
+  "total_plays": 310,
   "top_track": {
     "name": "Judas",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 55
+      "count": 57
     },
     {
       "name": "Lady Gaga",
-      "count": 41
+      "count": 42
     },
     {
       "name": "Nicki Minaj",
       "count": 34
     }
   ],
-  "updated_at": "2026-09-16T19:09:44.169Z"
+  "updated_at": "2026-09-16T22:26:49.985Z"
 }
