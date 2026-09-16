@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-09T02:02:21.901Z",
-  "week_end": "2026-09-16T02:02:21.901Z",
-  "total_plays": 358,
+  "week_start": "2026-09-09T08:53:32.933Z",
+  "week_end": "2026-09-16T08:53:32.933Z",
+  "total_plays": 359,
   "top_track": {
     "name": "Judas",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 41
     }
   ],
-  "updated_at": "2026-09-16T02:02:21.902Z"
+  "updated_at": "2026-09-16T08:53:32.934Z"
 }
