@@ -12074,5 +12074,24 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-09-16T14:12:13.382Z",
+    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
+    "track_name": "crank 2",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
+  },
+  {
+    "played_at": "2026-09-16T18:30:18.778Z",
+    "track_id": "1BPpJdD11gsDQno045HBz0",
+    "track_name": "No One Lasts Forever featuring David Cronenberg",
+    "artists": [
+      "Charli xcx",
+      "David Cronenberg"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
