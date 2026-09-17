@@ -1,107 +1,5 @@
 [
   {
-    "played_at": "2026-08-13T19:23:07.987Z",
-    "track_id": "3dk7WaeS0y0JG0OMd0FVcg",
-    "track_name": "Spring breakers",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
-  },
-  {
-    "played_at": "2026-08-13T19:26:07.011Z",
-    "track_id": "4wTvw1dBiPXNiHTh0zzpcI",
-    "track_name": "B2b",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-08-13T19:31:47.551Z",
-    "track_id": "3rLIv187BhjyweFe89SgLn",
-    "track_name": "Somebody To Love",
-    "artists": [
-      "Justin Bieber"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273629dc9e2e3bc20bbd7d92e4a"
-  },
-  {
-    "played_at": "2026-08-13T19:42:24.146Z",
-    "track_id": "22WFoPT9VIJlZ0VcJVkCpm",
-    "track_name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
-    "artists": [
-      "Miley Cyrus",
-      "Naomi Campbell"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
-  },
-  {
-    "played_at": "2026-08-13T19:45:18.916Z",
-    "track_id": "5o8owuQvK4fjGv6QFRZTvN",
-    "track_name": "Sugar Water Cyanide",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27334cf0f6c6a9efb3632c83ac6"
-  },
-  {
-    "played_at": "2026-08-13T19:49:57.647Z",
-    "track_id": "5pyoxDZ1PX0KxBxiRVxA4U",
-    "track_name": "BREAK MY SOUL",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-08-13T19:52:27.146Z",
-    "track_id": "4edueC8wRBvTUxcSy1FebC",
-    "track_name": "James Dean",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
-  },
-  {
-    "played_at": "2026-08-13T19:55:14.459Z",
-    "track_id": "4MpketOLD5KhtgWWOBuk9w",
-    "track_name": "SexOnTheBeat",
-    "artists": [
-      "ADÉLA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
-  },
-  {
-    "played_at": "2026-08-13T20:01:32.217Z",
-    "track_id": "7CA0mEKqEZ0WFAIlTS4uEl",
-    "track_name": "SWEET ★ HONEY ★ BUCKIIN'",
-    "artists": [
-      "Beyoncé",
-      "Shaboozey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
-  },
-  {
-    "played_at": "2026-08-13T20:06:45.042Z",
-    "track_id": "5mUlozUYpdmXVPkj4BW8cA",
-    "track_name": "TYRANT",
-    "artists": [
-      "Beyoncé",
-      "Dolly Parton"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
-  },
-  {
-    "played_at": "2026-08-13T20:09:53.465Z",
-    "track_id": "62fqMvguJbsSs9HKhhRfuS",
-    "track_name": "Talk talk",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
     "played_at": "2026-08-14T19:01:19.825Z",
     "track_id": "5rfOARz6QO73wPATyMtQQZ",
     "track_name": "DANCE...",
@@ -11765,5 +11663,41 @@
       "cupcakKe"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273e0a540b5410d43f07c2b3c99"
+  },
+  {
+    "played_at": "2026-09-17T19:23:41.771Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-09-17T19:27:51.105Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-17T19:33:20.116Z",
+    "track_id": "4OafepJy2teCjYJbvFE60J",
+    "track_name": "breathin",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394"
+  },
+  {
+    "played_at": "2026-09-17T19:36:08.691Z",
+    "track_id": "1krKp0OXeCH6SI5SXl8tu5",
+    "track_name": "The Pleasure Principle",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d43ed38753792fe6606568f2"
   }
 ]
