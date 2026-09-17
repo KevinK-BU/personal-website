@@ -1,13 +1,13 @@
 {
-  "week_start": "2026-09-10T15:46:41.269Z",
-  "week_end": "2026-09-17T15:46:41.269Z",
-  "total_plays": 291,
+  "week_start": "2026-09-10T19:21:35.085Z",
+  "week_end": "2026-09-17T19:21:35.085Z",
+  "total_plays": 263,
   "top_track": {
     "name": "Judas",
     "artists": [
       "Lady Gaga"
     ],
-    "play_count": 38,
+    "play_count": 39,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
   },
   "top_artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Lady Gaga",
-      "count": 42
+      "count": 44
     },
     {
-      "name": "Nicki Minaj",
-      "count": 34
+      "name": "Slayyyter",
+      "count": 19
     }
   ],
-  "updated_at": "2026-09-17T15:46:41.270Z"
+  "updated_at": "2026-09-17T19:21:35.086Z"
 }
