@@ -1,28 +1,29 @@
 {
-  "week_start": "2026-09-10T22:30:07.523Z",
-  "week_end": "2026-09-17T22:30:07.523Z",
-  "total_plays": 257,
+  "week_start": "2026-09-11T01:53:33.494Z",
+  "week_end": "2026-09-18T01:53:33.494Z",
+  "total_plays": 212,
   "top_track": {
-    "name": "Judas",
+    "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
-      "Lady Gaga"
+      "FKA twigs",
+      "Lil Yachty"
     ],
-    "play_count": 39,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+    "play_count": 11,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 44
-    },
-    {
-      "name": "Lady Gaga",
-      "count": 44
+      "count": 41
     },
     {
       "name": "Slayyyter",
       "count": 20
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 13
     }
   ],
-  "updated_at": "2026-09-17T22:30:07.524Z"
+  "updated_at": "2026-09-18T01:53:33.495Z"
 }
