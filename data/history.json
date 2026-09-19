@@ -11150,5 +11150,60 @@
       "Lil Yachty"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-09-19T18:15:01.854Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-19T20:58:01.428Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-19T21:07:10.683Z",
+    "track_id": "6zEg4KEgz6RGhCPmDKplYf",
+    "track_name": "Too Little, Too Late",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
+  },
+  {
+    "played_at": "2026-09-19T21:10:17.560Z",
+    "track_id": "6SRsiMl7w1USE4mFqrOhHC",
+    "track_name": "brutal",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-09-19T21:13:11.177Z",
+    "track_id": "3J31Ng3dKKJ6sEHDtV9hSp",
+    "track_name": "No Other Heart",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
+  },
+  {
+    "played_at": "2026-09-19T21:19:04.681Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   }
 ]
