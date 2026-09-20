@@ -11305,5 +11305,41 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-20T19:24:39.211Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-20T19:28:05.082Z",
+    "track_id": "25nbeJzxF3dwvtTq57QKZi",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-20T21:18:11.313Z",
+    "track_id": "5QHdBMFvD4ow4ePzZRNZQB",
+    "track_name": "Boys",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c"
+  },
+  {
+    "played_at": "2026-09-20T21:22:28.661Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
   }
 ]
