@@ -11341,5 +11341,59 @@
       "Rebecca Black"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-09-20T23:12:57.619Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-20T23:40:22.288Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-20T23:58:43.275Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-21T00:08:11.890Z",
+    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
+    "track_name": "Guess",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
+  },
+  {
+    "played_at": "2026-09-21T00:10:34.365Z",
+    "track_id": "3dk7WaeS0y0JG0OMd0FVcg",
+    "track_name": "Spring breakers",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
+  },
+  {
+    "played_at": "2026-09-21T00:14:21.766Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
