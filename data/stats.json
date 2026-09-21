@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-14T09:21:59.011Z",
-  "week_end": "2026-09-21T09:21:59.011Z",
-  "total_plays": 155,
+  "week_start": "2026-09-14T17:18:01.757Z",
+  "week_end": "2026-09-21T17:18:01.757Z",
+  "total_plays": 159,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -14,16 +14,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 34
+      "count": 37
     },
     {
       "name": "Slayyyter",
       "count": 22
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 12
+      "name": "FKA twigs",
+      "count": 11
     }
   ],
-  "updated_at": "2026-09-21T09:21:59.013Z"
+  "updated_at": "2026-09-21T17:18:01.759Z"
 }
