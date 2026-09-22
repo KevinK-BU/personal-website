@@ -10406,5 +10406,32 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-22T15:00:47.825Z",
+    "track_id": "25nbeJzxF3dwvtTq57QKZi",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-22T15:01:50.042Z",
+    "track_id": "08PdFBcXzpkn1cWNgmKqhn",
+    "track_name": "Promise",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
+  },
+  {
+    "played_at": "2026-09-22T15:35:42.183Z",
+    "track_id": "7Dexi5Z2IowCkHrnzlWysc",
+    "track_name": "claws",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
   }
 ]
