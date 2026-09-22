@@ -10433,5 +10433,23 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-09-22T18:55:39.150Z",
+    "track_id": "1uXbwHHfgsXcUKfSZw5ZJ0",
+    "track_name": "Run the World (Girls)",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd"
+  },
+  {
+    "played_at": "2026-09-22T18:58:06.434Z",
+    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
+    "track_name": "Guess",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
   }
 ]
