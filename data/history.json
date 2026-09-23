@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-08-19T02:00:48.461Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
     "played_at": "2026-08-19T02:11:24.640Z",
     "track_id": "4EoJ151oQ5jY48z4RhSE96",
     "track_name": "the cure",
@@ -10553,5 +10544,160 @@
       "Lady Gaga"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-09-22T23:01:18.183Z",
+    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
+    "track_name": "Judas",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-09-23T00:26:09.655Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-09-23T00:28:40.264Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-09-23T00:31:22.761Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-09-23T00:38:13.356Z",
+    "track_id": "0dmsOyOTAbzRgt6EwbcxCw",
+    "track_name": "Spear of Justice",
+    "artists": [
+      "Toby Fox"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384eb923a79ba98269f0a7390"
+  },
+  {
+    "played_at": "2026-09-23T00:40:50.611Z",
+    "track_id": "4quFCQ7atlf6jIlmRpeqAI",
+    "track_name": "Battle Against A True Hero",
+    "artists": [
+      "Toby Fox"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384eb923a79ba98269f0a7390"
+  },
+  {
+    "played_at": "2026-09-23T00:43:33.776Z",
+    "track_id": "4SRUqprqmYkhxh1W01OcAs",
+    "track_name": "Metallic Madness Zone Act 2",
+    "artists": [
+      "Tee Lopes",
+      "Naofumi Hataya"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a7a8fc35f4dc366e948e2b02"
+  },
+  {
+    "played_at": "2026-09-23T00:44:53.423Z",
+    "track_id": "3EHwFt00G8ZK4SoX3ynmyo",
+    "track_name": "Rude Buster",
+    "artists": [
+      "Toby Fox"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c0abe70660904439bc42deab"
+  },
+  {
+    "played_at": "2026-09-23T00:49:02.674Z",
+    "track_id": "0MxkLBmzT9JhdvIzNLJLMb",
+    "track_name": "Death By Glamour",
+    "artists": [
+      "Toby Fox"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384eb923a79ba98269f0a7390"
+  },
+  {
+    "played_at": "2026-09-23T00:50:55.556Z",
+    "track_id": "1vN43QUdlseydHoWpOvGuj",
+    "track_name": "Finale",
+    "artists": [
+      "Toby Fox"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27384eb923a79ba98269f0a7390"
+  },
+  {
+    "played_at": "2026-09-23T01:05:40.145Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-09-23T01:18:05.302Z",
+    "track_id": "3XVBdLihbNbxUwZosxcGuJ",
+    "track_name": "If I Ain't Got You",
+    "artists": [
+      "Alicia Keys"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b"
+  },
+  {
+    "played_at": "2026-09-23T01:21:37.065Z",
+    "track_id": "7EAMXbLcL0qXmciM5SwMh2",
+    "track_name": "Heart To Heart",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672"
+  },
+  {
+    "played_at": "2026-09-23T01:23:45.756Z",
+    "track_id": "3jjsRKEsF42ccXf8kWR3nu",
+    "track_name": "Washing Machine Heart",
+    "artists": [
+      "Mitski"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117"
+  },
+  {
+    "played_at": "2026-09-23T01:36:55.379Z",
+    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
+    "track_name": "Total Eclipse of the Heart",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
+  },
+  {
+    "played_at": "2026-09-23T01:50:48.353Z",
+    "track_id": "7yPwc5aPWLWjO37iAey7Ww",
+    "track_name": "I Heard a Rumour",
+    "artists": [
+      "Bananarama"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1661e05970bbafcf9339e43"
+  },
+  {
+    "played_at": "2026-09-23T01:58:56.087Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
   }
 ]
