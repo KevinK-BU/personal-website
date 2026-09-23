@@ -10789,5 +10789,86 @@
       "Lady Gaga"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-09-23T07:24:44.477Z",
+    "track_id": "1RFXENx9ILC6PECmNhEstC",
+    "track_name": "ScheiBe",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
+  },
+  {
+    "played_at": "2026-09-23T14:12:16.245Z",
+    "track_id": "7Dexi5Z2IowCkHrnzlWysc",
+    "track_name": "claws",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-09-23T14:16:21.122Z",
+    "track_id": "3vFRHL7DuN076fdIQuWQfv",
+    "track_name": "Card Declined",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-23T14:16:28.406Z",
+    "track_id": "4WiQmOTCwKGeq4IUKxQOZg",
+    "track_name": "I Was Gonna Cancel",
+    "artists": [
+      "Kylie Minogue"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319afaf9217924b2dad8c4f98"
+  },
+  {
+    "played_at": "2026-09-23T15:05:51.879Z",
+    "track_id": "25nbeJzxF3dwvtTq57QKZi",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-23T15:08:42.036Z",
+    "track_id": "54KEm0VI9i3ic7VHHKHKRx",
+    "track_name": "¿Cómo Así?",
+    "artists": [
+      "Kali Uchis"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3"
+  },
+  {
+    "played_at": "2026-09-23T15:11:19.617Z",
+    "track_id": "1I6c6xzdqmE9aOHibWCZOX",
+    "track_name": "Hot Girl (Bodies Bodies Bodies)",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4bc7d7262287578dca43f31"
+  },
+  {
+    "played_at": "2026-09-23T15:15:24.957Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-23T15:17:45.061Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
