@@ -10618,5 +10618,68 @@
       "cupcakKe"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273a4f60cad35fd83731fa17168"
+  },
+  {
+    "played_at": "2026-09-24T18:38:28.123Z",
+    "track_id": "4t9PBD27dndlf6YMBK2ROc",
+    "track_name": "Track 10",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-09-24T18:40:33.470Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-24T18:43:21.165Z",
+    "track_id": "0g8FizeHVo2cG7qxBfmckf",
+    "track_name": "SS26",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-24T18:46:48.874Z",
+    "track_id": "3vFRHL7DuN076fdIQuWQfv",
+    "track_name": "Card Declined",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-24T18:49:20.374Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-24T19:02:53.242Z",
+    "track_id": "7GVLyPEpJtQZiYt95LF0ng",
+    "track_name": "2007",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-24T19:05:04.678Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
