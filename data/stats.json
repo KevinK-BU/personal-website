@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-18T09:09:10.541Z",
-  "week_end": "2026-09-25T09:09:10.541Z",
-  "total_plays": 141,
+  "week_start": "2026-09-18T16:02:23.130Z",
+  "week_end": "2026-09-25T16:02:23.130Z",
+  "total_plays": 137,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -25,5 +25,5 @@
       "count": 17
     }
   ],
-  "updated_at": "2026-09-25T09:09:10.543Z"
+  "updated_at": "2026-09-25T16:02:23.133Z"
 }
