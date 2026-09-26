@@ -1,14 +1,14 @@
 {
-  "week_start": "2026-09-19T02:18:12.023Z",
-  "week_end": "2026-09-26T02:18:12.023Z",
-  "total_plays": 138,
+  "week_start": "2026-09-19T08:52:57.373Z",
+  "week_end": "2026-09-26T08:52:57.373Z",
+  "total_plays": 145,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
       "FKA twigs",
       "Lil Yachty"
     ],
-    "play_count": 15,
+    "play_count": 16,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
@@ -18,12 +18,12 @@
     },
     {
       "name": "FKA twigs",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Lil Yachty",
-      "count": 15
+      "count": 16
     }
   ],
-  "updated_at": "2026-09-26T02:18:12.024Z"
+  "updated_at": "2026-09-26T08:52:57.375Z"
 }
