@@ -1,42 +1,5 @@
 [
   {
-    "played_at": "2026-08-22T21:58:15.721Z",
-    "track_id": "6oUUmBcUbZa5O48V5pjgAD",
-    "track_name": "Hootie Frutti",
-    "artists": [
-      "KATSEYE"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
-  },
-  {
-    "played_at": "2026-08-22T22:01:16.224Z",
-    "track_id": "6eqQLOOiqBnrwKQEzXoHll",
-    "track_name": "CRANK",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
-  },
-  {
-    "played_at": "2026-08-22T22:04:21.436Z",
-    "track_id": "1DwscornXpj8fmOmYVlqZt",
-    "track_name": "Stateside + Zara Larsson",
-    "artists": [
-      "PinkPantheress",
-      "Zara Larsson"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
-  },
-  {
-    "played_at": "2026-08-22T22:08:34.923Z",
-    "track_id": "5QCfOMH5K7bS4dH7H7PNeI",
-    "track_name": "Tonight",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
     "played_at": "2026-08-22T22:18:07.442Z",
     "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
     "track_name": "cigarette smoke",
@@ -10973,5 +10936,78 @@
       "Mac DeMarco"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
+  },
+  {
+    "played_at": "2026-09-26T17:19:55.458Z",
+    "track_id": "4tyjNEHKos3lZPYAfTiMKH",
+    "track_name": "Silver Lining",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
+  },
+  {
+    "played_at": "2026-09-26T19:07:45.128Z",
+    "track_id": "1BPpJdD11gsDQno045HBz0",
+    "track_name": "No One Lasts Forever featuring David Cronenberg",
+    "artists": [
+      "Charli xcx",
+      "David Cronenberg"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-26T21:43:57.606Z",
+    "track_id": "4t9PBD27dndlf6YMBK2ROc",
+    "track_name": "Track 10",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-09-26T22:00:01.527Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-09-26T22:04:06.553Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-26T22:05:34.974Z",
+    "track_id": "5yZEkyUXbyFCHzrQTH5Ssw",
+    "track_name": "Bow Down - Homecoming Live",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27364e39bcda6ca921efdea9490"
+  },
+  {
+    "played_at": "2026-09-26T22:08:34.963Z",
+    "track_id": "3jfZ9M23l0L7RxzYMTgBTv",
+    "track_name": "Looking Out for You",
+    "artists": [
+      "Joy Again"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735448a3dfe8528453a3686fd6"
+  },
+  {
+    "played_at": "2026-09-26T22:09:52.995Z",
+    "track_id": "15wISCtefzl0rAq3G33Al9",
+    "track_name": "20210221 Father Of The Year",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4"
   }
 ]
