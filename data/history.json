@@ -1,16 +1,5 @@
 [
   {
-    "played_at": "2026-08-22T01:33:51.670Z",
-    "track_id": "0KDHIZn2go4pO5wXtGAKn2",
-    "track_name": "Alter Ego (Precious Remix)[with JT]",
-    "artists": [
-      "Doechii",
-      "JT",
-      "Precious"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1e4bce5039565c68f8ce1e9"
-  },
-  {
     "played_at": "2026-08-22T21:58:15.721Z",
     "track_id": "6oUUmBcUbZa5O48V5pjgAD",
     "track_name": "Hootie Frutti",
@@ -10892,5 +10881,23 @@
       "Donna Summer"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72"
+  },
+  {
+    "played_at": "2026-09-26T02:07:11.272Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
+  },
+  {
+    "played_at": "2026-09-26T02:14:19.727Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
