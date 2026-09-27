@@ -1,29 +1,29 @@
 {
-  "week_start": "2026-09-20T02:12:25.259Z",
-  "week_end": "2026-09-27T02:12:25.259Z",
-  "total_plays": 166,
+  "week_start": "2026-09-20T09:36:29.303Z",
+  "week_end": "2026-09-27T09:36:29.303Z",
+  "total_plays": 172,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
       "FKA twigs",
       "Lil Yachty"
     ],
-    "play_count": 15,
+    "play_count": 16,
     "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 41
+      "count": 43
     },
     {
       "name": "Toby Fox",
-      "count": 38
+      "count": 39
     },
     {
       "name": "FKA twigs",
-      "count": 16
+      "count": 17
     }
   ],
-  "updated_at": "2026-09-27T02:12:25.262Z"
+  "updated_at": "2026-09-27T09:36:29.305Z"
 }
