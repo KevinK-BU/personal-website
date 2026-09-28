@@ -11095,5 +11095,79 @@
       "Dean Martin"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273c091f7bdb3eeb3b8222b39f0"
+  },
+  {
+    "played_at": "2026-09-27T22:46:50.580Z",
+    "track_id": "4fBnFBSVjHfDv8dqXxKw05",
+    "track_name": "Nicole Kidman",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab6742d3000053b76171b4b06472e963bb13da98"
+  },
+  {
+    "played_at": "2026-09-28T00:17:30.561Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-28T00:21:07.510Z",
+    "track_id": "6K4t31amVTZDgR3sKmwUJJ",
+    "track_name": "The Less I Know The Better",
+    "artists": [
+      "Tame Impala"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
+  },
+  {
+    "played_at": "2026-09-28T00:40:29.929Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-28T00:42:43.645Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-28T01:06:14.174Z",
+    "track_id": "1BPpJdD11gsDQno045HBz0",
+    "track_name": "No One Lasts Forever featuring David Cronenberg",
+    "artists": [
+      "Charli xcx",
+      "David Cronenberg"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-28T01:11:32.913Z",
+    "track_id": "22WFoPT9VIJlZ0VcJVkCpm",
+    "track_name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
+    "artists": [
+      "Miley Cyrus",
+      "Naomi Campbell"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
+  },
+  {
+    "played_at": "2026-09-28T01:17:24.248Z",
+    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
+    "track_name": "Guess",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
   }
 ]
