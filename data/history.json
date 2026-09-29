@@ -1,79 +1,5 @@
 [
   {
-    "played_at": "2026-08-25T00:19:24.289Z",
-    "track_id": "6FFHObl8rAxig1QZewCTXN",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-08-25T00:27:34.502Z",
-    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
-    "track_name": "cigarette smoke",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-25T00:31:09.653Z",
-    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
-    "track_name": "my way",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-25T00:39:21.757Z",
-    "track_id": "0OdiAlnSN0k39jarFqVTY8",
-    "track_name": "Nobody's Supposed to Be Here - Dance Mix",
-    "artists": [
-      "Deborah Cox",
-      "Hex Hector"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27392c79e319a1a5519ebf669d4"
-  },
-  {
-    "played_at": "2026-08-25T00:45:02.123Z",
-    "track_id": "1o82DwNisONAd2mu1RcGE6",
-    "track_name": "Margaret (feat. Bleachers)",
-    "artists": [
-      "Lana Del Rey",
-      "Bleachers"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634"
-  },
-  {
-    "played_at": "2026-08-25T00:57:35.088Z",
-    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
-    "track_name": "Total Eclipse of the Heart",
-    "artists": [
-      "Bonnie Tyler"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
-  },
-  {
-    "played_at": "2026-08-25T01:06:17.414Z",
-    "track_id": "1uvyZBs4IZYRebHIB1747m",
-    "track_name": "Purple Rain",
-    "artists": [
-      "Prince"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
-  },
-  {
-    "played_at": "2026-08-25T01:08:06.243Z",
-    "track_id": "762B4bOcXF7I2Y8UlKTyTy",
-    "track_name": "Chiquitita",
-    "artists": [
-      "ABBA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec"
-  },
-  {
     "played_at": "2026-08-27T03:29:53.129Z",
     "track_id": "2Y6U158gVXfvqNWOLdis0R",
     "track_name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
@@ -10640,5 +10566,158 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-28T23:22:43.486Z",
+    "track_id": "7eEr7lgWYudwEKEaWCPiPI",
+    "track_name": "BLACKBIIRD",
+    "artists": [
+      "Beyoncé",
+      "Tanner Adell",
+      "Brittney Spencer",
+      "Tiera Kennedy",
+      "Reyna Roberts"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-09-29T00:44:38.499Z",
+    "track_id": "4vyQ2NdodXhtMGsaaMBqSt",
+    "track_name": "M.I.A",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273864febc2f9da1295d34ca1e2"
+  },
+  {
+    "played_at": "2026-09-29T01:05:13.254Z",
+    "track_id": "4ZYAU4A2YBtlNdqOUtc7T2",
+    "track_name": "Red Ruby Da Sleeze",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273064c51559ea4a86bd557a86f"
+  },
+  {
+    "played_at": "2026-09-29T01:09:03.358Z",
+    "track_id": "0vAC5l2HBgjpSNOaTvQywd",
+    "track_name": "Want Some More",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736fc944ef0967cf846c7539d6"
+  },
+  {
+    "played_at": "2026-09-29T01:12:49.393Z",
+    "track_id": "3BxWKCI06eQ5Od8TY2JBeA",
+    "track_name": "Buttons",
+    "artists": [
+      "The Pussycat Dolls"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
+  },
+  {
+    "played_at": "2026-09-29T01:50:56.323Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-09-29T01:54:44.093Z",
+    "track_id": "25nbeJzxF3dwvtTq57QKZi",
+    "track_name": "expectations",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-09-29T01:59:02.670Z",
+    "track_id": "49gRYU6hBWgSH2JVixGkJq",
+    "track_name": "Into You",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732e651648db439a9b5995e065"
+  },
+  {
+    "played_at": "2026-09-29T02:03:17.399Z",
+    "track_id": "4KZAsdL0PeGvmPbSr0hyG4",
+    "track_name": "Government Hooker",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
+  },
+  {
+    "played_at": "2026-09-29T02:09:45.010Z",
+    "track_id": "2DEZmgHKAvm41k4J3R2E9Y",
+    "track_name": "Safaera",
+    "artists": [
+      "Bad Bunny",
+      "Jowell & Randy",
+      "Ñengo Flow"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0"
+  },
+  {
+    "played_at": "2026-09-29T02:11:49.082Z",
+    "track_id": "0UFSU9k3EvLRyTdzW5BzGb",
+    "track_name": "Bing Bong",
+    "artists": [
+      "Yailin la Mas Viral",
+      "Puyalo Pantera"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273376bc63e136dbcb7eeab00c6"
+  },
+  {
+    "played_at": "2026-09-29T02:16:04.320Z",
+    "track_id": "1Y9DHUBhlGPjOTpN3zv4d1",
+    "track_name": "Ain't No Mountain High Enough - The ANMHE 'Diamond Diana\" Remix",
+    "artists": [
+      "Diana Ross",
+      "Eric Kupper"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273349e3a33d75ff26510f40675"
+  },
+  {
+    "played_at": "2026-09-29T02:20:48.776Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-09-29T02:23:10.624Z",
+    "track_id": "0mjDJiWmZ548y9EUnogCP1",
+    "track_name": "Señorita",
+    "artists": [
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d8cf86a052ca229b2f72f14"
+  },
+  {
+    "played_at": "2026-09-29T02:26:11.814Z",
+    "track_id": "5pGz6FrmpHjOuso83azbik",
+    "track_name": "El Alma Que Te Trajo",
+    "artists": [
+      "Safety Trance",
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739db15008cd7d44e6712a1d69"
+  },
+  {
+    "played_at": "2026-09-29T02:29:41.793Z",
+    "track_id": "5b5cPscqVEMChvDqscVw26",
+    "track_name": "Training Season",
+    "artists": [
+      "Dua Lipa"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575"
   }
 ]
