@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-22T10:11:35.259Z",
-  "week_end": "2026-09-29T10:11:35.259Z",
-  "total_plays": 185,
+  "week_start": "2026-09-22T17:09:07.839Z",
+  "week_end": "2026-09-29T17:09:07.839Z",
+  "total_plays": 182,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -14,7 +14,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 40
+      "count": 39
     },
     {
       "name": "Toby Fox",
@@ -25,5 +25,5 @@
       "count": 17
     }
   ],
-  "updated_at": "2026-09-29T10:11:35.261Z"
+  "updated_at": "2026-09-29T17:09:07.840Z"
 }
