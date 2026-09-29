@@ -10613,5 +10613,32 @@
       "Adele"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
+  },
+  {
+    "played_at": "2026-09-28T21:58:24.608Z",
+    "track_id": "6SRsiMl7w1USE4mFqrOhHC",
+    "track_name": "brutal",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "played_at": "2026-09-28T23:18:24.255Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-09-28T23:21:03.186Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
