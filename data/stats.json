@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-23T17:07:02.493Z",
-  "week_end": "2026-09-30T17:07:02.493Z",
-  "total_plays": 163,
+  "week_start": "2026-09-23T23:17:44.164Z",
+  "week_end": "2026-09-30T23:17:44.164Z",
+  "total_plays": 184,
   "top_track": {
     "name": "No One Lasts Forever featuring David Cronenberg",
     "artists": [
@@ -13,17 +13,17 @@
   },
   "top_artists": [
     {
-      "name": "Charli xcx",
-      "count": 36
+      "name": "Toby Fox",
+      "count": 47
     },
     {
-      "name": "Toby Fox",
-      "count": 34
+      "name": "Charli xcx",
+      "count": 38
     },
     {
       "name": "Olivia Rodrigo",
       "count": 11
     }
   ],
-  "updated_at": "2026-09-30T17:07:02.495Z"
+  "updated_at": "2026-09-30T23:17:44.166Z"
 }
