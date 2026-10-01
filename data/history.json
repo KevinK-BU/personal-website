@@ -1,33 +1,5 @@
 [
   {
-    "played_at": "2026-08-27T23:22:11.713Z",
-    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
-    "track_name": "serena joy",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
-  },
-  {
-    "played_at": "2026-08-27T23:24:23.486Z",
-    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
-    "track_name": "Purrr",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
-  },
-  {
-    "played_at": "2026-08-27T23:27:22.524Z",
-    "track_id": "6Sq7ltF9Qa7SNFBsV5Cogx",
-    "track_name": "Me Porto Bonito",
-    "artists": [
-      "Bad Bunny",
-      "Chencho Corleone"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72"
-  },
-  {
     "played_at": "2026-08-27T23:57:45.844Z",
     "track_id": "22l7ocwYpEYGvYpM9T2C5K",
     "track_name": "maggots for brains",
