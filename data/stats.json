@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-24T23:31:24.183Z",
-  "week_end": "2026-10-01T23:31:24.183Z",
-  "total_plays": 161,
+  "week_start": "2026-09-25T02:51:48.262Z",
+  "week_end": "2026-10-02T02:51:48.262Z",
+  "total_plays": 163,
   "top_track": {
     "name": "No One Lasts Forever featuring David Cronenberg",
     "artists": [
@@ -18,12 +18,12 @@
     },
     {
       "name": "Charli xcx",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Olivia Rodrigo",
       "count": 11
     }
   ],
-  "updated_at": "2026-10-01T23:31:24.185Z"
+  "updated_at": "2026-10-02T02:51:48.263Z"
 }
