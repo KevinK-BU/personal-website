@@ -10657,5 +10657,72 @@
       "Lone"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734d18e046e3af5a9d233cd774"
+  },
+  {
+    "played_at": "2026-10-01T23:45:51.982Z",
+    "track_id": "3XbNseJrIK8LzoTh4eA0Xf",
+    "track_name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
+    "artists": [
+      "Charli xcx",
+      "Big Freedia",
+      "cupcakKe",
+      "Brooke Candy",
+      "Pabllo Vittar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d67f5dfe2e86a4cdae439ce"
+  },
+  {
+    "played_at": "2026-10-02T14:21:05.029Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-02T14:23:49.823Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-02T14:46:20.435Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-02T15:06:13.553Z",
+    "track_id": "3BxWKCI06eQ5Od8TY2JBeA",
+    "track_name": "Buttons",
+    "artists": [
+      "The Pussycat Dolls"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
+  },
+  {
+    "played_at": "2026-10-02T15:09:42.653Z",
+    "track_id": "0YGQ3hZcRLC5YX7o0hdmHg",
+    "track_name": "Naughty Girl",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1"
+  },
+  {
+    "played_at": "2026-10-02T15:12:33.503Z",
+    "track_id": "5ww65ORP2faNi9ygUjxwId",
+    "track_name": "Money Honey",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0"
   }
 ]
