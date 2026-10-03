@@ -1,105 +1,5 @@
 [
   {
-    "played_at": "2026-08-29T21:50:33.726Z",
-    "track_id": "0yO9QD2Ga7eUzqnNYsSSPo",
-    "track_name": "drop dead",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T21:54:03.432Z",
-    "track_id": "4LfCY65LvojKjWEnU7fNN4",
-    "track_name": "stupid song",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T21:57:46.740Z",
-    "track_id": "407LgLkk1uM3wMO6jVRe0a",
-    "track_name": "honeybee",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:01:46.791Z",
-    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
-    "track_name": "maggots for brains",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:05:54.431Z",
-    "track_id": "6Hdc3IQeyCxG5d14uAcwQW",
-    "track_name": "u + me = <3",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:08:55.148Z",
-    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
-    "track_name": "my way",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:12:55.217Z",
-    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
-    "track_name": "purple",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:17:52.340Z",
-    "track_id": "55pBIZO1cqoldeqpp5WR7H",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:21:30.225Z",
-    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
-    "track_name": "begged",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:25:15.147Z",
-    "track_id": "1W7023CuJrWPbD4q2Sipoh",
-    "track_name": "what’s wrong with me",
-    "artists": [
-      "Olivia Rodrigo",
-      "Robert Smith"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-08-29T22:28:34.946Z",
-    "track_id": "1LmRAxdZUEM9xc2wNivy1y",
-    "track_name": "less",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
     "played_at": "2026-08-29T22:32:16.924Z",
     "track_id": "25nbeJzxF3dwvtTq57QKZi",
     "track_name": "expectations",
@@ -10336,5 +10236,50 @@
       "Conan Gray"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
+  },
+  {
+    "played_at": "2026-10-03T20:44:33.656Z",
+    "track_id": "1uvyZBs4IZYRebHIB1747m",
+    "track_name": "Purple Rain",
+    "artists": [
+      "Prince"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
+  },
+  {
+    "played_at": "2026-10-03T20:57:55.346Z",
+    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
+    "track_name": "Total Eclipse of the Heart",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
+  },
+  {
+    "played_at": "2026-10-03T21:02:11.800Z",
+    "track_id": "5Ctzx0mMiUPAu9JqbAOY9n",
+    "track_name": "Be Like a Woman",
+    "artists": [
+      "Chris Rainbow"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b01318919e207e569f69c1a2"
+  },
+  {
+    "played_at": "2026-10-03T21:07:51.085Z",
+    "track_id": "7GK2KVYH8FrTC9zehmjVMd",
+    "track_name": "Ring My Bell",
+    "artists": [
+      "Anita Ward"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368"
+  },
+  {
+    "played_at": "2026-10-03T21:34:03.113Z",
+    "track_id": "7GK2KVYH8FrTC9zehmjVMd",
+    "track_name": "Ring My Bell",
+    "artists": [
+      "Anita Ward"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368"
   }
 ]
