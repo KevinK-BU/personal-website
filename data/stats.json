@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-27T10:16:07.741Z",
-  "week_end": "2026-10-04T10:16:07.741Z",
-  "total_plays": 170,
+  "week_start": "2026-09-27T16:04:12.308Z",
+  "week_end": "2026-10-04T16:04:12.308Z",
+  "total_plays": 187,
   "top_track": {
     "name": "I’m Afraid",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 26
+      "count": 28
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 13
     },
     {
       "name": "Toby Fox",
       "count": 13
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 11
     }
   ],
-  "updated_at": "2026-10-04T10:16:07.742Z"
+  "updated_at": "2026-10-04T16:04:12.309Z"
 }
