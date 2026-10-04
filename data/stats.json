@@ -1,20 +1,19 @@
 {
-  "week_start": "2026-09-27T03:09:11.459Z",
-  "week_end": "2026-10-04T03:09:11.459Z",
-  "total_plays": 126,
+  "week_start": "2026-09-27T10:16:07.741Z",
+  "week_end": "2026-10-04T10:16:07.741Z",
+  "total_plays": 170,
   "top_track": {
-    "name": "On Your Mind (feat. Lil Yachty)",
+    "name": "I’m Afraid",
     "artists": [
-      "FKA twigs",
-      "Lil Yachty"
+      "Charli xcx"
     ],
     "play_count": 5,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Toby Fox",
@@ -22,8 +21,8 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 7
+      "count": 11
     }
   ],
-  "updated_at": "2026-10-04T03:09:11.461Z"
+  "updated_at": "2026-10-04T10:16:07.742Z"
 }
