@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-08-30T19:25:18.328Z",
-    "track_id": "6K8VQ84MqhsoakN5MjrnVR",
-    "track_name": "Supercut",
-    "artists": [
-      "Lorde"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336"
-  },
-  {
     "played_at": "2026-09-01T19:59:30.176Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -10808,5 +10799,86 @@
       "Harry Styles"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38"
+  },
+  {
+    "played_at": "2026-10-04T17:59:06.646Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-04T18:02:14.539Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-04T18:35:46.754Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-04T18:43:31.195Z",
+    "track_id": "1LmRAxdZUEM9xc2wNivy1y",
+    "track_name": "less",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-04T19:07:03.537Z",
+    "track_id": "6TGd66r0nlPaYm3KIoI7ET",
+    "track_name": "THE GREATEST",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-10-04T20:08:41.391Z",
+    "track_id": "33cRPtUHTjMG90FZV76S8T",
+    "track_name": "intro (end of the world) - extended",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736c9d796f3d1a060de02a3077"
+  },
+  {
+    "played_at": "2026-10-04T20:15:24.836Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
+  },
+  {
+    "played_at": "2026-10-04T20:19:04.302Z",
+    "track_id": "6ez4yXpLini3DSbaLR10qZ",
+    "track_name": "This Time I Know It's for Real",
+    "artists": [
+      "Donna Summer"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273541e8d8dcbddf24fd4988116"
+  },
+  {
+    "played_at": "2026-10-04T20:23:17.169Z",
+    "track_id": "4r5VaK6H1bq0cTGPMTN97Z",
+    "track_name": "Miss You Much",
+    "artists": [
+      "Janet Jackson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371511473d9e34fcdc13d90ef"
   }
 ]
