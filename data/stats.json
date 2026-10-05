@@ -1,14 +1,14 @@
 {
-  "week_start": "2026-09-28T02:43:29.243Z",
-  "week_end": "2026-10-05T02:43:29.243Z",
-  "total_plays": 188,
+  "week_start": "2026-09-28T10:55:50.881Z",
+  "week_end": "2026-10-05T10:55:50.881Z",
+  "total_plays": 190,
   "top_track": {
-    "name": "I’m Afraid",
+    "name": "Waschesalon",
     "artists": [
-      "Charli xcx"
+      "Rebecca Black"
     ],
-    "play_count": 5,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+    "play_count": 6,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
   },
   "top_artists": [
     {
@@ -24,5 +24,5 @@
       "count": 13
     }
   ],
-  "updated_at": "2026-10-05T02:43:29.245Z"
+  "updated_at": "2026-10-05T10:55:50.883Z"
 }
