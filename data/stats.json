@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-09-29T10:51:25.158Z",
-  "week_end": "2026-10-06T10:51:25.158Z",
-  "total_plays": 270,
+  "week_start": "2026-09-29T17:30:41.375Z",
+  "week_end": "2026-10-06T17:30:41.375Z",
+  "total_plays": 293,
   "top_track": {
     "name": "Club classics",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 29,
+    "play_count": 31,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 105
+      "count": 114
     },
     {
       "name": "Shygirl",
-      "count": 34
+      "count": 36
     },
     {
-      "name": "Toby Fox",
+      "name": "Olivia Rodrigo",
       "count": 13
     }
   ],
-  "updated_at": "2026-10-06T10:51:25.159Z"
+  "updated_at": "2026-10-06T17:30:41.376Z"
 }
