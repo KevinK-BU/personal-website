@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-09-28T10:55:50.881Z",
-  "week_end": "2026-10-05T10:55:50.881Z",
-  "total_plays": 190,
+  "week_start": "2026-09-29T01:00:42.826Z",
+  "week_end": "2026-10-06T01:00:42.826Z",
+  "total_plays": 235,
   "top_track": {
-    "name": "Waschesalon",
+    "name": "Club classics",
     "artists": [
-      "Rebecca Black"
+      "Charli xcx"
     ],
-    "play_count": 6,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+    "play_count": 25,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 25
+      "count": 60
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Toby Fox",
       "count": 13
     }
   ],
-  "updated_at": "2026-10-05T10:55:50.883Z"
+  "updated_at": "2026-10-06T01:00:42.827Z"
 }
