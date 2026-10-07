@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-09-29T23:24:28.430Z",
-  "week_end": "2026-10-06T23:24:28.430Z",
-  "total_plays": 283,
+  "week_start": "2026-09-30T03:01:10.761Z",
+  "week_end": "2026-10-07T03:01:10.761Z",
+  "total_plays": 318,
   "top_track": {
-    "name": "Club classics",
+    "name": "Dying for You",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 31,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+    "play_count": 37,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 111
+      "count": 129
     },
     {
       "name": "Shygirl",
-      "count": 35
+      "count": 36
     },
     {
-      "name": "Toby Fox",
-      "count": 13
+      "name": "Rebecca Black",
+      "count": 28
     }
   ],
-  "updated_at": "2026-10-06T23:24:28.431Z"
+  "updated_at": "2026-10-07T03:01:10.763Z"
 }
