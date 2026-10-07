@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-09-30T03:01:10.761Z",
-  "week_end": "2026-10-07T03:01:10.761Z",
-  "total_plays": 318,
+  "week_start": "2026-09-30T10:38:25.262Z",
+  "week_end": "2026-10-07T10:38:25.262Z",
+  "total_plays": 321,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 129
+      "count": 131
     },
     {
       "name": "Shygirl",
-      "count": 36
+      "count": 38
     },
     {
       "name": "Rebecca Black",
       "count": 28
     }
   ],
-  "updated_at": "2026-10-07T03:01:10.763Z"
+  "updated_at": "2026-10-07T10:38:25.263Z"
 }
