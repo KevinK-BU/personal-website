@@ -1,226 +1,5 @@
 [
   {
-    "played_at": "2026-09-03T13:58:37.307Z",
-    "track_id": "0ZzHRRPxUmNVr4vWNnlDAe",
-    "track_name": "Stars",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-09-03T14:04:23.962Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-03T14:42:56.714Z",
-    "track_id": "709p9UGPAuyImWf1Z3vjRo",
-    "track_name": "Let You Break My Heart Again",
-    "artists": [
-      "Laufey",
-      "Philharmonia Orchestra"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2739457bba66a2daf4456855bb7"
-  },
-  {
-    "played_at": "2026-09-03T14:46:10.485Z",
-    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
-    "track_name": "serena joy",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
-  },
-  {
-    "played_at": "2026-09-03T14:47:55.773Z",
-    "track_id": "0v9kGNjkKdQUdDoBIuiph4",
-    "track_name": "My Prerogative",
-    "artists": [
-      "Bobby Brown"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27353cf43170dc29787984cf6b4"
-  },
-  {
-    "played_at": "2026-09-03T16:53:43.501Z",
-    "track_id": "6jfiwkcwt8iYCdkbLukxeI",
-    "track_name": "maggots for brains",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
-    "played_at": "2026-09-03T16:56:23.328Z",
-    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
-    "track_name": "Trophy",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
-  },
-  {
-    "played_at": "2026-09-03T17:01:09.747Z",
-    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
-    "track_name": "Love In The Dark",
-    "artists": [
-      "Adele"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
-  },
-  {
-    "played_at": "2026-09-03T17:12:12.101Z",
-    "track_id": "4bkClAuofJULiaIZsuL3gT",
-    "track_name": "expectations",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
-    "played_at": "2026-09-03T17:12:43.934Z",
-    "track_id": "5pyoxDZ1PX0KxBxiRVxA4U",
-    "track_name": "BREAK MY SOUL",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-09-03T17:12:56.037Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-03T17:16:30.771Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-03T17:19:01.363Z",
-    "track_id": "7K0enK86KuipIJu4DA43L5",
-    "track_name": "Yung Rapunxel",
-    "artists": [
-      "Azealia Banks"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
-  },
-  {
-    "played_at": "2026-09-03T17:24:32.878Z",
-    "track_id": "66O0pFEFp23dgYjoAd6RKK",
-    "track_name": "The Big Big Beat",
-    "artists": [
-      "Azealia Banks"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
-  },
-  {
-    "played_at": "2026-09-03T17:24:42.642Z",
-    "track_id": "1NIIHg8jXOq095MQiLxXzC",
-    "track_name": "Gag On It",
-    "artists": [
-      "Kim Petras"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
-  },
-  {
-    "played_at": "2026-09-03T17:24:53.080Z",
-    "track_id": "1NIIHg8jXOq095MQiLxXzC",
-    "track_name": "Gag On It",
-    "artists": [
-      "Kim Petras"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
-  },
-  {
-    "played_at": "2026-09-03T17:24:54.370Z",
-    "track_id": "1NIIHg8jXOq095MQiLxXzC",
-    "track_name": "Gag On It",
-    "artists": [
-      "Kim Petras"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
-  },
-  {
-    "played_at": "2026-09-03T17:25:02.530Z",
-    "track_id": "1NIIHg8jXOq095MQiLxXzC",
-    "track_name": "Gag On It",
-    "artists": [
-      "Kim Petras"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
-  },
-  {
-    "played_at": "2026-09-03T17:27:54.491Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-09-03T17:29:24.658Z",
-    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-09-03T17:31:34.400Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-09-03T17:31:39.546Z",
-    "track_id": "0D6VCA9ycrkk9kH9F0p0AB",
-    "track_name": "Roll with Me",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
-  },
-  {
-    "played_at": "2026-09-03T17:31:46.088Z",
-    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
-    "track_name": "No Comma",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
-  },
-  {
-    "played_at": "2026-09-03T17:58:40.815Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
     "played_at": "2026-09-03T18:08:22.559Z",
     "track_id": "51vArgRF64yIWk3JIcRITo",
     "track_name": "Pink in the Night",
@@ -11986,5 +11765,32 @@
       "Tems"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-10-08T16:06:06.194Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-08T16:09:38.595Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-08T16:13:03.432Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]
