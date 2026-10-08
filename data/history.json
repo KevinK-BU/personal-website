@@ -1,50 +1,5 @@
 [
   {
-    "played_at": "2026-09-03T02:58:10.339Z",
-    "track_id": "60jzFy6Nn4M0iD1d94oteF",
-    "track_name": "Rude Boy",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273ab647295c0c97446c1f1a3b5"
-  },
-  {
-    "played_at": "2026-09-03T03:07:17.021Z",
-    "track_id": "55pBIZO1cqoldeqpp5WR7H",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-03T03:10:25.135Z",
-    "track_id": "5u9cuDcYdOpSRB7fAYXXdp",
-    "track_name": "Marcel",
-    "artists": [
-      "Her's"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fc1bc1cf80c431c2bdbde601"
-  },
-  {
-    "played_at": "2026-09-03T03:14:10.438Z",
-    "track_id": "0InIeZW4P6VO7dUGRM4AKH",
-    "track_name": "Sienna",
-    "artists": [
-      "The Marías"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-  },
-  {
-    "played_at": "2026-09-03T03:17:14.759Z",
-    "track_id": "0WdR2AyLW1Drd3OUdwezM0",
-    "track_name": "everytime",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394"
-  },
-  {
     "played_at": "2026-09-03T13:58:37.307Z",
     "track_id": "0ZzHRRPxUmNVr4vWNnlDAe",
     "track_name": "Stars",
