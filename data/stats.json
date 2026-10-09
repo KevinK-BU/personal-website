@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-02T17:38:19.545Z",
-  "week_end": "2026-10-09T17:38:19.545Z",
-  "total_plays": 340,
+  "week_start": "2026-10-02T23:38:34.645Z",
+  "week_end": "2026-10-09T23:38:34.645Z",
+  "total_plays": 355,
   "top_track": {
     "name": "Dying for You",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 41,
+    "play_count": 43,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 147
+      "count": 157
     },
     {
       "name": "Shygirl",
-      "count": 43
+      "count": 45
     },
     {
       "name": "Rebecca Black",
-      "count": 31
+      "count": 32
     }
   ],
-  "updated_at": "2026-10-09T17:38:19.547Z"
+  "updated_at": "2026-10-09T23:38:34.647Z"
 }
