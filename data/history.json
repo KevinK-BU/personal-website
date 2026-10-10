@@ -1,124 +1,5 @@
 [
   {
-    "played_at": "2026-09-04T23:38:40.859Z",
-    "track_id": "7K0enK86KuipIJu4DA43L5",
-    "track_name": "Yung Rapunxel",
-    "artists": [
-      "Azealia Banks"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
-  },
-  {
-    "played_at": "2026-09-04T23:41:23.552Z",
-    "track_id": "66O0pFEFp23dgYjoAd6RKK",
-    "track_name": "The Big Big Beat",
-    "artists": [
-      "Azealia Banks"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
-  },
-  {
-    "played_at": "2026-09-04T23:43:15.010Z",
-    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
-    "track_name": "Purrr",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
-  },
-  {
-    "played_at": "2026-09-04T23:44:50.551Z",
-    "track_id": "7C7vnAW3L8ahsOGsZKY6EP",
-    "track_name": "KGB",
-    "artists": [
-      "ADÉLA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
-  },
-  {
-    "played_at": "2026-09-04T23:45:07.138Z",
-    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-09-04T23:45:10.226Z",
-    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-09-04T23:45:19.174Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-09-04T23:45:26.660Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-09-04T23:45:47.153Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-09-04T23:49:09.608Z",
-    "track_id": "2s0ouHqJebHfiQ6C1GUFJd",
-    "track_name": "Milkshake - Radio Mix",
-    "artists": [
-      "Kelis"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27380c0124b18f8d2e3152bbb02"
-  },
-  {
-    "played_at": "2026-09-05T00:01:12.808Z",
-    "track_id": "7Hqig8kp32q2Ire3ECQvWM",
-    "track_name": "Paparazzi",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0"
-  },
-  {
-    "played_at": "2026-09-05T00:05:17.183Z",
-    "track_id": "3MjUtNVVq3C8Fn0MP3zhXa",
-    "track_name": "...Baby One More Time",
-    "artists": [
-      "Britney Spears"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336cf58e3e7cf36a145b1da18"
-  },
-  {
-    "played_at": "2026-09-05T01:33:44.261Z",
-    "track_id": "21pySLskKIKrhDziCX5ojQ",
-    "track_name": "When I Grow Up",
-    "artists": [
-      "The Pussycat Dolls"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736d87f7b4c9ef7218c07df53c"
-  },
-  {
     "played_at": "2026-09-05T18:51:49.754Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -11150,5 +11031,42 @@
       "Slayyyter"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-10-10T02:04:02.543Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-10T02:04:27.317Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-10T02:05:02.918Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-10T02:05:20.608Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   }
 ]
