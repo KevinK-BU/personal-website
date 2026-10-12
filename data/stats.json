@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-04T23:16:46.812Z",
-  "week_end": "2026-10-11T23:16:46.812Z",
-  "total_plays": 297,
+  "week_start": "2026-10-05T02:58:41.418Z",
+  "week_end": "2026-10-12T02:58:41.418Z",
+  "total_plays": 294,
   "top_track": {
     "name": "Dying for You",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Rebecca Black",
-      "count": 33
+      "count": 32
     }
   ],
-  "updated_at": "2026-10-11T23:16:46.813Z"
+  "updated_at": "2026-10-12T02:58:41.419Z"
 }
