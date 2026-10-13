@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-05T20:30:50.838Z",
-  "week_end": "2026-10-12T20:30:50.838Z",
-  "total_plays": 294,
+  "week_start": "2026-10-06T04:13:57.171Z",
+  "week_end": "2026-10-13T04:13:57.171Z",
+  "total_plays": 201,
   "top_track": {
-    "name": "Dying for You",
+    "name": "Waschesalon",
     "artists": [
-      "Charli xcx"
+      "Rebecca Black"
     ],
-    "play_count": 45,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+    "play_count": 32,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 164
-    },
-    {
-      "name": "Shygirl",
-      "count": 49
+      "count": 84
     },
     {
       "name": "Rebecca Black",
       "count": 32
+    },
+    {
+      "name": "Shygirl",
+      "count": 18
     }
   ],
-  "updated_at": "2026-10-12T20:30:50.839Z"
+  "updated_at": "2026-10-13T04:13:57.173Z"
 }
