@@ -1,59 +1,5 @@
 [
   {
-    "played_at": "2026-09-08T13:58:56.203Z",
-    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
-    "track_name": "Rock Music",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-08T14:08:34.026Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-08T14:23:31.509Z",
-    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
-    "track_name": "my way",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-08T14:37:41.631Z",
-    "track_id": "30cSNer6TV8x2utjULVeQ5",
-    "track_name": "SOS",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273d744a51e193d52170070062b"
-  },
-  {
-    "played_at": "2026-09-08T14:41:34.252Z",
-    "track_id": "1NEBuFp0BJMikgXJI9VVab",
-    "track_name": "Te Mata",
-    "artists": [
-      "Kali Uchis"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b968625b03ec59b30b48e9c3"
-  },
-  {
-    "played_at": "2026-09-08T14:52:38.914Z",
-    "track_id": "7cioKB5CHVzk09SOtTyn0T",
-    "track_name": "Haunted",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
-  },
-  {
     "played_at": "2026-09-08T15:40:05.376Z",
     "track_id": "7N3mR4WnEuq1MUQlxb6JWH",
     "track_name": "Muévelo",
@@ -10536,5 +10482,51 @@
       "Beyoncé"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+  },
+  {
+    "played_at": "2026-10-13T14:51:34.633Z",
+    "track_id": "0UHB9METy4VCXNgkcGqHqS",
+    "track_name": "Kiss It Better",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
+  },
+  {
+    "played_at": "2026-10-13T14:58:57.590Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-13T15:01:04.194Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-13T15:02:27Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-13T15:13:55.567Z",
+    "track_id": "5oO3drDxtziYU2H1X23ZIp",
+    "track_name": "Love On The Brain",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
   }
 ]

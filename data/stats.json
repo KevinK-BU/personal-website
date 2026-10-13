@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-06T04:13:57.171Z",
-  "week_end": "2026-10-13T04:13:57.171Z",
-  "total_plays": 201,
+  "week_start": "2026-10-06T15:21:39.336Z",
+  "week_end": "2026-10-13T15:21:39.336Z",
+  "total_plays": 177,
   "top_track": {
     "name": "Waschesalon",
     "artists": [
       "Rebecca Black"
     ],
-    "play_count": 32,
+    "play_count": 30,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 84
+      "count": 76
     },
     {
       "name": "Rebecca Black",
-      "count": 32
+      "count": 30
     },
     {
       "name": "Shygirl",
-      "count": 18
+      "count": 15
     }
   ],
-  "updated_at": "2026-10-13T04:13:57.173Z"
+  "updated_at": "2026-10-13T15:21:39.338Z"
 }
