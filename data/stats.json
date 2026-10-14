@@ -1,28 +1,29 @@
 {
-  "week_start": "2026-10-07T02:26:11.371Z",
-  "week_end": "2026-10-14T02:26:11.371Z",
-  "total_plays": 214,
+  "week_start": "2026-10-07T09:05:25.927Z",
+  "week_end": "2026-10-14T09:05:25.927Z",
+  "total_plays": 249,
   "top_track": {
-    "name": "No Comma",
+    "name": "Satisfaction",
     "artists": [
-      "Slayyyter"
+      "Benny Benassi",
+      "The Biz"
     ],
-    "play_count": 20,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+    "play_count": 43,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 79
-    },
-    {
-      "name": "Slayyyter",
-      "count": 26
+      "count": 80
     },
     {
       "name": "Benny Benassi",
-      "count": 20
+      "count": 43
+    },
+    {
+      "name": "The Biz",
+      "count": 43
     }
   ],
-  "updated_at": "2026-10-14T02:26:11.372Z"
+  "updated_at": "2026-10-14T09:05:25.929Z"
 }
