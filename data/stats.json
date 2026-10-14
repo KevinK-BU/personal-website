@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-06T20:52:07.737Z",
-  "week_end": "2026-10-13T20:52:07.737Z",
-  "total_plays": 205,
+  "week_start": "2026-10-07T02:26:11.371Z",
+  "week_end": "2026-10-14T02:26:11.371Z",
+  "total_plays": 214,
   "top_track": {
-    "name": "Waschesalon",
+    "name": "No Comma",
     "artists": [
-      "Rebecca Black"
+      "Slayyyter"
     ],
-    "play_count": 33,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+    "play_count": 20,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 85
+      "count": 79
     },
     {
-      "name": "Rebecca Black",
-      "count": 33
+      "name": "Slayyyter",
+      "count": 26
     },
     {
-      "name": "Shygirl",
-      "count": 17
+      "name": "Benny Benassi",
+      "count": 20
     }
   ],
-  "updated_at": "2026-10-13T20:52:07.738Z"
+  "updated_at": "2026-10-14T02:26:11.372Z"
 }
