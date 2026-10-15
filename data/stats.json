@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-08T15:52:38.722Z",
-  "week_end": "2026-10-15T15:52:38.722Z",
-  "total_plays": 303,
+  "week_start": "2026-10-08T19:31:34.898Z",
+  "week_end": "2026-10-15T19:31:34.898Z",
+  "total_plays": 349,
   "top_track": {
     "name": "Satisfaction",
     "artists": [
@@ -17,13 +17,13 @@
       "count": 79
     },
     {
-      "name": "Benny Benassi",
+      "name": "KATSEYE",
       "count": 45
     },
     {
-      "name": "The Biz",
+      "name": "Benny Benassi",
       "count": 45
     }
   ],
-  "updated_at": "2026-10-15T15:52:38.723Z"
+  "updated_at": "2026-10-15T19:31:34.899Z"
 }
