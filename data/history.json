@@ -1,68 +1,5 @@
 [
   {
-    "played_at": "2026-09-09T22:49:30.974Z",
-    "track_id": "7BRD7x5pt8Lqa1eGYC4dzj",
-    "track_name": "CHIHIRO",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
-  },
-  {
-    "played_at": "2026-09-09T22:53:16.872Z",
-    "track_id": "1xzi1Jcr7mEi9K2RfzLOqS",
-    "track_name": "CUFF IT",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-09-10T01:06:32.803Z",
-    "track_id": "3Tc57t9l2O8FwQZtQOvPXK",
-    "track_name": "my strange addiction",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
-  },
-  {
-    "played_at": "2026-09-10T01:11:47.911Z",
-    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
-    "track_name": "serena joy",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
-  },
-  {
-    "played_at": "2026-09-10T01:15:16.431Z",
-    "track_id": "1MpCaOeUWhox2Fgigbe1cL",
-    "track_name": "I'M THAT GIRL",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-09-10T01:20:05.112Z",
-    "track_id": "3HyR1j49TY5ACP2lseF1jx",
-    "track_name": "SUMMER RENAISSANCE",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-09-10T01:43:33.685Z",
-    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
-    "track_name": "Trophy",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
-  },
-  {
     "played_at": "2026-09-10T13:49:37.407Z",
     "track_id": "3Rc2ajBMInxeNGVkMPC92Y",
     "track_name": "Dancing On My Own",
@@ -11427,5 +11364,43 @@
       "Rihanna"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
+  },
+  {
+    "played_at": "2026-10-14T18:18:18.472Z",
+    "track_id": "7eXTBoSQm3Xlp67cH2smXZ",
+    "track_name": "20200816 She Want The Sandwich",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4"
+  },
+  {
+    "played_at": "2026-10-15T01:15:55.967Z",
+    "track_id": "6Sy9BUbgFse0n0LPA5lwy5",
+    "track_name": "Sandstorm",
+    "artists": [
+      "Darude"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f9ef39657ba18c612641ee6d"
+  },
+  {
+    "played_at": "2026-10-15T01:39:32.053Z",
+    "track_id": "3h5T5JypYU7huFiVYhv1dr",
+    "track_name": "BbY WOW",
+    "artists": [
+      "KAROL G",
+      "Judeline",
+      "rusowsky"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368"
+  },
+  {
+    "played_at": "2026-10-15T01:53:28.955Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
   }
 ]
