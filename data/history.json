@@ -1,116 +1,5 @@
 [
   {
-    "played_at": "2026-09-10T20:11:51.152Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-10T21:02:21.086Z",
-    "track_id": "4ZYlzwjjAJrflwWg4DJTlT",
-    "track_name": "MORNING DEW (DONK)",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27329803857f9f242ab9fdcfe40"
-  },
-  {
-    "played_at": "2026-09-10T21:51:55.833Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-10T21:57:00.436Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-10T22:10:17.835Z",
-    "track_id": "0ByMNEPAPpOR5H69DVrTNy",
-    "track_name": "Don't Stop The Music",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98"
-  },
-  {
-    "played_at": "2026-09-10T22:13:42.422Z",
-    "track_id": "2xaaJcmvMOmpDbTwlWnjFh",
-    "track_name": "Alter Ego (with JT)",
-    "artists": [
-      "Doechii",
-      "JT"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736a3a721d2d9bf4f02bc362c2"
-  },
-  {
-    "played_at": "2026-09-10T22:19:14.109Z",
-    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
-    "track_name": "purple",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-10T22:20:56.043Z",
-    "track_id": "0mviGbl2lwcJQ7t2AWQpK3",
-    "track_name": "Bang 2",
-    "artists": [
-      "Chase Icon"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27324b9396acab49f4dc44ccf1e"
-  },
-  {
-    "played_at": "2026-09-10T22:27:16.625Z",
-    "track_id": "5UBfLYnkImP1RKMMy4TGs8",
-    "track_name": "Stateside",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-09-10T22:32:12.318Z",
-    "track_id": "6Hdc3IQeyCxG5d14uAcwQW",
-    "track_name": "u + me = <3",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-10T22:39:24.622Z",
-    "track_id": "7hrrhtzmyTcULmNlYlcxJO",
-    "track_name": "Suga Mama",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273632e4eafb2ffba59a2ae4500"
-  },
-  {
-    "played_at": "2026-09-10T22:42:32.010Z",
-    "track_id": "2H2ytI7ompfNmRkI2sq8Uk",
-    "track_name": "I LUV IT (feat. Playboi Carti)",
-    "artists": [
-      "Camila Cabello",
-      "Playboi Carti"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273127aebaf8cc68fa4d07c615f"
-  },
-  {
     "played_at": "2026-09-10T22:50:09.518Z",
     "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
     "track_name": "cigarette smoke",
@@ -11372,5 +11261,261 @@
       "PinkPantheress"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-10-15T18:06:36.925Z",
+    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
+    "track_name": "No Comma",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-10-15T19:44:41.211Z",
+    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
+    "track_name": "Total Eclipse of the Heart",
+    "artists": [
+      "Bonnie Tyler"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
+  },
+  {
+    "played_at": "2026-10-15T19:53:26.953Z",
+    "track_id": "3su8VunluUL4Oj7UTTEREt",
+    "track_name": "Love Sensation",
+    "artists": [
+      "Loleatta Holloway"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
+  },
+  {
+    "played_at": "2026-10-15T20:03:54.127Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-15T20:06:00.716Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-15T20:06:40.200Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-15T20:10:24.642Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-15T20:12:00.539Z",
+    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
+    "track_name": "No Comma",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-10-15T20:14:42.703Z",
+    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
+    "track_name": "Satisfaction",
+    "artists": [
+      "Benny Benassi",
+      "The Biz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+  },
+  {
+    "played_at": "2026-10-15T20:16:25.154Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-15T20:17:16.239Z",
+    "track_id": "0BBmhTKDbkCoDt68VgZ0jj",
+    "track_name": "Women Respond to Bass",
+    "artists": [
+      "Sextile"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369920ea45c4829ef58bdaa6a"
+  },
+  {
+    "played_at": "2026-10-15T20:19:02.497Z",
+    "track_id": "6oUUmBcUbZa5O48V5pjgAD",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
+  },
+  {
+    "played_at": "2026-10-15T20:21:16.738Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-15T20:25:12.709Z",
+    "track_id": "5oO3drDxtziYU2H1X23ZIp",
+    "track_name": "Love On The Brain",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
+  },
+  {
+    "played_at": "2026-10-15T20:30:36.122Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-15T20:41:50.507Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-10-15T20:44:20.754Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-10-15T20:46:59.968Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-10-15T20:48:56.280Z",
+    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
+    "track_name": "Purrr",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-10-15T20:50:37.669Z",
+    "track_id": "7C7vnAW3L8ahsOGsZKY6EP",
+    "track_name": "KGB",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
+  },
+  {
+    "played_at": "2026-10-15T20:54:27.660Z",
+    "track_id": "4MpketOLD5KhtgWWOBuk9w",
+    "track_name": "SexOnTheBeat",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
+  },
+  {
+    "played_at": "2026-10-15T20:55:47.056Z",
+    "track_id": "1NIIHg8jXOq095MQiLxXzC",
+    "track_name": "Gag On It",
+    "artists": [
+      "Kim Petras"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
+  },
+  {
+    "played_at": "2026-10-15T20:57:20.556Z",
+    "track_id": "50nNyORqALhcOWAlccFGa3",
+    "track_name": "Literal Legend - 2",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27370cdf4fc0b6b2dc937e2290e"
+  },
+  {
+    "played_at": "2026-10-15T20:59:50.803Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-15T21:04:50.308Z",
+    "track_id": "0hHDMvLvoJh8gYbJIi182A",
+    "track_name": "Sushi",
+    "artists": [
+      "FKA twigs"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
+  },
+  {
+    "played_at": "2026-10-15T21:19:21.822Z",
+    "track_id": "0Q9kIg9o8w1XKepXWmDUmT",
+    "track_name": "New York",
+    "artists": [
+      "Addison Rae"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273089511953028cbfeb095c593"
+  },
+  {
+    "played_at": "2026-10-15T21:55:14.024Z",
+    "track_id": "2vdBo4ALPYbHRUPKgtE5iC",
+    "track_name": "ghostin",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
+  },
+  {
+    "played_at": "2026-10-15T22:28:27.553Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]
