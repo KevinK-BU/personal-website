@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-09T01:57:48.079Z",
-  "week_end": "2026-10-16T01:57:48.079Z",
-  "total_plays": 371,
+  "week_start": "2026-10-09T08:33:44.484Z",
+  "week_end": "2026-10-16T08:33:44.484Z",
+  "total_plays": 377,
   "top_track": {
     "name": "Satisfaction",
     "artists": [
@@ -25,5 +25,5 @@
       "count": 46
     }
   ],
-  "updated_at": "2026-10-16T01:57:48.081Z"
+  "updated_at": "2026-10-16T08:33:44.486Z"
 }
