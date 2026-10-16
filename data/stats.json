@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-09T08:33:44.484Z",
-  "week_end": "2026-10-16T08:33:44.484Z",
-  "total_plays": 377,
+  "week_start": "2026-10-09T15:41:01.346Z",
+  "week_end": "2026-10-16T15:41:01.346Z",
+  "total_plays": 374,
   "top_track": {
     "name": "Satisfaction",
     "artists": [
@@ -14,7 +14,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 82
+      "count": 79
     },
     {
       "name": "KATSEYE",
@@ -25,5 +25,5 @@
       "count": 46
     }
   ],
-  "updated_at": "2026-10-16T08:33:44.486Z"
+  "updated_at": "2026-10-16T15:41:01.348Z"
 }
