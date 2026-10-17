@@ -1,23 +1,5 @@
 [
   {
-    "played_at": "2026-09-12T00:08:27.721Z",
-    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
-    "track_name": "Judas",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
-  },
-  {
-    "played_at": "2026-09-12T00:17:11.411Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-09-12T04:21:16.375Z",
     "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
     "track_name": "BEAT UP CHANEL$",
@@ -11145,5 +11127,61 @@
       "Billie Eilish"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
+  },
+  {
+    "played_at": "2026-10-16T19:27:43.385Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-16T23:48:24.539Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-16T23:50:00.539Z",
+    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
+    "track_name": "No Comma",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
+  },
+  {
+    "played_at": "2026-10-16T23:52:42.470Z",
+    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
+    "track_name": "Satisfaction",
+    "artists": [
+      "Benny Benassi",
+      "The Biz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+  },
+  {
+    "played_at": "2026-10-16T23:54:23.926Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-16T23:54:42.210Z",
+    "track_id": "0BBmhTKDbkCoDt68VgZ0jj",
+    "track_name": "Women Respond to Bass",
+    "artists": [
+      "Sextile"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369920ea45c4829ef58bdaa6a"
   }
 ]

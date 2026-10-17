@@ -1,6 +1,6 @@
 {
-  "week_start": "2026-10-09T22:17:22.029Z",
-  "week_end": "2026-10-16T22:17:22.029Z",
+  "week_start": "2026-10-10T01:52:11.029Z",
+  "week_end": "2026-10-17T01:52:11.029Z",
   "total_plays": 347,
   "top_track": {
     "name": "Satisfaction",
@@ -8,22 +8,22 @@
       "Benny Benassi",
       "The Biz"
     ],
-    "play_count": 46,
+    "play_count": 47,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 64
-    },
-    {
-      "name": "KATSEYE",
-      "count": 46
+      "count": 65
     },
     {
       "name": "Benny Benassi",
-      "count": 46
+      "count": 47
+    },
+    {
+      "name": "The Biz",
+      "count": 47
     }
   ],
-  "updated_at": "2026-10-16T22:17:22.031Z"
+  "updated_at": "2026-10-17T01:52:11.031Z"
 }
