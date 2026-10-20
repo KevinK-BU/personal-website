@@ -1,33 +1,5 @@
 [
   {
-    "played_at": "2026-09-15T21:39:57.276Z",
-    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
-    "track_name": "crank 2",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
-  },
-  {
-    "played_at": "2026-09-15T21:43:53.035Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-15T21:47:41.874Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
     "played_at": "2026-09-16T00:26:42.574Z",
     "track_id": "6SQd1XYZzTpmlB9f8meJC0",
     "track_name": "Purrr",
@@ -11549,5 +11521,107 @@
       "Slayyyter"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
+  },
+  {
+    "played_at": "2026-10-20T15:35:37.424Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-20T21:57:49.485Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-20T21:59:56.132Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-20T22:01:18.835Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-10-20T22:10:43.380Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-20T22:12:23.926Z",
+    "track_id": "3z5fPVImx59TSttFEDZbFJ",
+    "track_name": "Meet Her at the Loveparade - Radio Edit",
+    "artists": [
+      "Da Hool"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731fac67a8afb56f7a42d24dcd"
+  },
+  {
+    "played_at": "2026-10-20T22:13:44.702Z",
+    "track_id": "7fs987YIvu0kRjfJYnnt5G",
+    "track_name": "Job Application",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336f251a396493bf87d2e01b8"
+  },
+  {
+    "played_at": "2026-10-20T22:15:43.719Z",
+    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
+    "track_name": "Deli",
+    "artists": [
+      "Ice Spice"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+  },
+  {
+    "played_at": "2026-10-20T22:18:11.428Z",
+    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
+    "track_name": "crank 2",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
+  },
+  {
+    "played_at": "2026-10-20T22:39:11.632Z",
+    "track_id": "4t9PBD27dndlf6YMBK2ROc",
+    "track_name": "Track 10",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-10-20T22:43:01.833Z",
+    "track_id": "3h5T5JypYU7huFiVYhv1dr",
+    "track_name": "BbY WOW",
+    "artists": [
+      "KAROL G",
+      "Judeline",
+      "rusowsky"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368"
   }
 ]
