@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-13T08:57:51.757Z",
-  "week_end": "2026-10-20T08:57:51.757Z",
-  "total_plays": 458,
+  "week_start": "2026-10-13T15:56:00.895Z",
+  "week_end": "2026-10-20T15:56:00.895Z",
+  "total_plays": 468,
   "top_track": {
     "name": "Satisfaction",
     "artists": [
@@ -14,7 +14,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 74
+      "count": 84
     },
     {
       "name": "Benny Benassi",
@@ -25,5 +25,5 @@
       "count": 49
     }
   ],
-  "updated_at": "2026-10-20T08:57:51.758Z"
+  "updated_at": "2026-10-20T15:56:00.896Z"
 }
