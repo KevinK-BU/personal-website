@@ -1,29 +1,28 @@
 {
-  "week_start": "2026-10-14T02:17:08.201Z",
-  "week_end": "2026-10-21T02:17:08.201Z",
-  "total_plays": 441,
+  "week_start": "2026-10-14T08:56:16.522Z",
+  "week_end": "2026-10-21T08:56:16.522Z",
+  "total_plays": 402,
   "top_track": {
-    "name": "Satisfaction",
+    "name": "Hootie Frutti",
     "artists": [
-      "Benny Benassi",
-      "The Biz"
+      "KATSEYE"
     ],
-    "play_count": 49,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+    "play_count": 46,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 75
+      "count": 73
     },
     {
-      "name": "Benny Benassi",
-      "count": 49
+      "name": "KATSEYE",
+      "count": 47
     },
     {
-      "name": "The Biz",
-      "count": 49
+      "name": "Ice Spice",
+      "count": 34
     }
   ],
-  "updated_at": "2026-10-21T02:17:08.202Z"
+  "updated_at": "2026-10-21T08:56:16.523Z"
 }
