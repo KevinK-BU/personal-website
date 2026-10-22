@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-14T22:51:36.396Z",
-  "week_end": "2026-10-21T22:51:36.396Z",
-  "total_plays": 346,
+  "week_start": "2026-10-15T02:11:44.809Z",
+  "week_end": "2026-10-22T02:11:44.809Z",
+  "total_plays": 343,
   "top_track": {
     "name": "Hootie Frutti",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 33
     }
   ],
-  "updated_at": "2026-10-21T22:51:36.397Z"
+  "updated_at": "2026-10-22T02:11:44.810Z"
 }
