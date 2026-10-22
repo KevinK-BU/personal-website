@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-15T02:11:44.809Z",
-  "week_end": "2026-10-22T02:11:44.809Z",
-  "total_plays": 343,
+  "week_start": "2026-10-15T08:58:52.186Z",
+  "week_end": "2026-10-22T08:58:52.186Z",
+  "total_plays": 374,
   "top_track": {
     "name": "Hootie Frutti",
     "artists": [
       "KATSEYE"
     ],
-    "play_count": 46,
+    "play_count": 47,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 68
+      "count": 75
     },
     {
       "name": "KATSEYE",
-      "count": 47
+      "count": 49
     },
     {
       "name": "Ice Spice",
-      "count": 33
+      "count": 34
     }
   ],
-  "updated_at": "2026-10-22T02:11:44.810Z"
+  "updated_at": "2026-10-22T08:58:52.187Z"
 }
