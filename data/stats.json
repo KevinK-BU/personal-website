@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-15T16:11:21.566Z",
-  "week_end": "2026-10-22T16:11:21.566Z",
-  "total_plays": 373,
+  "week_start": "2026-10-15T22:49:42.947Z",
+  "week_end": "2026-10-22T22:49:42.947Z",
+  "total_plays": 335,
   "top_track": {
-    "name": "Hootie Frutti",
+    "name": "Deli",
     "artists": [
-      "KATSEYE"
+      "Ice Spice"
     ],
-    "play_count": 47,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
+    "play_count": 36,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 75
-    },
-    {
-      "name": "KATSEYE",
-      "count": 49
+      "count": 92
     },
     {
       "name": "Ice Spice",
-      "count": 34
+      "count": 36
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 16
     }
   ],
-  "updated_at": "2026-10-22T16:11:21.567Z"
+  "updated_at": "2026-10-22T22:49:42.948Z"
 }
