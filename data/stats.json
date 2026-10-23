@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-15T22:49:42.947Z",
-  "week_end": "2026-10-22T22:49:42.947Z",
-  "total_plays": 335,
+  "week_start": "2026-10-16T02:17:44.213Z",
+  "week_end": "2026-10-23T02:17:44.213Z",
+  "total_plays": 332,
   "top_track": {
     "name": "Deli",
     "artists": [
@@ -21,8 +21,8 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 16
+      "count": 15
     }
   ],
-  "updated_at": "2026-10-22T22:49:42.948Z"
+  "updated_at": "2026-10-23T02:17:44.214Z"
 }
