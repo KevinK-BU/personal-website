@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-16T16:01:17.131Z",
-  "week_end": "2026-10-23T16:01:17.131Z",
-  "total_plays": 328,
+  "week_start": "2026-10-16T22:42:25.789Z",
+  "week_end": "2026-10-23T22:42:25.789Z",
+  "total_plays": 355,
   "top_track": {
     "name": "Deli",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 92
+      "count": 96
     },
     {
       "name": "Ice Spice",
       "count": 36
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 15
+      "name": "Slayyyter",
+      "count": 24
     }
   ],
-  "updated_at": "2026-10-23T16:01:17.132Z"
+  "updated_at": "2026-10-23T22:42:25.790Z"
 }
