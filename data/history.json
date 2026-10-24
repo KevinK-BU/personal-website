@@ -1,79 +1,5 @@
 [
   {
-    "played_at": "2026-09-19T20:58:01.428Z",
-    "track_id": "3FZoov0ORtnr8TznSNI1y2",
-    "track_name": "brand new chanel$",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
-  },
-  {
-    "played_at": "2026-09-19T21:07:10.683Z",
-    "track_id": "6zEg4KEgz6RGhCPmDKplYf",
-    "track_name": "Too Little, Too Late",
-    "artists": [
-      "Laufey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
-  },
-  {
-    "played_at": "2026-09-19T21:10:17.560Z",
-    "track_id": "6SRsiMl7w1USE4mFqrOhHC",
-    "track_name": "brutal",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-  },
-  {
-    "played_at": "2026-09-19T21:13:11.177Z",
-    "track_id": "3J31Ng3dKKJ6sEHDtV9hSp",
-    "track_name": "No Other Heart",
-    "artists": [
-      "Mac DeMarco"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
-  },
-  {
-    "played_at": "2026-09-19T21:19:04.681Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-19T21:52:42.993Z",
-    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
-    "track_name": "cigarette smoke",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-19T21:56:24.140Z",
-    "track_id": "7rl7ao5pb9BhvAzPdWStxi",
-    "track_name": "Telephone",
-    "artists": [
-      "Lady Gaga",
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273bfd247438980173d32fd5ba8"
-  },
-  {
-    "played_at": "2026-09-19T22:01:47.173Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
     "played_at": "2026-09-19T22:10:50.173Z",
     "track_id": "5IoPnNiYAOvHHJpz13wzRL",
     "track_name": "Vanish Into You",
@@ -12451,5 +12377,98 @@
       "Shygirl"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-10-24T19:21:04.666Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-24T19:23:16.266Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-10-24T19:27:07.595Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-24T19:28:27.661Z",
+    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
+    "track_name": "Satisfaction",
+    "artists": [
+      "Benny Benassi",
+      "The Biz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+  },
+  {
+    "played_at": "2026-10-24T19:30:11.672Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-24T19:31:10.604Z",
+    "track_id": "0BBmhTKDbkCoDt68VgZ0jj",
+    "track_name": "Women Respond to Bass",
+    "artists": [
+      "Sextile"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369920ea45c4829ef58bdaa6a"
+  },
+  {
+    "played_at": "2026-10-24T19:32:54.398Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-10-24T19:35:06.853Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-24T19:38:24.908Z",
+    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
+    "track_name": "Deli",
+    "artists": [
+      "Ice Spice"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+  },
+  {
+    "played_at": "2026-10-24T19:44:41.895Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]

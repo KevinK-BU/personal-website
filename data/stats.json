@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-17T18:25:04.228Z",
-  "week_end": "2026-10-24T18:25:04.228Z",
-  "total_plays": 365,
+  "week_start": "2026-10-17T22:03:44.782Z",
+  "week_end": "2026-10-24T22:03:44.782Z",
+  "total_plays": 375,
   "top_track": {
     "name": "Deli",
     "artists": [
       "Ice Spice"
     ],
-    "play_count": 36,
+    "play_count": 37,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 97
+      "count": 101
     },
     {
       "name": "Ice Spice",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Slayyyter",
       "count": 23
     }
   ],
-  "updated_at": "2026-10-24T18:25:04.229Z"
+  "updated_at": "2026-10-24T22:03:44.783Z"
 }
