@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-17T02:15:27.396Z",
-  "week_end": "2026-10-24T02:15:27.396Z",
-  "total_plays": 363,
+  "week_start": "2026-10-17T08:27:47.474Z",
+  "week_end": "2026-10-24T08:27:47.474Z",
+  "total_plays": 365,
   "top_track": {
     "name": "Deli",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 96
+      "count": 97
     },
     {
       "name": "Ice Spice",
@@ -24,5 +24,5 @@
       "count": 23
     }
   ],
-  "updated_at": "2026-10-24T02:15:27.397Z"
+  "updated_at": "2026-10-24T08:27:47.475Z"
 }

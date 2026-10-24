@@ -12441,5 +12441,24 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-24T00:02:57.307Z",
+    "track_id": "5Y35SjAfXjjG0sFQ3KOxmm",
+    "track_name": "Nobody Gets Me",
+    "artists": [
+      "SZA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
+  },
+  {
+    "played_at": "2026-10-24T03:07:43.755Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
   }
 ]
