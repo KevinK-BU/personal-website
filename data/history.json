@@ -1,41 +1,5 @@
 [
   {
-    "played_at": "2026-09-20T19:24:39.211Z",
-    "track_id": "3FZoov0ORtnr8TznSNI1y2",
-    "track_name": "brand new chanel$",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
-  },
-  {
-    "played_at": "2026-09-20T19:28:05.082Z",
-    "track_id": "25nbeJzxF3dwvtTq57QKZi",
-    "track_name": "expectations",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-20T21:18:11.313Z",
-    "track_id": "5QHdBMFvD4ow4ePzZRNZQB",
-    "track_name": "Boys",
-    "artists": [
-      "ADÉLA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273ac9d5d5263e9f03802d6864c"
-  },
-  {
-    "played_at": "2026-09-20T21:22:28.661Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
     "played_at": "2026-09-20T23:12:57.619Z",
     "track_id": "6FFHObl8rAxig1QZewCTXN",
     "track_name": "Wink Wink",
@@ -12462,5 +12426,239 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T19:09:02.663Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-10-25T19:14:29.625Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-25T19:27:09.334Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-25T19:40:36.246Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-25T19:56:03.587Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-10-25T20:04:25.805Z",
+    "track_id": "2RdEC8Ff83WkX7kDVCHseE",
+    "track_name": "party 4 u",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-10-25T20:12:00.409Z",
+    "track_id": "7D0RhFcb3CrfPuTJ0obrod",
+    "track_name": "Sparks",
+    "artists": [
+      "Coldplay"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a"
+  },
+  {
+    "played_at": "2026-10-25T20:16:59.774Z",
+    "track_id": "4RVwu0g32PAqgUiJoXsdF8",
+    "track_name": "Happier Than Ever",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+  },
+  {
+    "played_at": "2026-10-25T20:19:50.111Z",
+    "track_id": "3XCveEutwTaDiekRkkfdp9",
+    "track_name": "Liquid Smooth",
+    "artists": [
+      "Mitski"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27318bbdba0da26e4ae050fb1b8"
+  },
+  {
+    "played_at": "2026-10-25T20:22:52.910Z",
+    "track_id": "0WiMJIxYYEex2AqhRqzV3u",
+    "track_name": "For the First Time",
+    "artists": [
+      "Mac DeMarco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+  },
+  {
+    "played_at": "2026-10-25T20:28:04.525Z",
+    "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
+    "track_name": "WILDFLOWER",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-10-25T20:43:31.927Z",
+    "track_id": "4oy98QoABnGKpvapDkI525",
+    "track_name": "Turning Tables",
+    "artists": [
+      "Adele"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f"
+  },
+  {
+    "played_at": "2026-10-25T20:53:26.405Z",
+    "track_id": "6zEg4KEgz6RGhCPmDKplYf",
+    "track_name": "Too Little, Too Late",
+    "artists": [
+      "Laufey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
+  },
+  {
+    "played_at": "2026-10-25T21:03:21.519Z",
+    "track_id": "0HEzuLLojblUOaUSdmJ9gl",
+    "track_name": "Did you know that there's a tunnel under Ocean Blvd",
+    "artists": [
+      "Lana Del Rey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634"
+  },
+  {
+    "played_at": "2026-10-25T21:09:10.803Z",
+    "track_id": "3BucMqBqIR5Aw7MrUkF00y",
+    "track_name": "Ain't No Way",
+    "artists": [
+      "Aretha Franklin"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733443b2f12a45d9a05b0d7c33"
+  },
+  {
+    "played_at": "2026-10-25T21:13:25.747Z",
+    "track_id": "3BucMqBqIR5Aw7MrUkF00y",
+    "track_name": "Ain't No Way",
+    "artists": [
+      "Aretha Franklin"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733443b2f12a45d9a05b0d7c33"
+  },
+  {
+    "played_at": "2026-10-25T21:21:01.629Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:31:27.219Z",
+    "track_id": "2eHj0klWkwRQuIrNlPpCPa",
+    "track_name": "I'm Every Woman",
+    "artists": [
+      "Whitney Houston"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e"
+  },
+  {
+    "played_at": "2026-10-25T21:39:50.773Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:42:17.300Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:44:12.898Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:46:08.504Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:48:04.101Z",
+    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
+    "track_name": "Rock Music",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T21:56:15.345Z",
+    "track_id": "63y6xWR4gXz7bnUGOk8iI6",
+    "track_name": "Into You",
+    "artists": [
+      "Ariana Grande"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273628d506d5bddb09099db242c"
+  },
+  {
+    "played_at": "2026-10-25T21:58:59.311Z",
+    "track_id": "7h1OtABVvKN9Okr6KfjMoX",
+    "track_name": "Missed Connections",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336f251a396493bf87d2e01b8"
+  },
+  {
+    "played_at": "2026-10-25T22:02:05.715Z",
+    "track_id": "486YUqcmF9IWPkreU0THcQ",
+    "track_name": "MY ROSE",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
   }
 ]
