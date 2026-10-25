@@ -12425,5 +12425,24 @@
       "Billie Eilish"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e"
+  },
+  {
+    "played_at": "2026-10-25T03:00:10.085Z",
+    "track_id": "2Co0IjcLTSHMtodwD4gzfg",
+    "track_name": "I Bet on Losing Dogs",
+    "artists": [
+      "Mitski"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27342cb382726e956058bf73ed3"
+  },
+  {
+    "played_at": "2026-10-25T03:02:38.280Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   }
 ]
