@@ -1,77 +1,5 @@
 [
   {
-    "played_at": "2026-09-19T22:10:50.173Z",
-    "track_id": "5IoPnNiYAOvHHJpz13wzRL",
-    "track_name": "Vanish Into You",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
-  },
-  {
-    "played_at": "2026-09-19T22:27:00.109Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
-    "played_at": "2026-09-19T22:29:54.313Z",
-    "track_id": "4KGGeE7RJsgLNZmnxGFlOj",
-    "track_name": "Falling Behind",
-    "artists": [
-      "Laufey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4"
-  },
-  {
-    "played_at": "2026-09-19T22:38:09.127Z",
-    "track_id": "2vPCRs3g0vdLU8sHlAEytO",
-    "track_name": "Outrageous",
-    "artists": [
-      "Britney Spears"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
-  },
-  {
-    "played_at": "2026-09-19T22:47:30.432Z",
-    "track_id": "1c2AFg2WpURtpsOTMr6ZBX",
-    "track_name": "Fame is a Gun",
-    "artists": [
-      "Addison Rae"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737eae5dee68960ef1652ff044"
-  },
-  {
-    "played_at": "2026-09-19T23:20:24.330Z",
-    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
-    "track_name": "Camera",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-19T23:24:52.282Z",
-    "track_id": "3vFRHL7DuN076fdIQuWQfv",
-    "track_name": "Card Declined",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-20T00:42:09.216Z",
-    "track_id": "19RybK6XDbAVpcdxSbZL1o",
-    "track_name": "Apple",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
     "played_at": "2026-09-20T19:24:39.211Z",
     "track_id": "3FZoov0ORtnr8TznSNI1y2",
     "track_name": "brand new chanel$",
@@ -12470,5 +12398,32 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-10-24T22:26:54.857Z",
+    "track_id": "4HQMNDSYtXgZvsCHIsuWTS",
+    "track_name": "Persona",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-24T22:29:24.774Z",
+    "track_id": "51vArgRF64yIWk3JIcRITo",
+    "track_name": "Pink in the Night",
+    "artists": [
+      "Mitski"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117"
+  },
+  {
+    "played_at": "2026-10-24T22:39:14.221Z",
+    "track_id": "6wf7Yu7cxBSPrRlWeSeK0Q",
+    "track_name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e"
   }
 ]
