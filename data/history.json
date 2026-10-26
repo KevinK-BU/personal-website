@@ -1,68 +1,5 @@
 [
   {
-    "played_at": "2026-09-20T23:12:57.619Z",
-    "track_id": "6FFHObl8rAxig1QZewCTXN",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-20T23:40:22.288Z",
-    "track_id": "3FZoov0ORtnr8TznSNI1y2",
-    "track_name": "brand new chanel$",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
-  },
-  {
-    "played_at": "2026-09-20T23:58:43.275Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-21T00:08:11.890Z",
-    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
-    "track_name": "Guess",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
-  },
-  {
-    "played_at": "2026-09-21T00:10:34.365Z",
-    "track_id": "3dk7WaeS0y0JG0OMd0FVcg",
-    "track_name": "Spring breakers",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
-  },
-  {
-    "played_at": "2026-09-21T00:14:21.766Z",
-    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
-    "track_name": "Camera",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-21T00:23:08.160Z",
-    "track_id": "6K8VQ84MqhsoakN5MjrnVR",
-    "track_name": "Supercut",
-    "artists": [
-      "Lorde"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8553e18a11209d4becd0336"
-  },
-  {
     "played_at": "2026-09-21T14:33:50.755Z",
     "track_id": "6FFHObl8rAxig1QZewCTXN",
     "track_name": "Wink Wink",
@@ -12660,5 +12597,220 @@
       "Beyoncé"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-10-25T22:24:53.421Z",
+    "track_id": "0UHB9METy4VCXNgkcGqHqS",
+    "track_name": "Kiss It Better",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
+  },
+  {
+    "played_at": "2026-10-25T22:28:33.490Z",
+    "track_id": "2OcBwebjQsdJy76zWvLQvn",
+    "track_name": "Conceited (There's Something About Remy)",
+    "artists": [
+      "Remy Ma"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e4dce160c92f35539ea8aac9"
+  },
+  {
+    "played_at": "2026-10-25T22:30:36.688Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T22:42:49.241Z",
+    "track_id": "1BPpJdD11gsDQno045HBz0",
+    "track_name": "No One Lasts Forever featuring David Cronenberg",
+    "artists": [
+      "Charli xcx",
+      "David Cronenberg"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T22:46:02.641Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-10-25T22:53:34.845Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-10-25T22:58:48.552Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-10-25T23:01:39.611Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-25T23:03:43.358Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-25T23:07:17.857Z",
+    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
+    "track_name": "Girl Like Me",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-10-25T23:10:29.028Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-25T23:11:49.210Z",
+    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
+    "track_name": "Satisfaction",
+    "artists": [
+      "Benny Benassi",
+      "The Biz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+  },
+  {
+    "played_at": "2026-10-25T23:14:45.271Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-10-25T23:16:57.670Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-25T23:18:38.109Z",
+    "track_id": "3z5fPVImx59TSttFEDZbFJ",
+    "track_name": "Meet Her at the Loveparade - Radio Edit",
+    "artists": [
+      "Da Hool"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731fac67a8afb56f7a42d24dcd"
+  },
+  {
+    "played_at": "2026-10-25T23:19:59.057Z",
+    "track_id": "7fs987YIvu0kRjfJYnnt5G",
+    "track_name": "Job Application",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336f251a396493bf87d2e01b8"
+  },
+  {
+    "played_at": "2026-10-25T23:21:57.952Z",
+    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
+    "track_name": "Deli",
+    "artists": [
+      "Ice Spice"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+  },
+  {
+    "played_at": "2026-10-25T23:24:25.750Z",
+    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
+    "track_name": "crank 2",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
+  },
+  {
+    "played_at": "2026-10-25T23:27:59.128Z",
+    "track_id": "1qZuf7zgRHKgfSijGm2CTy",
+    "track_name": "Femmebot (feat. Dorian Electra and Mykki Blanco)",
+    "artists": [
+      "Charli xcx",
+      "Dorian Electra",
+      "Mykki Blanco"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-10-25T23:30:08.357Z",
+    "track_id": "4edueC8wRBvTUxcSy1FebC",
+    "track_name": "James Dean",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-10-25T23:40:42.574Z",
+    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
+    "track_name": "serena joy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-10-25T23:54:58.923Z",
+    "track_id": "1kRDN664irlEou8Pc7iP2G",
+    "track_name": "I'm Every Woman - Clivilles & Cole House Mix I Edit",
+    "artists": [
+      "Whitney Houston",
+      "Robert Clivillés",
+      "David Cole"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a500339114058474d1ee6f7e"
+  },
+  {
+    "played_at": "2026-10-26T00:01:49.125Z",
+    "track_id": "2gam98EZKrF9XuOkU13ApN",
+    "track_name": "Promiscuous",
+    "artists": [
+      "Nelly Furtado",
+      "Timbaland"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a6f439c8957170652f9410e2"
   }
 ]
