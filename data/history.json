@@ -1,60 +1,5 @@
 [
   {
-    "played_at": "2026-09-21T14:33:50.755Z",
-    "track_id": "6FFHObl8rAxig1QZewCTXN",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-21T14:36:42.445Z",
-    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
-    "track_name": "Camera",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-21T14:39:35.158Z",
-    "track_id": "0ZxhtATQ0a6EvQNZ0z6NKV",
-    "track_name": "Princess Diana (with Nicki Minaj)",
-    "artists": [
-      "Ice Spice",
-      "Nicki Minaj"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735dd17b2860b2a79d9dda8ec3"
-  },
-  {
-    "played_at": "2026-09-21T15:03:33.208Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-21T15:05:01.624Z",
-    "track_id": "5yZEkyUXbyFCHzrQTH5Ssw",
-    "track_name": "Bow Down - Homecoming Live",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27364e39bcda6ca921efdea9490"
-  },
-  {
-    "played_at": "2026-09-21T15:07:51.036Z",
-    "track_id": "4HQMNDSYtXgZvsCHIsuWTS",
-    "track_name": "Persona",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-09-22T15:00:47.825Z",
     "track_id": "25nbeJzxF3dwvtTq57QKZi",
     "track_name": "expectations",
@@ -12958,5 +12903,49 @@
       "RuPaul"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738e7e95feb1bd1074cbce75ab"
+  },
+  {
+    "played_at": "2026-10-26T17:29:48.067Z",
+    "track_id": "6GT0EGXSMiS4s5X9v0EvfG",
+    "track_name": "Escapism (feat. AJ Michalka, Zach Callison & Grace Rolek)",
+    "artists": [
+      "Steven Universe",
+      "Zach Callison",
+      "Grace Rolek",
+      "AJ Michalka"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d74d3e00833d61d2455e448"
+  },
+  {
+    "played_at": "2026-10-26T17:33:20.774Z",
+    "track_id": "4CAhld2jBzqGtEDQjP4hT1",
+    "track_name": "My Little Reason Why",
+    "artists": [
+      "Lisa Hannigan",
+      "aivi & surasshu",
+      "Rebecca Sugar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273172f6ffcc74ec70bfcd1d9e1"
+  },
+  {
+    "played_at": "2026-10-26T17:34:52.666Z",
+    "track_id": "4CAhld2jBzqGtEDQjP4hT1",
+    "track_name": "My Little Reason Why",
+    "artists": [
+      "Lisa Hannigan",
+      "aivi & surasshu",
+      "Rebecca Sugar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273172f6ffcc74ec70bfcd1d9e1"
+  },
+  {
+    "played_at": "2026-10-26T17:37:29.266Z",
+    "track_id": "3z9OnsnvM6SFN2dzrSDdVO",
+    "track_name": "Love Like You (feat. Rebecca Sugar) - End Credits",
+    "artists": [
+      "Steven Universe",
+      "Rebecca Sugar"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
   }
 ]
