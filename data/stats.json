@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-19T23:25:10.103Z",
-  "week_end": "2026-10-26T23:25:10.103Z",
-  "total_plays": 362,
+  "week_start": "2026-10-20T02:40:40.579Z",
+  "week_end": "2026-10-27T02:40:40.579Z",
+  "total_plays": 320,
   "top_track": {
-    "name": "Deli",
+    "name": "Dying for You",
     "artists": [
-      "Ice Spice"
+      "Charli xcx"
     ],
-    "play_count": 38,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+    "play_count": 24,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 98
-    },
-    {
-      "name": "Ice Spice",
-      "count": 38
+      "count": 101
     },
     {
       "name": "Slayyyter",
-      "count": 23
+      "count": 21
+    },
+    {
+      "name": "Olivia Rodrigo",
+      "count": 15
     }
   ],
-  "updated_at": "2026-10-26T23:25:10.104Z"
+  "updated_at": "2026-10-27T02:40:40.580Z"
 }
