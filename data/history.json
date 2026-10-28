@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-09-23T07:24:44.477Z",
-    "track_id": "1RFXENx9ILC6PECmNhEstC",
-    "track_name": "ScheiBe",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
-  },
-  {
     "played_at": "2026-09-23T14:12:16.245Z",
     "track_id": "7Dexi5Z2IowCkHrnzlWysc",
     "track_name": "claws",
@@ -12918,5 +12909,95 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-28T02:57:06.691Z",
+    "track_id": "7fs987YIvu0kRjfJYnnt5G",
+    "track_name": "Job Application",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336f251a396493bf87d2e01b8"
+  },
+  {
+    "played_at": "2026-10-28T03:21:23.321Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-28T03:23:27.099Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-28T03:23:51.059Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-28T03:24:29.228Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-28T03:24:46.024Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-28T03:24:54.483Z",
+    "track_id": "5sMEEjviCkH6Rp5X2ZvIIc",
+    "track_name": "Everything is romantic",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-28T03:30:24.812Z",
+    "track_id": "1MpCaOeUWhox2Fgigbe1cL",
+    "track_name": "I'M THAT GIRL",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-10-28T03:33:55.217Z",
+    "track_id": "0mKGwFMHzTprtS2vpR3b6s",
+    "track_name": "COZY",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-10-28T03:37:30.917Z",
+    "track_id": "1Hohk6AufHZOrrhMXZppax",
+    "track_name": "ALIEN SUPERSTAR",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
   }
 ]
