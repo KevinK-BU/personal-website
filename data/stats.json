@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-22T17:42:06.072Z",
-  "week_end": "2026-10-29T17:42:06.072Z",
-  "total_plays": 247,
+  "week_start": "2026-10-22T23:40:51.478Z",
+  "week_end": "2026-10-29T23:40:51.478Z",
+  "total_plays": 218,
   "top_track": {
-    "name": "Dying for You",
+    "name": "Everything is romantic",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 23,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+    "play_count": 17,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 89
+      "count": 67
+    },
+    {
+      "name": "ADÉLA",
+      "count": 15
     },
     {
       "name": "Slayyyter",
-      "count": 17
-    },
-    {
-      "name": "Rebecca Black",
       "count": 13
     }
   ],
-  "updated_at": "2026-10-29T17:42:06.073Z"
+  "updated_at": "2026-10-29T23:40:51.480Z"
 }

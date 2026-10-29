@@ -1,68 +1,5 @@
 [
   {
-    "played_at": "2026-09-24T18:38:28.123Z",
-    "track_id": "4t9PBD27dndlf6YMBK2ROc",
-    "track_name": "Track 10",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
-  },
-  {
-    "played_at": "2026-09-24T18:40:33.470Z",
-    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
-    "track_name": "Rock Music",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-24T18:43:21.165Z",
-    "track_id": "0g8FizeHVo2cG7qxBfmckf",
-    "track_name": "SS26",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-24T18:46:48.874Z",
-    "track_id": "3vFRHL7DuN076fdIQuWQfv",
-    "track_name": "Card Declined",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-24T18:49:20.374Z",
-    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
-    "track_name": "Camera",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-24T19:02:53.242Z",
-    "track_id": "7GVLyPEpJtQZiYt95LF0ng",
-    "track_name": "2007",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-24T19:05:04.678Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-09-25T04:09:16.207Z",
     "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
     "track_name": "Yeah",
@@ -12956,5 +12893,114 @@
       "Travis Kindred"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273172f6ffcc74ec70bfcd1d9e1"
+  },
+  {
+    "played_at": "2026-10-29T19:26:59.117Z",
+    "track_id": "3IcIIZMMS7UArJJPtEHXG8",
+    "track_name": "Obsessed",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a9e20a20b9fc607d81f9c335"
+  },
+  {
+    "played_at": "2026-10-29T19:35:07.086Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-29T19:37:47.871Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-10-29T19:40:20.881Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-29T19:56:15.953Z",
+    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
+    "track_name": "Deli",
+    "artists": [
+      "Ice Spice"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+  },
+  {
+    "played_at": "2026-10-29T20:01:08.561Z",
+    "track_id": "1DwscornXpj8fmOmYVlqZt",
+    "track_name": "Stateside + Zara Larsson",
+    "artists": [
+      "PinkPantheress",
+      "Zara Larsson"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694"
+  },
+  {
+    "played_at": "2026-10-29T20:06:53.862Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-29T20:12:50.895Z",
+    "track_id": "4MpketOLD5KhtgWWOBuk9w",
+    "track_name": "SexOnTheBeat",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
+  },
+  {
+    "played_at": "2026-10-29T20:16:31.899Z",
+    "track_id": "4MpketOLD5KhtgWWOBuk9w",
+    "track_name": "SexOnTheBeat",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
+  },
+  {
+    "played_at": "2026-10-29T20:29:46.100Z",
+    "track_id": "1NIIHg8jXOq095MQiLxXzC",
+    "track_name": "Gag On It",
+    "artists": [
+      "Kim Petras"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
+  },
+  {
+    "played_at": "2026-10-29T20:31:19.597Z",
+    "track_id": "50nNyORqALhcOWAlccFGa3",
+    "track_name": "Literal Legend - 2",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27370cdf4fc0b6b2dc937e2290e"
+  },
+  {
+    "played_at": "2026-10-29T20:34:05.905Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   }
 ]
