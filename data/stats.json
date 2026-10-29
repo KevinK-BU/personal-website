@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-22T03:12:03.672Z",
-  "week_end": "2026-10-29T03:12:03.672Z",
-  "total_plays": 293,
+  "week_start": "2026-10-22T10:30:14.473Z",
+  "week_end": "2026-10-29T10:30:14.473Z",
+  "total_plays": 247,
   "top_track": {
     "name": "Dying for You",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 25,
+    "play_count": 23,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 100
+      "count": 89
     },
     {
       "name": "Slayyyter",
-      "count": 20
+      "count": 17
     },
     {
       "name": "Rebecca Black",
-      "count": 14
+      "count": 13
     }
   ],
-  "updated_at": "2026-10-29T03:12:03.673Z"
+  "updated_at": "2026-10-29T10:30:14.474Z"
 }
