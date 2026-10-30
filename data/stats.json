@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-23T03:15:19.039Z",
-  "week_end": "2026-10-30T03:15:19.039Z",
-  "total_plays": 218,
+  "week_start": "2026-10-23T10:31:01.155Z",
+  "week_end": "2026-10-30T10:31:01.155Z",
+  "total_plays": 224,
   "top_track": {
     "name": "Everything is romantic",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 67
+      "count": 69
     },
     {
       "name": "ADÉLA",
@@ -24,5 +24,5 @@
       "count": 13
     }
   ],
-  "updated_at": "2026-10-30T03:15:19.041Z"
+  "updated_at": "2026-10-30T10:31:01.156Z"
 }

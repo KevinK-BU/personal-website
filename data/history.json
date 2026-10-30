@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-09-25T04:09:16.207Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-09-25T18:28:02.917Z",
     "track_id": "1BPpJdD11gsDQno045HBz0",
     "track_name": "No One Lasts Forever featuring David Cronenberg",
@@ -13002,5 +12993,59 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-30T03:28:30.489Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-30T03:48:52.271Z",
+    "track_id": "3sX3c6QUPSAiKf77RZRf5B",
+    "track_name": "Causing a Commotion",
+    "artists": [
+      "Madonna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732f14ef42e50dcb91e71cedcc"
+  },
+  {
+    "played_at": "2026-10-30T03:59:44.182Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-30T04:01:24.555Z",
+    "track_id": "3z5fPVImx59TSttFEDZbFJ",
+    "track_name": "Meet Her at the Loveparade - Radio Edit",
+    "artists": [
+      "Da Hool"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731fac67a8afb56f7a42d24dcd"
+  },
+  {
+    "played_at": "2026-10-30T04:02:45.378Z",
+    "track_id": "7fs987YIvu0kRjfJYnnt5G",
+    "track_name": "Job Application",
+    "artists": [
+      "Chase Icon"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336f251a396493bf87d2e01b8"
+  },
+  {
+    "played_at": "2026-10-30T06:25:43.460Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
   }
 ]
