@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-23T10:31:01.155Z",
-  "week_end": "2026-10-30T10:31:01.155Z",
-  "total_plays": 224,
+  "week_start": "2026-10-23T17:21:25.649Z",
+  "week_end": "2026-10-30T17:21:25.649Z",
+  "total_plays": 203,
   "top_track": {
     "name": "Everything is romantic",
     "artists": [
@@ -16,13 +16,13 @@
       "count": 69
     },
     {
-      "name": "ADÉLA",
-      "count": 15
+      "name": "Rebecca Black",
+      "count": 13
     },
     {
-      "name": "Slayyyter",
-      "count": 13
+      "name": "Olivia Rodrigo",
+      "count": 11
     }
   ],
-  "updated_at": "2026-10-30T10:31:01.156Z"
+  "updated_at": "2026-10-30T17:21:25.650Z"
 }
