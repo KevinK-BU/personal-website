@@ -1,42 +1,5 @@
 [
   {
-    "played_at": "2026-09-26T02:07:11.272Z",
-    "track_id": "3su8VunluUL4Oj7UTTEREt",
-    "track_name": "Love Sensation",
-    "artists": [
-      "Loleatta Holloway"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27319f71f90a6bc3e96beaeaa84"
-  },
-  {
-    "played_at": "2026-09-26T02:14:19.727Z",
-    "track_id": "6FFHObl8rAxig1QZewCTXN",
-    "track_name": "Wink Wink",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-26T02:18:22.056Z",
-    "track_id": "21C6u4k9di4S7w4JsQS1k7",
-    "track_name": "On Your Mind (feat. Lil Yachty)",
-    "artists": [
-      "FKA twigs",
-      "Lil Yachty"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
-  },
-  {
-    "played_at": "2026-09-26T02:29:00.876Z",
-    "track_id": "0rLtUuQgwIlw6vv2eqHKdt",
-    "track_name": "BEAT UP CHANEL$",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c6a0c9499470002aa8ba96f"
-  },
-  {
     "played_at": "2026-09-26T05:15:32.305Z",
     "track_id": "1W7023CuJrWPbD4q2Sipoh",
     "track_name": "what’s wrong with me",
@@ -12845,5 +12808,180 @@
       "KATSEYE"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-10-30T23:46:49.674Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-10-30T23:49:16.823Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-10-30T23:51:59.426Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-10-30T23:54:01.228Z",
+    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
+    "track_name": "Purrr",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-10-30T23:55:34.093Z",
+    "track_id": "7C7vnAW3L8ahsOGsZKY6EP",
+    "track_name": "KGB",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bca255ede660b4470b4c50e2"
+  },
+  {
+    "played_at": "2026-10-30T23:58:12.202Z",
+    "track_id": "4MpketOLD5KhtgWWOBuk9w",
+    "track_name": "SexOnTheBeat",
+    "artists": [
+      "ADÉLA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737defa29b13dc40d5a95bc9a0"
+  },
+  {
+    "played_at": "2026-10-30T23:59:29.472Z",
+    "track_id": "1NIIHg8jXOq095MQiLxXzC",
+    "track_name": "Gag On It",
+    "artists": [
+      "Kim Petras"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f7582ee1346c1288196cfe91"
+  },
+  {
+    "played_at": "2026-10-31T00:01:02.926Z",
+    "track_id": "50nNyORqALhcOWAlccFGa3",
+    "track_name": "Literal Legend - 2",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27370cdf4fc0b6b2dc937e2290e"
+  },
+  {
+    "played_at": "2026-10-31T00:03:49.229Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-10-31T00:07:36.078Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-10-31T00:08:58.786Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-10-31T00:12:03.818Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-10-31T00:26:48.288Z",
+    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
+    "track_name": "Judas",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-10-31T00:31:31.992Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-10-31T00:32:51.989Z",
+    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
+    "track_name": "Satisfaction",
+    "artists": [
+      "Benny Benassi",
+      "The Biz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
+  },
+  {
+    "played_at": "2026-10-31T00:34:35.957Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-10-31T00:35:34.947Z",
+    "track_id": "0BBmhTKDbkCoDt68VgZ0jj",
+    "track_name": "Women Respond to Bass",
+    "artists": [
+      "Sextile"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369920ea45c4829ef58bdaa6a"
+  },
+  {
+    "played_at": "2026-10-31T00:37:18.834Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-10-31T00:39:31.242Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
   }
 ]
