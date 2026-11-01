@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-25T02:54:23.179Z",
-  "week_end": "2026-11-01T02:54:23.179Z",
-  "total_plays": 188,
+  "week_start": "2026-10-25T10:51:40.899Z",
+  "week_end": "2026-11-01T10:51:40.899Z",
+  "total_plays": 191,
   "top_track": {
     "name": "Everything is romantic",
     "artists": [
@@ -24,5 +24,5 @@
       "count": 8
     }
   ],
-  "updated_at": "2026-11-01T02:54:23.180Z"
+  "updated_at": "2026-11-01T10:51:40.900Z"
 }
