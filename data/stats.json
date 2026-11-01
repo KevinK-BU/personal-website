@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-25T17:20:00.991Z",
-  "week_end": "2026-11-01T17:20:00.991Z",
-  "total_plays": 191,
+  "week_start": "2026-10-25T23:11:23.350Z",
+  "week_end": "2026-11-01T23:11:23.350Z",
+  "total_plays": 171,
   "top_track": {
     "name": "Everything is romantic",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 65
+      "count": 59
     },
     {
-      "name": "Olivia Rodrigo",
-      "count": 9
+      "name": "KATSEYE",
+      "count": 8
     },
     {
       "name": "Beyoncé",
       "count": 8
     }
   ],
-  "updated_at": "2026-11-01T17:20:00.992Z"
+  "updated_at": "2026-11-01T23:11:23.351Z"
 }

@@ -1,23 +1,5 @@
 [
   {
-    "played_at": "2026-09-27T22:30:05.047Z",
-    "track_id": "5I9sHwLDX28tLtzVgKLtpr",
-    "track_name": "Everybody Loves Somebody",
-    "artists": [
-      "Dean Martin"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c091f7bdb3eeb3b8222b39f0"
-  },
-  {
-    "played_at": "2026-09-27T22:46:50.580Z",
-    "track_id": "4fBnFBSVjHfDv8dqXxKw05",
-    "track_name": "Nicole Kidman",
-    "artists": [
-      "ADÉLA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab6742d3000053b76171b4b06472e963bb13da98"
-  },
-  {
     "played_at": "2026-09-28T00:17:30.561Z",
     "track_id": "22l7ocwYpEYGvYpM9T2C5K",
     "track_name": "maggots for brains",
@@ -12630,5 +12612,181 @@
       "Ice Spice"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
+  },
+  {
+    "played_at": "2026-11-01T20:06:31.459Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-11-01T21:06:53.996Z",
+    "track_id": "7K0enK86KuipIJu4DA43L5",
+    "track_name": "Yung Rapunxel",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273085259544559298a0c6d2df9"
+  },
+  {
+    "played_at": "2026-11-01T21:09:48.891Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-01T21:11:52.596Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-11-01T21:13:15.322Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-11-01T21:16:20.354Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-01T21:20:20.397Z",
+    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
+    "track_name": "Judas",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
+  },
+  {
+    "played_at": "2026-11-01T21:23:33.060Z",
+    "track_id": "1RFXENx9ILC6PECmNhEstC",
+    "track_name": "ScheiBe",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
+  },
+  {
+    "played_at": "2026-11-01T21:40:08.687Z",
+    "track_id": "2eqzI3kGqPk93vz8RkASfA",
+    "track_name": "It's Over Isn't It (feat. Deedee Magno Hall)",
+    "artists": [
+      "Steven Universe",
+      "Deedee Magno Hall"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
+  },
+  {
+    "played_at": "2026-11-01T21:45:51.680Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-01T21:49:42.988Z",
+    "track_id": "3LmlegS3av5opwiIMVDbgI",
+    "track_name": "Liquorice",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2734c17473b5cdeed952815289f"
+  },
+  {
+    "played_at": "2026-11-01T22:05:26.292Z",
+    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
+    "track_name": "cigarette smoke",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-11-01T22:17:54.258Z",
+    "track_id": "5PIgwTDsrWXvW7VU6QCEOf",
+    "track_name": "Ain't No Mountain High Enough - Edit Version",
+    "artists": [
+      "Diana Ross"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735efb83257d6be956a8cad4fb"
+  },
+  {
+    "played_at": "2026-11-01T22:28:51.871Z",
+    "track_id": "5UBfLYnkImP1RKMMy4TGs8",
+    "track_name": "Stateside",
+    "artists": [
+      "PinkPantheress"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
+  },
+  {
+    "played_at": "2026-11-01T22:32:20.377Z",
+    "track_id": "1MpCaOeUWhox2Fgigbe1cL",
+    "track_name": "I'M THAT GIRL",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
+  },
+  {
+    "played_at": "2026-11-01T22:35:47.364Z",
+    "track_id": "0xL3tjPSUJncbnIOn1uPhZ",
+    "track_name": "Dark Lady",
+    "artists": [
+      "Cher"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273adb809bc080b729ce950d174"
+  },
+  {
+    "played_at": "2026-11-01T22:38:53.982Z",
+    "track_id": "7fd3aMiuwHWKsTdZafjOfZ",
+    "track_name": "A Pearl",
+    "artists": [
+      "Mitski"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117"
+  },
+  {
+    "played_at": "2026-11-01T22:49:48.846Z",
+    "track_id": "3qGHAKgjQruzj6doKkyEb5",
+    "track_name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+    "artists": [
+      "Charli xcx",
+      "Kim Petras",
+      "Jay Park"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-11-01T23:06:41.813Z",
+    "track_id": "4HQMNDSYtXgZvsCHIsuWTS",
+    "track_name": "Persona",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
