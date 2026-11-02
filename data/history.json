@@ -1,70 +1,5 @@
 [
   {
-    "played_at": "2026-09-28T00:17:30.561Z",
-    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
-    "track_name": "maggots for brains",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-09-28T00:21:07.510Z",
-    "track_id": "6K4t31amVTZDgR3sKmwUJJ",
-    "track_name": "The Less I Know The Better",
-    "artists": [
-      "Tame Impala"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
-  },
-  {
-    "played_at": "2026-09-28T00:40:29.929Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-28T00:42:43.645Z",
-    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
-    "track_name": "Rock Music",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-28T01:06:14.174Z",
-    "track_id": "1BPpJdD11gsDQno045HBz0",
-    "track_name": "No One Lasts Forever featuring David Cronenberg",
-    "artists": [
-      "Charli xcx",
-      "David Cronenberg"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-28T01:11:32.913Z",
-    "track_id": "22WFoPT9VIJlZ0VcJVkCpm",
-    "track_name": "Every Girl You've Ever Loved (feat. Naomi Campbell)",
-    "artists": [
-      "Miley Cyrus",
-      "Naomi Campbell"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730ae6f06706ab3a955844e9a0"
-  },
-  {
-    "played_at": "2026-09-28T01:17:24.248Z",
-    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
-    "track_name": "Guess",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
-  },
-  {
     "played_at": "2026-09-28T10:17:13.442Z",
     "track_id": "7B5Npv8NjjTCzk8PLpU66h",
     "track_name": "Love In The Dark",
@@ -12788,5 +12723,132 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-01T23:15:30.714Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-01T23:30:21.717Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-01T23:33:51.810Z",
+    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
+    "track_name": "serena joy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-11-01T23:35:32.674Z",
+    "track_id": "3tmrwNhOKNDMUVg1Z924Aq",
+    "track_name": "FLAMENCO",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737a6168e5d9d4d4040e7347ae"
+  },
+  {
+    "played_at": "2026-11-01T23:50:09.376Z",
+    "track_id": "3tmrwNhOKNDMUVg1Z924Aq",
+    "track_name": "FLAMENCO",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737a6168e5d9d4d4040e7347ae"
+  },
+  {
+    "played_at": "2026-11-01T23:58:33.683Z",
+    "track_id": "0ByMNEPAPpOR5H69DVrTNy",
+    "track_name": "Don't Stop The Music",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98"
+  },
+  {
+    "played_at": "2026-11-02T00:04:53.985Z",
+    "track_id": "7p2raGiQopzdSeYnWLwehY",
+    "track_name": "Magic Metal Montana",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-02T00:13:09.104Z",
+    "track_id": "2vPCRs3g0vdLU8sHlAEytO",
+    "track_name": "Outrageous",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
+  },
+  {
+    "played_at": "2026-11-02T00:14:19.405Z",
+    "track_id": "3YiLcCiradlmM0444dErzn",
+    "track_name": "Hey Brendon",
+    "artists": [
+      "Ayesha Erotica"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735e4a4e08337fbba6762fc1ca"
+  },
+  {
+    "played_at": "2026-11-02T00:17:28.018Z",
+    "track_id": "6Y46tOTRhkBamosyuWa6YX",
+    "track_name": "LA FAMA",
+    "artists": [
+      "ROSALÍA",
+      "The Weeknd"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ac8367a27c0eb7195dc3a58d"
+  },
+  {
+    "played_at": "2026-11-02T00:20:05.607Z",
+    "track_id": "6SQd1XYZzTpmlB9f8meJC0",
+    "track_name": "Purrr",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738f073c98fe11320b662422a4"
+  },
+  {
+    "played_at": "2026-11-02T00:23:44.195Z",
+    "track_id": "0GO8y8jQk1PkHzS31d699N",
+    "track_name": "Tongue Tied",
+    "artists": [
+      "GROUPLOVE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b"
+  },
+  {
+    "played_at": "2026-11-02T00:27:11.613Z",
+    "track_id": "2vPCRs3g0vdLU8sHlAEytO",
+    "track_name": "Outrageous",
+    "artists": [
+      "Britney Spears"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
+  },
+  {
+    "played_at": "2026-11-02T00:31:37.713Z",
+    "track_id": "6RJiY28t9jWpdy1JkUhNgK",
+    "track_name": "Mequetrefe",
+    "artists": [
+      "Arca"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733fb118a60e7a487d5586b2d7"
   }
 ]
