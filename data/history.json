@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-09-28T10:17:13.442Z",
-    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
-    "track_name": "Love In The Dark",
-    "artists": [
-      "Adele"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
-  },
-  {
     "played_at": "2026-09-28T21:58:24.608Z",
     "track_id": "6SRsiMl7w1USE4mFqrOhHC",
     "track_name": "brutal",
@@ -12850,5 +12841,14 @@
       "Arca"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733fb118a60e7a487d5586b2d7"
+  },
+  {
+    "played_at": "2026-11-02T00:34:38.280Z",
+    "track_id": "70AYiGbc4mWZGEqiipBBDb",
+    "track_name": "CANDY",
+    "artists": [
+      "ROSALÍA"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273ac8367a27c0eb7195dc3a58d"
   }
 ]
