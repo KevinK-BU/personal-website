@@ -1,59 +1,5 @@
 [
   {
-    "played_at": "2026-09-29T19:30:42.297Z",
-    "track_id": "4EoJ151oQ5jY48z4RhSE96",
-    "track_name": "the cure",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
-  },
-  {
-    "played_at": "2026-09-29T19:33:58.352Z",
-    "track_id": "4KGGeE7RJsgLNZmnxGFlOj",
-    "track_name": "Falling Behind",
-    "artists": [
-      "Laufey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27348341e864d4b4881f56f01b4"
-  },
-  {
-    "played_at": "2026-09-29T19:37:07.938Z",
-    "track_id": "6QT6j7rKt7Vk3IuV2AUO9W",
-    "track_name": "lacy",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d"
-  },
-  {
-    "played_at": "2026-09-29T20:12:56.801Z",
-    "track_id": "0InIeZW4P6VO7dUGRM4AKH",
-    "track_name": "Sienna",
-    "artists": [
-      "The Marías"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-  },
-  {
-    "played_at": "2026-09-29T20:19:31.842Z",
-    "track_id": "1KuVEZR4xuQVNr1KkanAV4",
-    "track_name": "The Other Woman",
-    "artists": [
-      "Lana Del Rey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
-  },
-  {
-    "played_at": "2026-09-29T20:23:12.197Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
     "played_at": "2026-09-29T22:27:03.873Z",
     "track_id": "1BPpJdD11gsDQno045HBz0",
     "track_name": "No One Lasts Forever featuring David Cronenberg",
@@ -12880,5 +12826,69 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-11-03T15:43:36.397Z",
+    "track_id": "4fwJzG3arwvfC1ZbRdracJ",
+    "track_name": "Flo Jackson",
+    "artists": [
+      "Flo Milli"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27343399616dd0a4a8b79d6d8c3"
+  },
+  {
+    "played_at": "2026-11-03T15:52:19.655Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-11-03T15:54:01.587Z",
+    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
+    "track_name": "crank 2",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
+  },
+  {
+    "played_at": "2026-11-03T20:35:29.856Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-03T20:37:33.591Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-11-03T20:38:56.351Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-11-03T20:43:05.195Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
   }
 ]
