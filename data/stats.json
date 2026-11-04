@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-27T21:19:34.472Z",
-  "week_end": "2026-11-03T21:19:34.472Z",
-  "total_plays": 166,
+  "week_start": "2026-10-28T03:39:05.736Z",
+  "week_end": "2026-11-04T03:39:05.736Z",
+  "total_plays": 178,
   "top_track": {
-    "name": "Everything is romantic",
+    "name": "Camera",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 17,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+    "play_count": 20,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 65
-    },
-    {
-      "name": "Beyoncé",
-      "count": 9
+      "count": 83
     },
     {
       "name": "KATSEYE",
-      "count": 8
+      "count": 7
+    },
+    {
+      "name": "Beyoncé",
+      "count": 6
     }
   ],
-  "updated_at": "2026-11-03T21:19:34.473Z"
+  "updated_at": "2026-11-04T03:39:05.737Z"
 }
