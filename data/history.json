@@ -1,23 +1,5 @@
 [
   {
-    "played_at": "2026-09-30T16:09:53.401Z",
-    "track_id": "1KFVosfWWb6oic6sTx6Lxo",
-    "track_name": "Rock Music",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-09-30T16:10:57.956Z",
-    "track_id": "2SpEHTbUuebeLkgs9QB7Ue",
-    "track_name": "Jolene",
-    "artists": [
-      "Dolly Parton"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273220f3b1f40e3276662155f16"
-  },
-  {
     "played_at": "2026-09-30T20:22:52.153Z",
     "track_id": "1GnOfC2wWHGiui18OH0Mig",
     "track_name": "Waschesalon",
@@ -13082,5 +13064,34 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-04T05:16:38.493Z",
+    "track_id": "3WazefEHBjVsgnceB9TuAp",
+    "track_name": "This Is Me (The Reimagined Remix) [with Keala Settle, Kesha & Missy Elliott]",
+    "artists": [
+      "Keala Settle",
+      "Kesha",
+      "Missy Elliott"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737893f7df8b729ba6c8f6d983"
+  },
+  {
+    "played_at": "2026-11-04T16:05:35.557Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-04T16:08:25.979Z",
+    "track_id": "0xzBmAsCfu3AzX1W0GYtMJ",
+    "track_name": "Guess",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
   }
 ]
