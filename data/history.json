@@ -12958,5 +12958,52 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273fa1fb2582857abf6fbc01248"
+  },
+  {
+    "played_at": "2026-11-04T22:24:58.097Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-05T17:02:56.345Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-11-05T17:29:49.668Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-05T17:31:53.382Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-11-05T17:33:16.109Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   }
 ]
