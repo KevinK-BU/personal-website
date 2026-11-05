@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-28T18:57:49.721Z",
-  "week_end": "2026-11-04T18:57:49.721Z",
-  "total_plays": 183,
+  "week_start": "2026-10-29T00:34:32.539Z",
+  "week_end": "2026-11-05T00:34:32.539Z",
+  "total_plays": 185,
   "top_track": {
     "name": "Camera",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 20,
+    "play_count": 21,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 87
+      "count": 92
     },
     {
       "name": "KATSEYE",
       "count": 7
     },
     {
-      "name": "Beyoncé",
+      "name": "Rebecca Black",
       "count": 6
     }
   ],
-  "updated_at": "2026-11-04T18:57:49.722Z"
+  "updated_at": "2026-11-05T00:34:32.540Z"
 }
