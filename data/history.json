@@ -1,37 +1,5 @@
 [
   {
-    "played_at": "2026-10-01T23:38:02.691Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-01T23:43:06.513Z",
-    "track_id": "4QpGrDM7EsvbeaZ5G1Nu3j",
-    "track_name": "Count Contessa",
-    "artists": [
-      "Azealia Banks",
-      "Lone"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734d18e046e3af5a9d233cd774"
-  },
-  {
-    "played_at": "2026-10-01T23:45:51.982Z",
-    "track_id": "3XbNseJrIK8LzoTh4eA0Xf",
-    "track_name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
-    "artists": [
-      "Charli xcx",
-      "Big Freedia",
-      "cupcakKe",
-      "Brooke Candy",
-      "Pabllo Vittar"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d67f5dfe2e86a4cdae439ce"
-  },
-  {
     "played_at": "2026-10-02T14:21:05.029Z",
     "track_id": "4g6L1ng6OP24fgTRnK7E6W",
     "track_name": "I’m Afraid",
@@ -13005,5 +12973,52 @@
       "Shygirl"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-05T20:07:54.254Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-05T20:12:30.686Z",
+    "track_id": "6gR9K14ED3UuhVIu4t9LTk",
+    "track_name": "Ran Out",
+    "artists": [
+      "JT"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aea1d64afd33362ce90788c3"
+  },
+  {
+    "played_at": "2026-11-05T20:15:08.549Z",
+    "track_id": "6nx4f2nVmFNWquoMtUrdYX",
+    "track_name": "Von dutch a. g. cook remix featuring addison rae",
+    "artists": [
+      "Charli xcx",
+      "Addison Rae",
+      "A. G. Cook"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-05T20:17:30.081Z",
+    "track_id": "6DoGtGyDgv5mVxeCpP92tX",
+    "track_name": "Kitty Kat",
+    "artists": [
+      "Megan Thee Stallion"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735a274df64b0672ff84f02ac6"
+  },
+  {
+    "played_at": "2026-11-05T23:46:50.407Z",
+    "track_id": "76iUSvF96Plu0764Jjc6xL",
+    "track_name": "Cockiness (Love It)",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273bef074de9ca825bddaeb9f46"
   }
 ]
