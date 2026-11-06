@@ -1,68 +1,5 @@
 [
   {
-    "played_at": "2026-10-02T14:21:05.029Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-02T14:23:49.823Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-02T14:46:20.435Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-02T15:06:13.553Z",
-    "track_id": "3BxWKCI06eQ5Od8TY2JBeA",
-    "track_name": "Buttons",
-    "artists": [
-      "The Pussycat Dolls"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
-  },
-  {
-    "played_at": "2026-10-02T15:09:42.653Z",
-    "track_id": "0YGQ3hZcRLC5YX7o0hdmHg",
-    "track_name": "Naughty Girl",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1"
-  },
-  {
-    "played_at": "2026-10-02T15:12:33.503Z",
-    "track_id": "5ww65ORP2faNi9ygUjxwId",
-    "track_name": "Money Honey",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0"
-  },
-  {
-    "played_at": "2026-10-02T15:13:01.071Z",
-    "track_id": "21pySLskKIKrhDziCX5ojQ",
-    "track_name": "When I Grow Up",
-    "artists": [
-      "The Pussycat Dolls"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736d87f7b4c9ef7218c07df53c"
-  },
-  {
     "played_at": "2026-10-02T20:30:20.934Z",
     "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
     "track_name": "cigarette smoke",
@@ -13029,5 +12966,24 @@
       "Aretha Franklin"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733443b2f12a45d9a05b0d7c33"
+  },
+  {
+    "played_at": "2026-11-06T18:27:31.362Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-06T18:36:36.546Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-30T11:39:43.217Z",
-  "week_end": "2026-11-06T11:39:43.217Z",
-  "total_plays": 162,
+  "week_start": "2026-10-30T18:36:58.766Z",
+  "week_end": "2026-11-06T18:36:58.766Z",
+  "total_plays": 164,
   "top_track": {
     "name": "Camera",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 91
+      "count": 93
     },
     {
       "name": "Shygirl",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Slayyyter",
       "count": 5
     }
   ],
-  "updated_at": "2026-11-06T11:39:43.218Z"
+  "updated_at": "2026-11-06T18:36:58.766Z"
 }
