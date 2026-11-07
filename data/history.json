@@ -1,77 +1,5 @@
 [
   {
-    "played_at": "2026-10-03T20:44:33.656Z",
-    "track_id": "1uvyZBs4IZYRebHIB1747m",
-    "track_name": "Purple Rain",
-    "artists": [
-      "Prince"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
-  },
-  {
-    "played_at": "2026-10-03T20:57:55.346Z",
-    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
-    "track_name": "Total Eclipse of the Heart",
-    "artists": [
-      "Bonnie Tyler"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
-  },
-  {
-    "played_at": "2026-10-03T21:02:11.800Z",
-    "track_id": "5Ctzx0mMiUPAu9JqbAOY9n",
-    "track_name": "Be Like a Woman",
-    "artists": [
-      "Chris Rainbow"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b01318919e207e569f69c1a2"
-  },
-  {
-    "played_at": "2026-10-03T21:07:51.085Z",
-    "track_id": "7GK2KVYH8FrTC9zehmjVMd",
-    "track_name": "Ring My Bell",
-    "artists": [
-      "Anita Ward"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368"
-  },
-  {
-    "played_at": "2026-10-03T21:34:03.113Z",
-    "track_id": "7GK2KVYH8FrTC9zehmjVMd",
-    "track_name": "Ring My Bell",
-    "artists": [
-      "Anita Ward"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368"
-  },
-  {
-    "played_at": "2026-10-03T22:36:44.952Z",
-    "track_id": "3BucMqBqIR5Aw7MrUkF00y",
-    "track_name": "Ain't No Way",
-    "artists": [
-      "Aretha Franklin"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733443b2f12a45d9a05b0d7c33"
-  },
-  {
-    "played_at": "2026-10-03T22:45:06.223Z",
-    "track_id": "5K09WxKdlkroDyEVyOSySy",
-    "track_name": "(You Make Me Feel Like) A Natural Woman",
-    "artists": [
-      "Aretha Franklin"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2739e5af96086574b76499dcf70"
-  },
-  {
-    "played_at": "2026-10-03T22:49:59.130Z",
-    "track_id": "52FlwUMMDnTK8TGkCag9Jd",
-    "track_name": "Stop! In The Name Of Love",
-    "artists": [
-      "The Supremes"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f784c1334630d76b06a0d1b3"
-  },
-  {
     "played_at": "2026-10-04T00:40:14.005Z",
     "track_id": "21C6u4k9di4S7w4JsQS1k7",
     "track_name": "On Your Mind (feat. Lil Yachty)",
@@ -13464,5 +13392,97 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-07T06:30:24.411Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-11-07T17:27:24.568Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-07T22:12:12.519Z",
+    "track_id": "3h5T5JypYU7huFiVYhv1dr",
+    "track_name": "BbY WOW",
+    "artists": [
+      "KAROL G",
+      "Judeline",
+      "rusowsky"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368"
+  },
+  {
+    "played_at": "2026-11-07T22:19:01.033Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-07T22:50:52.669Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-07T22:53:09.998Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-07T22:57:35.675Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-07T22:59:42.892Z",
+    "track_id": "7GVLyPEpJtQZiYt95LF0ng",
+    "track_name": "2007",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-07T23:01:54.370Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-07T23:04:11.711Z",
+    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
+    "track_name": "Yeah",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
