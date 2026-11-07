@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-10-31T03:30:30.716Z",
-  "week_end": "2026-11-07T03:30:30.716Z",
-  "total_plays": 160,
+  "week_start": "2026-10-31T10:45:09.665Z",
+  "week_end": "2026-11-07T10:45:09.665Z",
+  "total_plays": 205,
   "top_track": {
     "name": "Camera",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 25,
+    "play_count": 45,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 101
+      "count": 145
     },
     {
       "name": "Shygirl",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Rihanna",
       "count": 5
     }
   ],
-  "updated_at": "2026-11-07T03:30:30.717Z"
+  "updated_at": "2026-11-07T10:45:09.666Z"
 }
