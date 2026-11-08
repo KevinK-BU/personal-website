@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-01T02:59:29.678Z",
-  "week_end": "2026-11-08T02:59:29.678Z",
-  "total_plays": 218,
+  "week_start": "2026-11-01T10:49:39.617Z",
+  "week_end": "2026-11-08T10:49:39.617Z",
+  "total_plays": 216,
   "top_track": {
     "name": "Camera",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 160
+      "count": 162
     },
     {
       "name": "Shygirl",
-      "count": 10
+      "count": 11
     },
     {
       "name": "Lady Gaga",
       "count": 4
     }
   ],
-  "updated_at": "2026-11-08T02:59:29.679Z"
+  "updated_at": "2026-11-08T10:49:39.619Z"
 }
