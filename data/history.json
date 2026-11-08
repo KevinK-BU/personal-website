@@ -1,79 +1,5 @@
 [
   {
-    "played_at": "2026-10-04T10:52:32.278Z",
-    "track_id": "3ZCTVFBt2Brf31RLEnCkWJ",
-    "track_name": "everything i wanted",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249"
-  },
-  {
-    "played_at": "2026-10-04T10:56:20.604Z",
-    "track_id": "72cGBEqu7RitIOoACXYjfR",
-    "track_name": "The Blonde",
-    "artists": [
-      "TV Girl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84"
-  },
-  {
-    "played_at": "2026-10-04T10:58:12.756Z",
-    "track_id": "5gDWsRxpJ2lZAffh5p7K0w",
-    "track_name": "Stargirl Interlude",
-    "artists": [
-      "The Weeknd",
-      "Lana Del Rey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a"
-  },
-  {
-    "played_at": "2026-10-04T11:01:58.001Z",
-    "track_id": "46IZ0fSY2mpAiktS3KOqds",
-    "track_name": "Easy On Me",
-    "artists": [
-      "Adele"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7"
-  },
-  {
-    "played_at": "2026-10-04T11:05:41.535Z",
-    "track_id": "4kX7xkopoXZCfE1D6fNwl2",
-    "track_name": "honeybee",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
-    "played_at": "2026-10-04T11:09:58.859Z",
-    "track_id": "7mDTvYD2ieE4Q28XFziMfJ",
-    "track_name": "Cry",
-    "artists": [
-      "Cigarettes After Sex"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7"
-  },
-  {
-    "played_at": "2026-10-04T11:12:22.683Z",
-    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
-    "track_name": "Guess featuring billie eilish",
-    "artists": [
-      "Charli xcx",
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-10-04T11:16:32.116Z",
-    "track_id": "0QPdjsMOUhwouq1NS3HwfQ",
-    "track_name": "Coming Up Roses",
-    "artists": [
-      "Harry Styles"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27374959140f550b11049c18a38"
-  },
-  {
     "played_at": "2026-10-04T17:59:06.646Z",
     "track_id": "1GnOfC2wWHGiui18OH0Mig",
     "track_name": "Waschesalon",
@@ -12953,5 +12879,23 @@
       "Shygirl"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-08T03:25:17.483Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-08T16:05:43.096Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   }
 ]
