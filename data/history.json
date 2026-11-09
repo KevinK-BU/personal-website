@@ -1,32 +1,5 @@
 [
   {
-    "played_at": "2026-10-05T02:48:11.690Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
-    "played_at": "2026-10-05T02:52:11.711Z",
-    "track_id": "6MNwXWX1d2k8ARllRJ5Ezt",
-    "track_name": "FVN!",
-    "artists": [
-      "LVL1"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2731dc30e47335d00e57fe0267b"
-  },
-  {
-    "played_at": "2026-10-05T02:54:18.308Z",
-    "track_id": "5hgnY0mVcVetszbb85qeDg",
-    "track_name": "Partition",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
-  },
-  {
     "played_at": "2026-10-05T22:11:43.797Z",
     "track_id": "50nNyORqALhcOWAlccFGa3",
     "track_name": "Literal Legend - 2",
@@ -12888,5 +12861,169 @@
       "Donna Summer"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273dfda0715a34f49501dfc97a0"
+  },
+  {
+    "played_at": "2026-11-08T23:28:51.597Z",
+    "track_id": "3jYW03V9XeM2w7LJ0EXQDC",
+    "track_name": "Cockiness (Love It)",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef"
+  },
+  {
+    "played_at": "2026-11-09T00:44:49.502Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-09T01:28:37.361Z",
+    "track_id": "0UHB9METy4VCXNgkcGqHqS",
+    "track_name": "Kiss It Better",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
+  },
+  {
+    "played_at": "2026-11-09T01:36:51.819Z",
+    "track_id": "4Tn2llBm1g0UlWctmgPL8Z",
+    "track_name": "Shut Up And Drive",
+    "artists": [
+      "Rihanna"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98"
+  },
+  {
+    "played_at": "2026-11-09T01:39:08.223Z",
+    "track_id": "3OaFGqHUyxGVkOcSILw8Kx",
+    "track_name": "I think about it all the time",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-11-09T01:47:46.832Z",
+    "track_id": "53hNzjDClsnsdYpLIwqXvn",
+    "track_name": "Video Phone",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+  },
+  {
+    "played_at": "2026-11-09T01:51:39.978Z",
+    "track_id": "4rYLpaNFzt6pkQnrCvVHUw",
+    "track_name": "G.U.Y.",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522"
+  },
+  {
+    "played_at": "2026-11-09T01:56:26.443Z",
+    "track_id": "7B5Npv8NjjTCzk8PLpU66h",
+    "track_name": "Love In The Dark",
+    "artists": [
+      "Adele"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
+  },
+  {
+    "played_at": "2026-11-09T02:04:03.552Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-09T02:09:13.755Z",
+    "track_id": "0dlP9SnqQa5k1A9mReybFb",
+    "track_name": "Treat Me Like A Slut",
+    "artists": [
+      "Kim Petras"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4bbea930ec98602a528f9ea"
+  },
+  {
+    "played_at": "2026-11-09T02:15:25.562Z",
+    "track_id": "6FFHObl8rAxig1QZewCTXN",
+    "track_name": "Wink Wink",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-09T02:17:38.825Z",
+    "track_id": "1fKT7RUtOf4xNEqctEFe5L",
+    "track_name": "Barbie Dangerous",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
+  },
+  {
+    "played_at": "2026-11-09T02:23:25.827Z",
+    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
+    "track_name": "my way",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-11-09T02:25:51.429Z",
+    "track_id": "3ly60iOVqcsdtlMhQ8FcE1",
+    "track_name": "AMEN",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
+  },
+  {
+    "played_at": "2026-11-09T02:41:21.585Z",
+    "track_id": "1GnOfC2wWHGiui18OH0Mig",
+    "track_name": "Waschesalon",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
+  },
+  {
+    "played_at": "2026-11-09T02:45:26.486Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-11-09T02:47:49.729Z",
+    "track_id": "6gR9K14ED3UuhVIu4t9LTk",
+    "track_name": "Ran Out",
+    "artists": [
+      "JT"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aea1d64afd33362ce90788c3"
+  },
+  {
+    "played_at": "2026-11-09T02:59:34.345Z",
+    "track_id": "1W7023CuJrWPbD4q2Sipoh",
+    "track_name": "what’s wrong with me",
+    "artists": [
+      "Olivia Rodrigo",
+      "Robert Smith"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
   }
 ]
