@@ -1,19 +1,19 @@
 {
-  "week_start": "2026-11-02T12:15:08.865Z",
-  "week_end": "2026-11-09T12:15:08.865Z",
-  "total_plays": 220,
+  "week_start": "2026-11-02T23:52:59.529Z",
+  "week_end": "2026-11-09T23:52:59.529Z",
+  "total_plays": 205,
   "top_track": {
     "name": "Camera",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 49,
+    "play_count": 47,
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 159
+      "count": 155
     },
     {
       "name": "Shygirl",
@@ -21,8 +21,8 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 7
+      "count": 8
     }
   ],
-  "updated_at": "2026-11-09T12:15:08.866Z"
+  "updated_at": "2026-11-09T23:52:59.530Z"
 }
