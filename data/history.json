@@ -1,59 +1,5 @@
 [
   {
-    "played_at": "2026-10-06T20:01:41.373Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
-    "played_at": "2026-10-06T20:04:28.066Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
-    "played_at": "2026-10-06T20:06:26.162Z",
-    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
-    "track_name": "Girl Like Me",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-10-06T20:09:34.174Z",
-    "track_id": "6I9VzXrHxO9rA9A5euc8Ak",
-    "track_name": "Toxic",
-    "artists": [
-      "Britney Spears"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4"
-  },
-  {
-    "played_at": "2026-10-06T20:12:15.728Z",
-    "track_id": "5c9tBmJKbTdn1vhzXHeAwW",
-    "track_name": "Sympathy is a knife",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-10-06T20:28:35.109Z",
-    "track_id": "0TcJ7QWpggdSg8t0fHThHm",
-    "track_name": "LoveGame",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0"
-  },
-  {
     "played_at": "2026-10-06T21:45:31.764Z",
     "track_id": "1GnOfC2wWHGiui18OH0Mig",
     "track_name": "Waschesalon",
