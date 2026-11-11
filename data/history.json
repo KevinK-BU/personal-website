@@ -11721,5 +11721,23 @@
       "Harry Styles"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27325180571abce9472f61bd722"
+  },
+  {
+    "played_at": "2026-11-11T16:01:32.371Z",
+    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
+    "track_name": "purple",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-11-11T16:04:26.311Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
