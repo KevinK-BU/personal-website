@@ -1,41 +1,5 @@
 [
   {
-    "played_at": "2026-10-08T16:06:06.194Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
-    "played_at": "2026-10-08T16:09:38.595Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-08T16:13:03.432Z",
-    "track_id": "4Ilw2lD6z4WBqh65vUUZUf",
-    "track_name": "my way",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-10-08T16:19:22.909Z",
-    "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
-    "track_name": "stupid song",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
-  },
-  {
     "played_at": "2026-10-08T23:39:40.155Z",
     "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
     "track_name": "Dying for You",
@@ -11773,5 +11737,14 @@
       "Olivia Rodrigo"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-11-12T17:29:42.779Z",
+    "track_id": "6B9vc7gkNV2deK7snl9OUg",
+    "track_name": "is love for me?",
+    "artists": [
+      "Erika Tinsley"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b531aa7349bc495598218e6b"
   }
 ]
