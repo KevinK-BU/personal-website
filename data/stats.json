@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-05T01:42:54.813Z",
-  "week_end": "2026-11-12T01:42:54.813Z",
-  "total_plays": 186,
+  "week_start": "2026-11-05T11:57:03.750Z",
+  "week_end": "2026-11-12T11:57:03.750Z",
+  "total_plays": 187,
   "top_track": {
     "name": "Camera",
     "artists": [
@@ -17,12 +17,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Shygirl",
       "count": 9
     }
   ],
-  "updated_at": "2026-11-12T01:42:54.814Z"
+  "updated_at": "2026-11-12T11:57:03.751Z"
 }
