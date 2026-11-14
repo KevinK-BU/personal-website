@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-06T18:52:08.184Z",
-  "week_end": "2026-11-13T18:52:08.184Z",
-  "total_plays": 193,
+  "week_start": "2026-11-07T00:31:10.541Z",
+  "week_end": "2026-11-14T00:31:10.541Z",
+  "total_plays": 188,
   "top_track": {
     "name": "Camera",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 105
+      "count": 99
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 9
     }
   ],
-  "updated_at": "2026-11-13T18:52:08.185Z"
+  "updated_at": "2026-11-14T00:31:10.542Z"
 }
