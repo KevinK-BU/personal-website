@@ -1,14 +1,5 @@
 [
   {
-    "played_at": "2026-10-11T22:02:50.447Z",
-    "track_id": "5hgnY0mVcVetszbb85qeDg",
-    "track_name": "Partition",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
-  },
-  {
     "played_at": "2026-10-13T14:51:34.633Z",
     "track_id": "0UHB9METy4VCXNgkcGqHqS",
     "track_name": "Kiss It Better",
@@ -11367,5 +11358,115 @@
       "Erika Tinsley"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273b531aa7349bc495598218e6b"
+  },
+  {
+    "played_at": "2026-11-15T21:55:03.764Z",
+    "track_id": "36qMpN0uYHAfhFd4hrFeQI",
+    "track_name": "why",
+    "artists": [
+      "Erika Tinsley"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b531aa7349bc495598218e6b"
+  },
+  {
+    "played_at": "2026-11-15T22:06:07.022Z",
+    "track_id": "22l7ocwYpEYGvYpM9T2C5K",
+    "track_name": "maggots for brains",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-11-15T22:12:09.249Z",
+    "track_id": "5kBGilh4XiQoAW44eUWz0R",
+    "track_name": "all-american bitch - Live From Rehearsal",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab6742d3000053b759f743685824b26d2dffbca6"
+  },
+  {
+    "played_at": "2026-11-15T22:18:31.432Z",
+    "track_id": "4EoJ151oQ5jY48z4RhSE96",
+    "track_name": "the cure",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a"
+  },
+  {
+    "played_at": "2026-11-15T22:21:35.727Z",
+    "track_id": "6QT6j7rKt7Vk3IuV2AUO9W",
+    "track_name": "lacy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d"
+  },
+  {
+    "played_at": "2026-11-15T22:25:33.062Z",
+    "track_id": "7aWeQwHSMD6TzPOepi1tlb",
+    "track_name": "Fallin 4 U",
+    "artists": [
+      "Nicki Minaj"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273651e1dbc0b5218f2306181a1"
+  },
+  {
+    "played_at": "2026-11-15T22:30:10.405Z",
+    "track_id": "21C6u4k9di4S7w4JsQS1k7",
+    "track_name": "On Your Mind (feat. Lil Yachty)",
+    "artists": [
+      "FKA twigs",
+      "Lil Yachty"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+  },
+  {
+    "played_at": "2026-11-15T22:33:28.811Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-15T22:35:32.414Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
+  },
+  {
+    "played_at": "2026-11-15T22:36:55.161Z",
+    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
+  },
+  {
+    "played_at": "2026-11-15T22:40:00.122Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-15T22:44:28.252Z",
+    "track_id": "0hHDMvLvoJh8gYbJIi182A",
+    "track_name": "Sushi",
+    "artists": [
+      "FKA twigs"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
   }
 ]
