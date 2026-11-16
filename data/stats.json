@@ -1,29 +1,28 @@
 {
-  "week_start": "2026-11-08T23:37:27.984Z",
-  "week_end": "2026-11-15T23:37:27.984Z",
-  "total_plays": 141,
+  "week_start": "2026-11-09T03:30:40.227Z",
+  "week_end": "2026-11-16T03:30:40.227Z",
+  "total_plays": 144,
   "top_track": {
-    "name": "On Your Mind (feat. Lil Yachty)",
+    "name": "Dying for You",
     "artists": [
-      "FKA twigs",
-      "Lil Yachty"
+      "Charli xcx"
     ],
-    "play_count": 11,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27336698027f85abc9007ca544b"
+    "play_count": 12,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 34
+      "count": 36
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 19
+      "count": 18
     },
     {
       "name": "FKA twigs",
       "count": 12
     }
   ],
-  "updated_at": "2026-11-15T23:37:27.985Z"
+  "updated_at": "2026-11-16T03:30:40.228Z"
 }
