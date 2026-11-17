@@ -1,160 +1,5 @@
 [
   {
-    "played_at": "2026-10-13T14:51:34.633Z",
-    "track_id": "0UHB9METy4VCXNgkcGqHqS",
-    "track_name": "Kiss It Better",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
-  },
-  {
-    "played_at": "2026-10-13T14:58:57.590Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-13T15:01:04.194Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-10-13T15:02:27Z",
-    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-10-13T15:13:55.567Z",
-    "track_id": "5oO3drDxtziYU2H1X23ZIp",
-    "track_name": "Love On The Brain",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
-  },
-  {
-    "played_at": "2026-10-13T15:15:16.089Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
-    "played_at": "2026-10-13T16:14:08.362Z",
-    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
-    "track_name": "Camera",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-13T16:15:52.293Z",
-    "track_id": "5yZEkyUXbyFCHzrQTH5Ssw",
-    "track_name": "Bow Down - Homecoming Live",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27364e39bcda6ca921efdea9490"
-  },
-  {
-    "played_at": "2026-10-13T16:19:29.979Z",
-    "track_id": "0N7tCm0qrH7JFmDfwkRfRI",
-    "track_name": "Yeah",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-13T16:33:21.926Z",
-    "track_id": "4HQMNDSYtXgZvsCHIsuWTS",
-    "track_name": "Persona",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-13T16:37:03.836Z",
-    "track_id": "5QezP0xNWDI7j2UKYxdT2K",
-    "track_name": "Can I Get a Bump",
-    "artists": [
-      "Ayesha Erotica"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733c97fd259cddc29a14aa28ce"
-  },
-  {
-    "played_at": "2026-10-13T16:42:55.204Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
-    "played_at": "2026-10-13T16:45:27.067Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
-    "played_at": "2026-10-13T16:49:54.263Z",
-    "track_id": "0QkWikH5Z3U0f79T9iuF6c",
-    "track_name": "Judas",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd"
-  },
-  {
-    "played_at": "2026-10-13T16:55:24.866Z",
-    "track_id": "1RFXENx9ILC6PECmNhEstC",
-    "track_name": "ScheiBe",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
-  },
-  {
-    "played_at": "2026-10-13T17:00:24.122Z",
-    "track_id": "5FMXrphygZ4z3gVDHGWxgl",
-    "track_name": "Copacabana (At the Copa) - Short Version",
-    "artists": [
-      "Barry Manilow"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273668d9bd8f9a446d3d9e5e4a1"
-  },
-  {
-    "played_at": "2026-10-13T17:05:52.287Z",
-    "track_id": "6gR9K14ED3UuhVIu4t9LTk",
-    "track_name": "Ran Out",
-    "artists": [
-      "JT"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273aea1d64afd33362ce90788c3"
-  },
-  {
     "played_at": "2026-10-13T17:10:44.432Z",
     "track_id": "6SRsiMl7w1USE4mFqrOhHC",
     "track_name": "brutal",
@@ -11907,5 +11752,14 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-17T13:59:32.510Z",
+    "track_id": "1oFiPGBafH9Woo9AMwgBSl",
+    "track_name": "I'm Every Woman",
+    "artists": [
+      "Chaka Khan"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273622e8921ae2d4a48b508be5e"
   }
 ]
