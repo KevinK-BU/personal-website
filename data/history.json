@@ -11853,5 +11853,59 @@
       "Billie Eilish"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
+  },
+  {
+    "played_at": "2026-11-17T00:26:09.112Z",
+    "track_id": "16xRAbH0vI3iKvDEhWQ4ZO",
+    "track_name": "less",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583"
+  },
+  {
+    "played_at": "2026-11-17T00:45:09.486Z",
+    "track_id": "3BnMfPPWs59CVfcQ8CcdfR",
+    "track_name": "begged",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+  },
+  {
+    "played_at": "2026-11-17T00:52:57.402Z",
+    "track_id": "3l2S2RkGG4lbh7WqmCV3NB",
+    "track_name": "Ride",
+    "artists": [
+      "Lana Del Rey"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64"
+  },
+  {
+    "played_at": "2026-11-17T02:12:32.766Z",
+    "track_id": "1kuGVB7EU95pJObxwvfwKS",
+    "track_name": "vampire",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d"
+  },
+  {
+    "played_at": "2026-11-17T04:28:37.138Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-17T04:31:25.496Z",
+    "track_id": "5Fdj0DtH4ZhymltyN5xEv2",
+    "track_name": "Camera",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   }
 ]
