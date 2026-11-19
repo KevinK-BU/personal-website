@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-11T22:44:33.086Z",
-  "week_end": "2026-11-18T22:44:33.086Z",
-  "total_plays": 150,
+  "week_start": "2026-11-12T04:49:03.125Z",
+  "week_end": "2026-11-19T04:49:03.125Z",
+  "total_plays": 144,
   "top_track": {
     "name": "On Your Mind (feat. Lil Yachty)",
     "artists": [
@@ -18,12 +18,12 @@
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 23
+      "count": 20
     },
     {
       "name": "FKA twigs",
       "count": 11
     }
   ],
-  "updated_at": "2026-11-18T22:44:33.087Z"
+  "updated_at": "2026-11-19T04:49:03.127Z"
 }
