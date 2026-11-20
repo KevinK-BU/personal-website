@@ -1,19 +1,19 @@
 {
-  "week_start": "2026-11-13T12:17:38.595Z",
-  "week_end": "2026-11-20T12:17:38.595Z",
-  "total_plays": 161,
+  "week_start": "2026-11-13T22:24:47.200Z",
+  "week_end": "2026-11-20T22:24:47.200Z",
+  "total_plays": 158,
   "top_track": {
     "name": "Dying for You",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 9,
+    "play_count": 10,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 54
+      "count": 56
     },
     {
       "name": "Olivia Rodrigo",
@@ -21,8 +21,8 @@
     },
     {
       "name": "FKA twigs",
-      "count": 9
+      "count": 8
     }
   ],
-  "updated_at": "2026-11-20T12:17:38.598Z"
+  "updated_at": "2026-11-20T22:24:47.202Z"
 }

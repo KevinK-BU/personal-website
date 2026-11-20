@@ -1,59 +1,5 @@
 [
   {
-    "played_at": "2026-10-16T16:34:04.282Z",
-    "track_id": "7GgWAITsYJaRM3r50rfh5w",
-    "track_name": "When We Were Young",
-    "artists": [
-      "Adele"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2"
-  },
-  {
-    "played_at": "2026-10-16T17:08:22.710Z",
-    "track_id": "2YnAGIMGnRgipGeNtFpi7n",
-    "track_name": "You (Ha Ha Ha)",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab6742d3000053b7b828c98f966ec444d371675e"
-  },
-  {
-    "played_at": "2026-10-16T17:19:17.922Z",
-    "track_id": "3BxWKCI06eQ5Od8TY2JBeA",
-    "track_name": "Buttons",
-    "artists": [
-      "The Pussycat Dolls"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cc44129c3b11adec74058d6"
-  },
-  {
-    "played_at": "2026-10-16T18:46:20.689Z",
-    "track_id": "2YnAGIMGnRgipGeNtFpi7n",
-    "track_name": "You (Ha Ha Ha)",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab6742d3000053b7b828c98f966ec444d371675e"
-  },
-  {
-    "played_at": "2026-10-16T18:55:18.457Z",
-    "track_id": "2Y6U158gVXfvqNWOLdis0R",
-    "track_name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
-  },
-  {
-    "played_at": "2026-10-16T19:27:43.385Z",
-    "track_id": "4XYCWx98N3h7Y4FtDFmpd5",
-    "track_name": "purple",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
     "played_at": "2026-10-16T23:48:24.539Z",
     "track_id": "1GnOfC2wWHGiui18OH0Mig",
     "track_name": "Waschesalon",
@@ -9817,5 +9763,41 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-20T17:20:46.560Z",
+    "track_id": "6gR9K14ED3UuhVIu4t9LTk",
+    "track_name": "Ran Out",
+    "artists": [
+      "JT"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aea1d64afd33362ce90788c3"
+  },
+  {
+    "played_at": "2026-11-20T20:54:54.996Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-11-20T20:57:53.286Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-20T21:22:13.145Z",
+    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
+    "track_name": "Club classics",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
   }
 ]
