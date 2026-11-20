@@ -1,61 +1,5 @@
 [
   {
-    "played_at": "2026-10-16T02:06:12.821Z",
-    "track_id": "6ldwfK0yWgTAlmIfuQkTYN",
-    "track_name": "I'm a Slave 4 U",
-    "artists": [
-      "Britney Spears"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273801ce9753a4f30a71fedb0fd"
-  },
-  {
-    "played_at": "2026-10-16T02:15:39.608Z",
-    "track_id": "4Q6K6M0HSiRboY3C97AxD4",
-    "track_name": "Let's Have A Kiki",
-    "artists": [
-      "Scissor Sisters"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27343ce56fe66b67e250ab3c7c8"
-  },
-  {
-    "played_at": "2026-10-16T02:21:11.049Z",
-    "track_id": "4nTYxxF8iWBq54LO3dBUie",
-    "track_name": "Rhythm Nation",
-    "artists": [
-      "Janet Jackson"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27371511473d9e34fcdc13d90ef"
-  },
-  {
-    "played_at": "2026-10-16T02:25:13.018Z",
-    "track_id": "41v23mPw4Se92JKUGvnkmW",
-    "track_name": "On The Radio",
-    "artists": [
-      "Donna Summer"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2731f9e9f704f7dc5bfd0063e72"
-  },
-  {
-    "played_at": "2026-10-16T02:28:50.651Z",
-    "track_id": "4bczJ3GBiORXUoeJ1rdXV4",
-    "track_name": "Cold Hearted - 7\" Edit",
-    "artists": [
-      "Paula Abdul"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2731288d33d98dc7ee7eff8077d"
-  },
-  {
-    "played_at": "2026-10-16T02:33:14.709Z",
-    "track_id": "7Jilzv5KVTsFzBntCuXBYw",
-    "track_name": "I Learned from the Best - HQ2 Radio Mix",
-    "artists": [
-      "Whitney Houston",
-      "Hex Hector",
-      "Mac Quayle"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273290675d8c126d571cb02bc79"
-  },
-  {
     "played_at": "2026-10-16T16:34:04.282Z",
     "track_id": "7GgWAITsYJaRM3r50rfh5w",
     "track_name": "When We Were Young",
@@ -9809,5 +9753,69 @@
       "Nicki Minaj"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2734f0aae4e435a794e0e24d115"
+  },
+  {
+    "played_at": "2026-11-19T20:57:16.802Z",
+    "track_id": "4oy98QoABnGKpvapDkI525",
+    "track_name": "Turning Tables",
+    "artists": [
+      "Adele"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f"
+  },
+  {
+    "played_at": "2026-11-20T02:19:26.712Z",
+    "track_id": "3FZoov0ORtnr8TznSNI1y2",
+    "track_name": "brand new chanel$",
+    "artists": [
+      "Slayyyter"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733103722365f06b955e03d7a8"
+  },
+  {
+    "played_at": "2026-11-20T02:23:03.014Z",
+    "track_id": "6vN1m5odSN3tIFmcR6Y73v",
+    "track_name": "Headlock - 20th Anniversary Remaster",
+    "artists": [
+      "Imogen Heap"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273c8cb2bce57487ea8e70b0727"
+  },
+  {
+    "played_at": "2026-11-20T02:26:58.313Z",
+    "track_id": "0UV5zxRMz6AO4ZwUOZNIKI",
+    "track_name": "Where'd All the Time Go?",
+    "artists": [
+      "Dr. Dog"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2730478062bc04df0947d232fcb"
+  },
+  {
+    "played_at": "2026-11-20T02:30:15.302Z",
+    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
+    "track_name": "I’m Afraid",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-20T02:35:28.945Z",
+    "track_id": "5xyaPwLmgoyGlDDu2H0Uix",
+    "track_name": "365 featuring shygirl",
+    "artists": [
+      "Charli xcx",
+      "Shygirl"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-20T02:36:28.974Z",
+    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
+    "track_name": "Vroom Vroom",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
   }
 ]
