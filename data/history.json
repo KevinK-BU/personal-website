@@ -1,171 +1,5 @@
 [
   {
-    "played_at": "2026-10-18T18:14:20.120Z",
-    "track_id": "0UHB9METy4VCXNgkcGqHqS",
-    "track_name": "Kiss It Better",
-    "artists": [
-      "Rihanna"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736be9bac15995f089579074de"
-  },
-  {
-    "played_at": "2026-10-18T18:18:26.305Z",
-    "track_id": "1xWH8zYtDeS9mW1JJG23VZ",
-    "track_name": "R.E.M",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394"
-  },
-  {
-    "played_at": "2026-10-18T18:23:23.933Z",
-    "track_id": "2vdBo4ALPYbHRUPKgtE5iC",
-    "track_name": "ghostin",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27356ac7b86e090f307e218e9c8"
-  },
-  {
-    "played_at": "2026-10-18T18:27:33.376Z",
-    "track_id": "3RIgHHpnFKj5Rni1shokDj",
-    "track_name": "Norman fucking Rockwell",
-    "artists": [
-      "Lana Del Rey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9"
-  },
-  {
-    "played_at": "2026-10-18T18:31:21.484Z",
-    "track_id": "41zXlQxzTi6cGAjpOXyLYH",
-    "track_name": "idontwannabeyouanymore",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795"
-  },
-  {
-    "played_at": "2026-10-18T18:36:44.172Z",
-    "track_id": "4EWBhKf1fOFnyMtUzACXEc",
-    "track_name": "Pluto Projector",
-    "artists": [
-      "Rex Orange County"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273bf6bb9e37fd5aaa8f8559f07"
-  },
-  {
-    "played_at": "2026-10-18T18:41:07.361Z",
-    "track_id": "59Y1f3y8FuLjadWY9Bx2LC",
-    "track_name": "Letter To My 13 Year Old Self",
-    "artists": [
-      "Laufey"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
-  },
-  {
-    "played_at": "2026-10-18T18:47:04.819Z",
-    "track_id": "3GYlZ7tbxLOxe6ewMNVTkw",
-    "track_name": "TV",
-    "artists": [
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318"
-  },
-  {
-    "played_at": "2026-10-18T18:54:12.733Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-18T18:56:19.331Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-10-18T18:57:42.076Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
-    "played_at": "2026-10-18T18:59:22.765Z",
-    "track_id": "5hyq3LBlCfjRQAFkdQwe8o",
-    "track_name": "Vroom Vroom",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
-  },
-  {
-    "played_at": "2026-10-18T20:48:54.999Z",
-    "track_id": "78jrpGKYNsfqjEtuVUFifU",
-    "track_name": "PARTY b4 the PARTY",
-    "artists": [
-      "World Scout: The Final Piece"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2737f462ebe8c949697a267434b"
-  },
-  {
-    "played_at": "2026-10-18T20:53:46.305Z",
-    "track_id": "3h5T5JypYU7huFiVYhv1dr",
-    "track_name": "BbY WOW",
-    "artists": [
-      "KAROL G",
-      "Judeline",
-      "rusowsky"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27321deb742375f88edfb2e7368"
-  },
-  {
-    "played_at": "2026-10-18T20:58:08.261Z",
-    "track_id": "5BBkvXH2jYROUzKIB7WX7S",
-    "track_name": "intro (end of the world) - extended",
-    "artists": [
-      "Ariana Grande"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9"
-  },
-  {
-    "played_at": "2026-10-18T21:02:08.475Z",
-    "track_id": "4mUR5Tv0CvJtpmnUtzeIgd",
-    "track_name": "Garden Of Eden",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c"
-  },
-  {
-    "played_at": "2026-10-18T21:17:46.166Z",
-    "track_id": "6Sy9BUbgFse0n0LPA5lwy5",
-    "track_name": "Sandstorm",
-    "artists": [
-      "Darude"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f9ef39657ba18c612641ee6d"
-  },
-  {
-    "played_at": "2026-10-18T21:20:27.883Z",
-    "track_id": "0whmIaItqkT8e5PVuPyhvT",
-    "track_name": "Perfect (Exceeder)",
-    "artists": [
-      "Mason",
-      "Princess Superstar"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27356f172b6281ca7791cf0993c"
-  },
-  {
     "played_at": "2026-10-18T21:24:31.974Z",
     "track_id": "7ySUcLPVX7KudhnmNcgY2D",
     "track_name": "S&M",
@@ -9948,5 +9782,14 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-22T03:56:54.770Z",
+    "track_id": "2eQFYGegTZaObk2kuBz83Z",
+    "track_name": "Tú Con Él",
+    "artists": [
+      "Rauw Alejandro"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273a6224f2f93c0ab4b2e01b44b"
   }
 ]
