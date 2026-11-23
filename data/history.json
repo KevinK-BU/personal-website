@@ -1,78 +1,5 @@
 [
   {
-    "played_at": "2026-10-19T17:00:40.315Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-19T17:03:35.442Z",
-    "track_id": "4HQMNDSYtXgZvsCHIsuWTS",
-    "track_name": "Persona",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-19T17:07:05.302Z",
-    "track_id": "22ML0MuFKfw16WejbxsLOy",
-    "track_name": "Heartbreaker",
-    "artists": [
-      "Pat Benatar"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732b6cfe6027c990887aadedfc"
-  },
-  {
-    "played_at": "2026-10-19T17:11:12.939Z",
-    "track_id": "0xL3tjPSUJncbnIOn1uPhZ",
-    "track_name": "Dark Lady",
-    "artists": [
-      "Cher"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273adb809bc080b729ce950d174"
-  },
-  {
-    "played_at": "2026-10-19T17:16:21.418Z",
-    "track_id": "4g6L1ng6OP24fgTRnK7E6W",
-    "track_name": "I’m Afraid",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-19T17:22:18.798Z",
-    "track_id": "1BPpJdD11gsDQno045HBz0",
-    "track_name": "No One Lasts Forever featuring David Cronenberg",
-    "artists": [
-      "Charli xcx",
-      "David Cronenberg"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
-  },
-  {
-    "played_at": "2026-10-19T17:26:29.261Z",
-    "track_id": "5pyoxDZ1PX0KxBxiRVxA4U",
-    "track_name": "BREAK MY SOUL",
-    "artists": [
-      "Beyoncé"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27369a3c061676c2020adfe8315"
-  },
-  {
-    "played_at": "2026-10-19T18:30:27.950Z",
-    "track_id": "4I4p4iwxzFzdiz1WOZdZk7",
-    "track_name": "Luna Llena",
-    "artists": [
-      "Arca"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b27375c74be55ef76b844f6dbbbb"
-  },
-  {
     "played_at": "2026-10-19T22:20:59.852Z",
     "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
     "track_name": "Dying for You",
@@ -9530,5 +9457,14 @@
       "Charli xcx"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+  },
+  {
+    "played_at": "2026-11-23T03:07:42.381Z",
+    "track_id": "0TsCBkrq3owPs06HP5Q9Z4",
+    "track_name": "RIIVERDANCE",
+    "artists": [
+      "Beyoncé"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273208e593c3565dae1295b5a26"
   }
 ]
