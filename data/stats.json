@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-11-15T21:22:35.235Z",
-  "week_end": "2026-11-22T21:22:35.235Z",
-  "total_plays": 155,
+  "week_start": "2026-11-16T04:25:45.612Z",
+  "week_end": "2026-11-23T04:25:45.612Z",
+  "total_plays": 147,
   "top_track": {
-    "name": "Dying for You",
+    "name": "Camera",
     "artists": [
       "Charli xcx"
     ],
-    "play_count": 10,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+    "play_count": 9,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 61
+      "count": 60
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 21
+      "count": 17
     },
     {
-      "name": "FKA twigs",
+      "name": "Slayyyter",
       "count": 7
     }
   ],
-  "updated_at": "2026-11-22T21:22:35.237Z"
+  "updated_at": "2026-11-23T04:25:45.614Z"
 }
