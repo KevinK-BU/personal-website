@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-17T04:28:59.164Z",
-  "week_end": "2026-11-24T04:28:59.164Z",
-  "total_plays": 123,
+  "week_start": "2026-11-17T19:14:43.677Z",
+  "week_end": "2026-11-24T19:14:43.677Z",
+  "total_plays": 120,
   "top_track": {
     "name": "Trophy",
     "artists": [
@@ -13,7 +13,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 56
+      "count": 55
     },
     {
       "name": "Olivia Rodrigo",
@@ -24,5 +24,5 @@
       "count": 6
     }
   ],
-  "updated_at": "2026-11-24T04:28:59.164Z"
+  "updated_at": "2026-11-24T19:14:43.678Z"
 }
