@@ -1,28 +1,28 @@
 {
-  "week_start": "2026-11-16T19:35:18.815Z",
-  "week_end": "2026-11-23T19:35:18.815Z",
-  "total_plays": 147,
+  "week_start": "2026-11-17T04:28:59.164Z",
+  "week_end": "2026-11-24T04:28:59.164Z",
+  "total_plays": 123,
   "top_track": {
-    "name": "Camera",
+    "name": "Trophy",
     "artists": [
       "Charli xcx"
     ],
     "play_count": 9,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273238e2ff91714a8db91b8a64d"
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 60
+      "count": 56
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 17
+      "count": 9
     },
     {
       "name": "Slayyyter",
-      "count": 7
+      "count": 6
     }
   ],
-  "updated_at": "2026-11-23T19:35:18.817Z"
+  "updated_at": "2026-11-24T04:28:59.164Z"
 }
