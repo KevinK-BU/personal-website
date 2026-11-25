@@ -1,29 +1,29 @@
 {
-  "week_start": "2026-11-18T13:40:41.710Z",
-  "week_end": "2026-11-25T13:40:41.710Z",
-  "total_plays": 147,
+  "week_start": "2026-11-18T23:50:52.717Z",
+  "week_end": "2026-11-25T23:50:52.717Z",
+  "total_plays": 148,
   "top_track": {
     "name": "Club classics featuring bb trickz",
     "artists": [
       "Charli xcx",
       "Bb trickz"
     ],
-    "play_count": 11,
+    "play_count": 12,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 59
-    },
-    {
-      "name": "Olivia Rodrigo",
-      "count": 11
+      "count": 61
     },
     {
       "name": "Bb trickz",
+      "count": 12
+    },
+    {
+      "name": "Teriyaki Boyz",
       "count": 11
     }
   ],
-  "updated_at": "2026-11-25T13:40:41.711Z"
+  "updated_at": "2026-11-25T23:50:52.718Z"
 }
