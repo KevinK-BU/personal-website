@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-17T19:14:43.677Z",
-  "week_end": "2026-11-24T19:14:43.677Z",
-  "total_plays": 120,
+  "week_start": "2026-11-18T03:13:20.803Z",
+  "week_end": "2026-11-25T03:13:20.803Z",
+  "total_plays": 127,
   "top_track": {
     "name": "Trophy",
     "artists": [
@@ -13,16 +13,16 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 55
+      "count": 45
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 9
+      "count": 12
     },
     {
-      "name": "Slayyyter",
-      "count": 6
+      "name": "Ariana Grande",
+      "count": 8
     }
   ],
-  "updated_at": "2026-11-24T19:14:43.678Z"
+  "updated_at": "2026-11-25T03:13:20.804Z"
 }
