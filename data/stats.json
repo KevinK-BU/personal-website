@@ -1,28 +1,29 @@
 {
-  "week_start": "2026-11-18T03:13:20.803Z",
-  "week_end": "2026-11-25T03:13:20.803Z",
-  "total_plays": 127,
+  "week_start": "2026-11-18T13:40:41.710Z",
+  "week_end": "2026-11-25T13:40:41.710Z",
+  "total_plays": 147,
   "top_track": {
-    "name": "Trophy",
+    "name": "Club classics featuring bb trickz",
     "artists": [
-      "Charli xcx"
+      "Charli xcx",
+      "Bb trickz"
     ],
-    "play_count": 9,
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+    "play_count": 11,
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 45
+      "count": 59
     },
     {
       "name": "Olivia Rodrigo",
-      "count": 12
+      "count": 11
     },
     {
-      "name": "Ariana Grande",
-      "count": 8
+      "name": "Bb trickz",
+      "count": 11
     }
   ],
-  "updated_at": "2026-11-25T03:13:20.804Z"
+  "updated_at": "2026-11-25T13:40:41.711Z"
 }
