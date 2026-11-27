@@ -1,29 +1,29 @@
 {
-  "week_start": "2026-11-19T17:56:23.858Z",
-  "week_end": "2026-11-26T17:56:23.858Z",
-  "total_plays": 145,
+  "week_start": "2026-11-20T02:30:42.280Z",
+  "week_end": "2026-11-27T02:30:42.280Z",
+  "total_plays": 133,
   "top_track": {
     "name": "Club classics featuring bb trickz",
     "artists": [
       "Charli xcx",
       "Bb trickz"
     ],
-    "play_count": 12,
+    "play_count": 14,
     "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
   },
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 59
+      "count": 49
     },
     {
       "name": "Bb trickz",
-      "count": 12
+      "count": 14
     },
     {
       "name": "Teriyaki Boyz",
-      "count": 11
+      "count": 12
     }
   ],
-  "updated_at": "2026-11-26T17:56:23.859Z"
+  "updated_at": "2026-11-27T02:30:42.280Z"
 }

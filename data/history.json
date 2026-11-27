@@ -1,383 +1,5 @@
 [
   {
-    "played_at": "2026-10-22T19:30:41.288Z",
-    "track_id": "3V0PgcsUMlAGXwCD0084pY",
-    "track_name": "pink diamond",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
-  },
-  {
-    "played_at": "2026-10-22T19:31:08.556Z",
-    "track_id": "6Ou2HNjSmOQHShb22AJRmk",
-    "track_name": "I Don't Sell - Records Remix",
-    "artists": [
-      "umru",
-      "Chase Icon",
-      "JEL: The Digital Dream Girl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273856095a60f4404ef411607ee"
-  },
-  {
-    "played_at": "2026-10-22T19:31:25.863Z",
-    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
-    "track_name": "crank 2",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
-  },
-  {
-    "played_at": "2026-10-22T19:34:14.569Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-10-22T19:35:33.282Z",
-    "track_id": "0CySZwyRJ0vyUqtSjM9i2k",
-    "track_name": "Club classics",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59"
-  },
-  {
-    "played_at": "2026-10-22T19:36:00.551Z",
-    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
-    "track_name": "Deli",
-    "artists": [
-      "Ice Spice"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
-  },
-  {
-    "played_at": "2026-10-22T19:43:30.159Z",
-    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
-    "track_name": "Hootie Frutti",
-    "artists": [
-      "KATSEYE"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
-  },
-  {
-    "played_at": "2026-10-22T19:44:07.032Z",
-    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
-    "track_name": "Trophy",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
-  },
-  {
-    "played_at": "2026-10-22T19:47:00.918Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:47:34.335Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:48:33.057Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:51:40.434Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:52:04.610Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:52:35.362Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:53:00.954Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:53:23.140Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:54:10.464Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:54:44.320Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:55:11.215Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:55:36.157Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:55:58.025Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:56:26.389Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:59:29.628Z",
-    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
-    "track_name": "Dying for You",
-    "artists": [
-      "Charli xcx"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
-  },
-  {
-    "played_at": "2026-10-22T19:59:57.824Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
-    "played_at": "2026-10-22T20:00:25.027Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
-    "played_at": "2026-10-22T20:00:57.727Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
-    "played_at": "2026-10-22T20:02:19.393Z",
-    "track_id": "1RFXENx9ILC6PECmNhEstC",
-    "track_name": "ScheiBe",
-    "artists": [
-      "Lady Gaga"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8"
-  },
-  {
-    "played_at": "2026-10-22T20:02:39.331Z",
-    "track_id": "0hHDMvLvoJh8gYbJIi182A",
-    "track_name": "Sushi",
-    "artists": [
-      "FKA twigs"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2736089c0f46246e83c090eb0ad"
-  },
-  {
-    "played_at": "2026-10-22T20:02:50.975Z",
-    "track_id": "7aYGCP34Xo6XujY7Ix1DxB",
-    "track_name": "Girl Like Me",
-    "artists": [
-      "PinkPantheress"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2732a6a5bd7ec690d91a384245d"
-  },
-  {
-    "played_at": "2026-10-22T20:04:01.857Z",
-    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
-    "track_name": "Guess featuring billie eilish",
-    "artists": [
-      "Charli xcx",
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-10-22T20:05:18.125Z",
-    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
-    "track_name": "Guess featuring billie eilish",
-    "artists": [
-      "Charli xcx",
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-10-22T20:06:09.605Z",
-    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
-    "track_name": "Guess featuring billie eilish",
-    "artists": [
-      "Charli xcx",
-      "Billie Eilish"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
-  },
-  {
-    "played_at": "2026-10-22T20:07:38.026Z",
-    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
-    "track_name": "No Comma",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
-  },
-  {
-    "played_at": "2026-10-22T20:09:57.933Z",
-    "track_id": "33Wh5qaiRVWuVIDnGGNlHh",
-    "track_name": "No Comma",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738e55d9e420d58f84bbdcfa91"
-  },
-  {
-    "played_at": "2026-10-22T20:10:35.627Z",
-    "track_id": "5JZnjM9ijpit0d5zjT8MM7",
-    "track_name": "Satisfaction",
-    "artists": [
-      "Benny Benassi",
-      "The Biz"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273209d819070f60c3daa45cd6b"
-  },
-  {
-    "played_at": "2026-10-22T20:16:32.630Z",
-    "track_id": "5JYPXqMwYc0zTODQdjMEZN",
-    "track_name": "Deli",
-    "artists": [
-      "Ice Spice"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733a696fc544995ab8d0d6765f"
-  },
-  {
-    "played_at": "2026-10-22T20:19:00.425Z",
-    "track_id": "6LMdNshhDtSq5pUSlPjTsE",
-    "track_name": "crank 2",
-    "artists": [
-      "Slayyyter"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733f1b3ae41c6946ad1f98902f"
-  },
-  {
-    "played_at": "2026-10-22T20:19:13.995Z",
-    "track_id": "1GnOfC2wWHGiui18OH0Mig",
-    "track_name": "Waschesalon",
-    "artists": [
-      "Rebecca Black"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2730de2fb7fcc6d57fb60f58b9a"
-  },
-  {
-    "played_at": "2026-10-22T21:02:36.522Z",
-    "track_id": "3BucMqBqIR5Aw7MrUkF00y",
-    "track_name": "Ain't No Way",
-    "artists": [
-      "Aretha Franklin"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2733443b2f12a45d9a05b0d7c33"
-  },
-  {
-    "played_at": "2026-10-22T21:07:48.120Z",
-    "track_id": "7wuJGgpTNzbUyn26IOY6rj",
-    "track_name": "Total Eclipse of the Heart",
-    "artists": [
-      "Bonnie Tyler"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96"
-  },
-  {
-    "played_at": "2026-10-22T23:04:02.704Z",
-    "track_id": "1vCBk33l9HaWp5FOnhSGxk",
-    "track_name": "I Feel Love",
-    "artists": [
-      "Donna Summer"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273dfda0715a34f49501dfc97a0"
-  },
-  {
     "played_at": "2026-10-23T16:44:38.804Z",
     "track_id": "6SQd1XYZzTpmlB9f8meJC0",
     "track_name": "Purrr",
@@ -8242,5 +7864,161 @@
       "Teriyaki Boyz"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48"
+  },
+  {
+    "played_at": "2026-11-25T16:10:58.665Z",
+    "track_id": "4t9PBD27dndlf6YMBK2ROc",
+    "track_name": "Track 10",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273da30209ea35caf1d46931818"
+  },
+  {
+    "played_at": "2026-11-26T19:05:13.847Z",
+    "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
+    "track_name": "Dying for You",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735048960108f204f627b294b4"
+  },
+  {
+    "played_at": "2026-11-26T19:12:07.204Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-11-26T19:14:29.916Z",
+    "track_id": "2zbtUOuh8lREqhg8JCRrhs",
+    "track_name": "Club classics featuring bb trickz",
+    "artists": [
+      "Charli xcx",
+      "Bb trickz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-26T19:15:54.407Z",
+    "track_id": "2zbtUOuh8lREqhg8JCRrhs",
+    "track_name": "Club classics featuring bb trickz",
+    "artists": [
+      "Charli xcx",
+      "Bb trickz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-26T19:17:08.149Z",
+    "track_id": "5iJfzXKvQXlYOBtEQhEmpA",
+    "track_name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+    "artists": [
+      "Teriyaki Boyz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48"
+  },
+  {
+    "played_at": "2026-11-26T19:28:35.193Z",
+    "track_id": "3z5fPVImx59TSttFEDZbFJ",
+    "track_name": "Meet Her at the Loveparade - Radio Edit",
+    "artists": [
+      "Da Hool"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731fac67a8afb56f7a42d24dcd"
+  },
+  {
+    "played_at": "2026-11-26T19:29:17.894Z",
+    "track_id": "2Km5bhOuAWctboSc7w6Lur",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b0ebd92e279013e2a37ae1c"
+  },
+  {
+    "played_at": "2026-11-26T19:29:35.493Z",
+    "track_id": "2Km5bhOuAWctboSc7w6Lur",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b0ebd92e279013e2a37ae1c"
+  },
+  {
+    "played_at": "2026-11-26T19:30:04.990Z",
+    "track_id": "2Km5bhOuAWctboSc7w6Lur",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b0ebd92e279013e2a37ae1c"
+  },
+  {
+    "played_at": "2026-11-26T19:30:43.798Z",
+    "track_id": "2Km5bhOuAWctboSc7w6Lur",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b0ebd92e279013e2a37ae1c"
+  },
+  {
+    "played_at": "2026-11-26T19:31:13.592Z",
+    "track_id": "2Km5bhOuAWctboSc7w6Lur",
+    "track_name": "Sugar Water Cyanide",
+    "artists": [
+      "Rebecca Black"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731b0ebd92e279013e2a37ae1c"
+  },
+  {
+    "played_at": "2026-11-26T19:31:51.791Z",
+    "track_id": "3NxXZVLBdHsNMOaTvBaF3b",
+    "track_name": "Hootie Frutti",
+    "artists": [
+      "KATSEYE"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273afd4b9af9abd97c746ba6d74"
+  },
+  {
+    "played_at": "2026-11-26T19:32:13.396Z",
+    "track_id": "3LcH7UHXAstKd0qUDdlRQa",
+    "track_name": "Trophy",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273be3d4a410e269695fb181e87"
+  },
+  {
+    "played_at": "2026-11-26T19:32:48.394Z",
+    "track_id": "3z5fPVImx59TSttFEDZbFJ",
+    "track_name": "Meet Her at the Loveparade - Radio Edit",
+    "artists": [
+      "Da Hool"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2731fac67a8afb56f7a42d24dcd"
+  },
+  {
+    "played_at": "2026-11-26T19:33:42.798Z",
+    "track_id": "0IsIY8pfu1yaGkPUD7pkDx",
+    "track_name": "Guess featuring billie eilish",
+    "artists": [
+      "Charli xcx",
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-27T02:18:16.536Z",
+    "track_id": "0JiY190vktuhSGN6aqJdrt",
+    "track_name": "So What",
+    "artists": [
+      "P!nk"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735a45d5041e4ffcb9f756f740"
   }
 ]
