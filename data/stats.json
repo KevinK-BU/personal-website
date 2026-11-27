@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-20T13:15:05.226Z",
-  "week_end": "2026-11-27T13:15:05.226Z",
-  "total_plays": 131,
+  "week_start": "2026-11-20T23:47:51.348Z",
+  "week_end": "2026-11-27T23:47:51.348Z",
+  "total_plays": 126,
   "top_track": {
     "name": "Club classics featuring bb trickz",
     "artists": [
@@ -14,7 +14,7 @@
   "top_artists": [
     {
       "name": "Charli xcx",
-      "count": 47
+      "count": 45
     },
     {
       "name": "Bb trickz",
@@ -25,5 +25,5 @@
       "count": 12
     }
   ],
-  "updated_at": "2026-11-27T13:15:05.227Z"
+  "updated_at": "2026-11-27T23:47:51.349Z"
 }
