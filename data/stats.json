@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-11-21T05:16:31.983Z",
-  "week_end": "2026-11-28T05:16:31.983Z",
-  "total_plays": 135,
+  "week_start": "2026-11-21T16:27:32.803Z",
+  "week_end": "2026-11-28T16:27:32.803Z",
+  "total_plays": 134,
   "top_track": {
     "name": "Club classics featuring bb trickz",
     "artists": [
@@ -25,5 +25,5 @@
       "count": 13
     }
   ],
-  "updated_at": "2026-11-28T05:16:31.984Z"
+  "updated_at": "2026-11-28T16:27:32.804Z"
 }
