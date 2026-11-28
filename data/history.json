@@ -1,33 +1,5 @@
 [
   {
-    "played_at": "2026-10-24T00:02:37.794Z",
-    "track_id": "0e4u0sFRGxHL4U2iFBrUvZ",
-    "track_name": "cigarette smoke",
-    "artists": [
-      "Olivia Rodrigo"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-  },
-  {
-    "played_at": "2026-10-24T00:02:57.307Z",
-    "track_id": "5Y35SjAfXjjG0sFQ3KOxmm",
-    "track_name": "Nobody Gets Me",
-    "artists": [
-      "SZA"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
-  },
-  {
-    "played_at": "2026-10-24T03:07:43.755Z",
-    "track_id": "4GvIHtWAavGmq5WkWpvroZ",
-    "track_name": "365 featuring shygirl",
-    "artists": [
-      "Charli xcx",
-      "Shygirl"
-    ],
-    "album_art": "https://i.scdn.co/image/ab67616d0000b273e2e5b6545fc8a2e4fdb9cbc9"
-  },
-  {
     "played_at": "2026-10-24T19:21:04.666Z",
     "track_id": "0T3sHoiR3t9HtwbIOgTI7J",
     "track_name": "Dying for You",
@@ -7612,5 +7584,87 @@
       "P!nk"
     ],
     "album_art": "https://i.scdn.co/image/ab67616d0000b2735a45d5041e4ffcb9f756f740"
+  },
+  {
+    "played_at": "2026-11-28T01:50:34.720Z",
+    "track_id": "3V0PgcsUMlAGXwCD0084pY",
+    "track_name": "pink diamond",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2735b8ef3c9b30d307df5245bfa"
+  },
+  {
+    "played_at": "2026-11-28T01:52:57.422Z",
+    "track_id": "2zbtUOuh8lREqhg8JCRrhs",
+    "track_name": "Club classics featuring bb trickz",
+    "artists": [
+      "Charli xcx",
+      "Bb trickz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2738ac99f88ebc09b1f1637dc00"
+  },
+  {
+    "played_at": "2026-11-28T01:55:19.525Z",
+    "track_id": "5iJfzXKvQXlYOBtEQhEmpA",
+    "track_name": "Tokyo Drift (Fast & Furious) - From \"The Fast And The Furious: Tokyo Drift\" Soundtrack",
+    "artists": [
+      "Teriyaki Boyz"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733892a55b29583746e1b4cd48"
+  },
+  {
+    "played_at": "2026-11-28T01:57:52.737Z",
+    "track_id": "6ArVJSQ1sFiER2g0OtgU27",
+    "track_name": "Disco Stick",
+    "artists": [
+      "Dj Tameil"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273fc326db1a96863e632c33628"
+  },
+  {
+    "played_at": "2026-11-28T02:00:18.698Z",
+    "track_id": "0D6VCA9ycrkk9kH9F0p0AB",
+    "track_name": "Roll with Me",
+    "artists": [
+      "Charli xcx"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2733107626c80c093c70f903206"
+  },
+  {
+    "played_at": "2026-11-28T02:10:10.924Z",
+    "track_id": "6LJYBq1h5GElQO4sKFdRA9",
+    "track_name": "serena joy",
+    "artists": [
+      "Olivia Rodrigo"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273aeb1724f09a75effb3879bf8"
+  },
+  {
+    "played_at": "2026-11-28T02:16:03.631Z",
+    "track_id": "66O0pFEFp23dgYjoAd6RKK",
+    "track_name": "The Big Big Beat",
+    "artists": [
+      "Azealia Banks"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b2737e4f8688f66f740111420970"
+  },
+  {
+    "played_at": "2026-11-28T02:24:20.514Z",
+    "track_id": "2Y6U158gVXfvqNWOLdis0R",
+    "track_name": "L’AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+    "artists": [
+      "Billie Eilish"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273b4f4348caa31224b51b95dfe"
+  },
+  {
+    "played_at": "2026-11-28T03:57:40.356Z",
+    "track_id": "09VMgxIhiWqEyI9JQQIr55",
+    "track_name": "Melatonin",
+    "artists": [
+      "Tinashe"
+    ],
+    "album_art": "https://i.scdn.co/image/ab67616d0000b273f8dc54881b35310061266cdf"
   }
 ]
